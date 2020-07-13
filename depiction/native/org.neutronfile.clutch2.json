@@ -94,7 +94,14 @@
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
-        }
+        }{
+          "URL": "https://apt.neutronfile.org/images/logo.svg",
+          "width": 44,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
+        },
       ],
       "class": "DepictionStackView"
     }
