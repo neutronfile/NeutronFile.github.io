@@ -7,17 +7,14 @@
       "tabname": "Details",
       "views": [
         {
-          "class": "DepictionVideoView",
-          "VideoView": [
-            {
-              "url": "https://www.youtube.com/embed/Lq061zT56F0",
-              "accessibilityText": "VideoView0"
-            }
-          ],
-          "itemCornerRadius": 8,
-          "itemSize": "{160,275}"
+          "URL": "https://www.youtube.com/embed/Lq061zT56F0",
+          "width": 160,
+          "height": 275,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionVideoView"
         },
-        {
+          {
           "markdown": "Crack app to ipa on terminal .cmd1: Clutch2 ,cmd2:Clutch2 -i & cmd3: Clutch2 -d .",
           "useSpacing": "true",
           "class": "DepictionMarkdownView"
@@ -95,7 +92,7 @@
           "fontSize": "10.0",
           "alignment": 1
         }{
-          "URL": "https://apt.neutronfile.org/images/logo.svg",
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logo.svg",
           "width": 44,
           "height": 27,
           "alignment": 1,
