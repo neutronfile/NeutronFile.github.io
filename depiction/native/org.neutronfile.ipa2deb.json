@@ -18,7 +18,7 @@
           "itemSize": "{160,275}"
         },
         {
-          "markdown": "Convert IPA to DEB into any terminal cmd show video tutorials".",
+          "markdown": "Convert IPA to DEB into any terminal cmd show video tutorials",
           "useSpacing": "true",
           "class": "DepictionMarkdownView"
         },
@@ -55,7 +55,7 @@
         {
           "class": "DepictionTableButtonView",
           "title": "Donate",
-          "action": "https://www.paypal.com/donate/?token=DZ6RkrP9ILf0-mmAsKnyCt_VJU8xUZxQ-wvq9Z3UyUwlofDl7PeKSAlmpUjPTe1r2hFjqW&country.x=MA&locale.x=",
+          "action": "https://paypal.me/elhizazi1",
           "openExternal": "true",
           "tintColor": "#477D76"
         },
