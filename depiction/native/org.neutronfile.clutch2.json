@@ -95,7 +95,8 @@
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
-        }{
+        },
+        {
           "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
           "width": 44,
           "height": 27,
