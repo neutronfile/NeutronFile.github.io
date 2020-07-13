@@ -1,0 +1,103 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://i.imgur.com/wHhGl48.png",
+  "tintColor": "#477D76",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://www.youtube.com/embed/p8xQHMSafl0",
+              "accessibilityText": "Screenshot0"
+            }
+          ],
+          "itemCornerRadius": 8,
+          "itemSize": "{160,275}"
+        },
+        {
+          "markdown": "bash command to repack deb file Easy Repack deb files. type debextract/debmount on terminal to unmount/mount deb file on /var/mobile/Documents/deb/.",
+          "useSpacing": "true",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "Julioveren"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0-1a"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "iOS 7 to 13"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Development"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Donate",
+          "action": "https://www.paypal.com/donate/?token=DZ6RkrP9ILf0-mmAsKnyCt_VJU8xUZxQ-wvq9Z3UyUwlofDl7PeKSAlmpUjPTe1r2hFjqW&country.x=MA&locale.x=",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "Free",
+          "title": "Price",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Deb Repack  1.0-1a – Updated 2020-06",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Changelog"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "1.0-1a~stabel.! Full support for iOS 13.4."
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Deb Repack 1.0-1a – Updated 2020-06",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}

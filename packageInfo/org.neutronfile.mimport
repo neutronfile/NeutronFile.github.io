@@ -1,0 +1,8 @@
+{   "name": "MImport",
+	"desc_short": "Media Importer Directly From Music App",
+	"compatitle": "iOS 8, 9, 10 & 11 & 12 & 13",
+	"changelog": "<strong>0.0~beta38</strong>",
+	"screenshot": "<iframe width='100%' height='95%' src='https://www.youtube.com/embed/NEtXmK5jDMs' frameborder='0' allow='accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture' allowfullscreen></iframe>",
+	"open": true,
+
+	}

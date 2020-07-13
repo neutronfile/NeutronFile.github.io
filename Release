@@ -1,0 +1,15 @@
+Origin: NeutronFile
+Label: Neutronfile
+Suite: stable
+Version: 1.0
+Codename: NeutronFile
+Architecture: iphoneos-arm
+Components: main
+Twitter: @NeutronFile <http://twitter.com/NeutronFile
+Wibsite: NeutronFile.org <https://neutronfile.org/>
+Donate: @elhizazi1 <https://paypal.me/elhizazi1>
+Description: NeutronFile Best Repo for all Packaging! Cydia + Sileo + Installer + Zebra!.
+MD5sum: 78c594185b690634719f54694b7ec741 23450 Packages
+MD5sum: 581a8e64f336982c82c2bbd4938d41e1 6441 Packages.bz2 
+MD5sum: f7b440a06e80001967bd04e0e99e05f1 6448 Packages.xz
+MD5sum: 2bf5f2f7a55988a37b31f58467d4fc67 6374 Packages.lzma

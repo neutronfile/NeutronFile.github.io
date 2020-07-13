@@ -1,0 +1,103 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://i.imgur.com/wHhGl48.png",
+  "tintColor": "#477D76",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://www.youtube.com/embed/6scz7f71CNA",
+              "accessibilityText": "Screenshot0"
+            }
+          ],
+          "itemCornerRadius": 8,
+          "itemSize": "{160,275}"
+        },
+        {
+          "markdown": "Repackage any of your tweaks locally, without the need to download it from Cydia again. This is super usefull when there is an update of your until now perfectly working tweak in Cydia and you want to make a backup of the version installed. Normally you wouldn't be able to backup anything because it is possible to fetch only the most current version of your tweak and so you would be lost. Not anymore :))).",
+          "useSpacing": "true",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "NeutronFile"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.0.4E"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "iOS 7 to 13"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Development"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Donate",
+          "action": "https://www.paypal.com/donate/?token=DZ6RkrP9ILf0-mmAsKnyCt_VJU8xUZxQ-wvq9Z3UyUwlofDl7PeKSAlmpUjPTe1r2hFjqW&country.x=MA&locale.x=",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "Free",
+          "title": "Price",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Re Deb  – Updated 2020-06",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Changelog"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "1.0.4E~stabel.! Full support for iOS 13.4."
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Re Deb 1.0.4E – Updated 2020-06",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}

@@ -1,0 +1,103 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://i.imgur.com/4forDJS.jpg",
+  "tintColor": "#477D76",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://www.youtube.com/embed/5Ig9iC-iBBg",
+              "accessibilityText": "Screenshot0"
+            }
+          ],
+          "itemCornerRadius": 8,
+          "itemSize": "{160,275}"
+        },
+        {
+          "markdown": "custom NewTerm color schemes with ansi color codes.",
+          "useSpacing": "true",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "NeutronFile"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "0.0.2E"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "iOS 8 to 13"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Tweaks"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Donate",
+          "action": "https://www.paypal.com/donate/?token=DZ6RkrP9ILf0-mmAsKnyCt_VJU8xUZxQ-wvq9Z3UyUwlofDl7PeKSAlmpUjPTe1r2hFjqW&country.x=MA&locale.x=",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "Free",
+          "title": "Price",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Re Deb 0.0.2E – Updated 2020-06",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Changelog"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "0.0.2E~stabel.! Full support for iOS 13.4."
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Re Deb 0.0.2E – Updated 2020-06",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}

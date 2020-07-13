@@ -1,0 +1,118 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+       "url":"https://i.imgur.com/wMbOirb.png",
+       "title":"Safari Plus",
+       "package":"org.neutronfile.safariplus",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/IfeACU1.png",
+       "title":"BegoneCIA (ios 11, 12 and 13)",
+       "package":"org.neutronfile.begonecia-11",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/S5YwbdX.png",
+       "title":"Checkra1n Respring Logo",
+       "package":"org.neutronfile.checkra1n-respring-logo",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/wHhGl48.png",
+       "title":"ADs Blocker",
+       "package":"org.neutronfile.adblock",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/wHhGl48.png",
+       "title":"Clutch",
+       "package":"org.neutronfile.clutch2",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/wHhGl48.png",
+       "title":"Deb Repack",
+       "package":"org.neutronfile.debrepack",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/wHhGl48.png",
+       "title":"InApp Purchases iOS 10.x",
+       "package":"org.neutronfile.inapp",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/wHhGl48.png",
+       "title":"IPA to Deb",
+       "package":"org.neutronfile.ipa2deb",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/4forDJS.jpg",
+       "title":"NewTerm Theme Manager",
+       "package":"org.neutronfile.newtermtm",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/gtZDxzI.png",
+       "title":"CrackTool4 (iOS 12)",
+       "package":"org.neutronfile.cracktool4",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/wHhGl48.png",
+       "title":"IPAPatcher",
+       "package":"org.neutronfile.ipapatcher",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/M2710Iq.png",
+       "title":"Lynx",
+       "package":"org.neutronfile.lynx",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/alCeOT6.jpg",
+       "title":"DarkTheme",
+       "package":"org.neutronfile.darktheme",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/wHhGl48.png",
+       "title":"JBMe 10.x Webclip",
+       "package":"org.neutronfile.jbme10xwebclip",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/gtZDxzI.png",
+       "title":"CrackTool3 (iOS 11)",
+       "package":"org.neutronfile.cracktool3",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/wHhGl48.png",
+       "title":"Jailbreak carrier",
+       "package":"org.neutronfile.jbzcarrier",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/wHhGl48.png",
+       "title":"Localiapstore13",
+       "package":"org.neutronfile.localiapstore13",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/qXc23qV.png",
+       "title":"MImport",
+       "package":"org.neutronfile.mimport",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/wHhGl48.png",
+       "title":"Redeb",
+       "package":"org.neutronfile.redeb",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/clDLhVM.png",
+       "title":"ReProvision",
+       "package":"org.neutronfile.reprovision",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/wHhGl48.png",
+       "title":"Lynx-arabic",
+       "package":"org.neutronfile.lynx-ar",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/wHhGl48.png",
+       "title":"Redeb",
+       "package":"org.neutronfile.redeb",
+       "hideShadow":false
+    },
+  ]
+}

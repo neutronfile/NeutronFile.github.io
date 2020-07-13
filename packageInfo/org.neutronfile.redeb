@@ -1,0 +1,7 @@
+{   "name": "redeb",
+	"desc_short": "Repackage any of your tweaks locally, without the need to download it from Cydia again. This is super usefull when there is an update of your until now perfectly working tweak in Cydia and you want to make a backup of the version installed. Normally you wouldn't be able to backup anything because it is possible to fetch only the most current version of your tweak and so you would be lost. Not anymore :))).",
+	"compatitle": "ios < 7.0",
+	"changelog": "<strong>1.0.4E</strong>",
+	"screenshot": "<iframe width='100%' height='95%' src='https://www.youtube.com/embed/6scz7f71CNA' frameborder='0' allow='accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture' allowfullscreen></iframe>",
+	"open": true,
+	}

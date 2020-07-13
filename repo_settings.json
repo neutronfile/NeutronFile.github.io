@@ -1,0 +1,14 @@
+{
+  "name": "NeutronFile",
+  "description": "NeutronFile Best Repo for all Packageing! Cydia + Sileo + Installer + Zebra!.",
+  "tint": "#477D76",
+  "cname": "apt.neutronfile.org",
+  "maintainer": {
+    "name": "NeutronFile",
+    "email": "neutronfile19@gmail.com",
+    "Twitter": "https://twitter.com/NeutronFile",
+    "Donate": "https://paypal.me/elhizazi1",
+    "website": "https://neutronfile.org/",
+    "automatic_git": "true"
+  }
+}

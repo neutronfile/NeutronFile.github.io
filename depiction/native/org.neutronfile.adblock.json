@@ -1,0 +1,103 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://i.imgur.com/wHhGl48.png",
+  "tintColor": "#477D76",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "HiddenDepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "null",
+              "accessibilityText": "Screenshot0"
+            }
+          ],
+          "itemCornerRadius": 8,
+          "itemSize": "{160,275}"
+        },
+        {
+          "markdown": "ADs Blocker for Apps.. Note: may not load page or app crash.",
+          "useSpacing": "true",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "Julioveren"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "0.2~beta1"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "iOS 7 to 13"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Tweaks"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Donate",
+          "action": "https://www.paypal.com/donate/?token=DZ6RkrP9ILf0-mmAsKnyCt_VJU8xUZxQ-wvq9Z3UyUwlofDl7PeKSAlmpUjPTe1r2hFjqW&country.x=MA&locale.x=",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "Free",
+          "title": "Price",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Ads Blocker 0.2~beta1 – Updated 2020-06",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Changelog"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "0.2~beta1 .! Full support for iOS 13.4."
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Ads Blocker 0.2~beta1 – Updated 2020-06",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}

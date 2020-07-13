@@ -1,0 +1,6 @@
+{   "name": "IPAPatcher",
+	"desc_short": "sign ipa files with entitlements to fix some apps crashing on start on ios 11-12.",
+	"compatitle": "iOS 10+",
+	"changelog": "<strong>1.0.4</strong>",
+	"open": true,
+	}
