@@ -18,7 +18,7 @@
           "itemSize": "{160,275}"
         },
         {
-          "markdown": "Crack app to ipa on terminal .cmd1: Clutch2 ,cmd2:Clutch2 -i & cmd3: Clutch2 -d .",
+          "markdown": "Crack app to ipa on terminal .cmd1: Clutch2 ,cmd2:Clutch2 -i & cmd3: Clutch2 -d ",
           "useSpacing": "true",
           "class": "DepictionMarkdownView"
         },
@@ -76,14 +76,7 @@
         }
       ],
       "class": "DepictionStackView"
-    },{
-          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-          "width": 80,
-          "height": 27,
-          "alignment": 1,
-          "cornerRadius": 0,
-          "class": "DepictionImageView"
-        },
+    },
     {
       "tabname": "Changelog",
       "views": [
