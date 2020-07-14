@@ -20,6 +20,36 @@
         },
         {
           "class": "DepictionSpacerView"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "twitter",
+          "action": "https://twitter.com/NeutronFile",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "github",
+          "action": "https://github.com/elhizazi",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "facebook",
+          "action": "https://www.facebook.com/NeutronFile1/",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "instagram",
+          "action": "https://www.instagram.com/neutronfile/",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "discord",
+          "action": "https://discord.gg/5JKHvj/",
+          "openExternal": "true",
+          "tintColor": "#477D76"
         },
         {
           "class": "DepictionTableButtonView",
