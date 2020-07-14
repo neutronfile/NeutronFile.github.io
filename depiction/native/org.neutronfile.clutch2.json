@@ -6,16 +6,6 @@
     {
       "tabname": "Details",
       "views": [
-         {
-              "url": "https://www.youtube.com/embed/Lq061zT56F0",
-              "width": 160,
-              "height": 275,
-              "alignment": 1,
-              "cornerRadius": 0,
-               "itemCornerRadius": 8,
-               "class": "DepictionVideoView",
-              
-            },
           {
           "markdown": "Crack app to ipa on terminal .cmd1: Clutch2 ,cmd2:Clutch2 -i & cmd3: Clutch2 -d .",
           "useSpacing": "true",
@@ -83,6 +73,13 @@
         {
           "class": "DepictionMarkdownView",
           "markdown": "1.1~stabel.! Full support for iOS 13.4."
+        },{
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+          "width": 60,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
         },
         {
           "class": "DepictionLabelView",
@@ -94,18 +91,3 @@
   ],
   "class": "DepictionTabView"
 }
-,{
-          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-          "width": 66,
-          "height": 27,
-          "alignment": 1,
-          "cornerRadius": 0,
-          "class": "DepictionImageView"
-        },
-        {
-          "spacing": 20,
-          "class": "DepictionSpacerView"
-        }
-      ],
-      "class": "DepictionStackView"
-    }
