@@ -7,14 +7,18 @@
       "tabname": "Details",
       "views": [
         {
-          "class": "DepictionTableButtonView",
-          "title": "Show video tutorials",
-          "action": "https://www.youtube.com/embed/p8xQHMSafl0",
-          "openExternal": "true",
-          "tintColor": "#477D76"
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://i.imgur.com/iKb7Zmz.png",
+              "accessibilityText": "Screenshot0"
+            }
+          ],
+          "itemCornerRadius": 8,
+          "itemSize": "{160,275}"
         },
         {
-          "markdown": "bash command to repack deb file Easy Repack deb files. type debextract/debmount on terminal to unmount/mount deb file on /var/mobile/Documents/deb/.",
+          "markdown": "iPad like dock for iPhone! Duck iphone X for al Device ios.",
           "useSpacing": "true",
           "class": "DepictionMarkdownView"
         },
@@ -28,22 +32,22 @@
         {
           "class": "DepictionTableTextView",
           "title": "Developer",
-          "text": "Julioveren"
+          "text": "Imkpatil"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.0-1a"
+          "text": "1.5"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Compatibility",
-          "text": "iOS 7 to 13"
+          "text": "iOS 11 to 13.x"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Section",
-          "text": "Development"
+          "text": "Tweaks"
         },
         {
           "class": "DepictionSpacerView"
@@ -113,7 +117,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "Deb Repack  1.0-1a – Updated 2020-06",
+          "text": "FloatingDock – Updated 2020-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
@@ -130,7 +134,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "1.0-1a~stabel.! Full support for iOS 13.4."
+          "markdown": "1.5! Full support for iOS 13.x "
         },{
           "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
@@ -145,7 +149,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "Deb Repack 1.0-1a – Updated 2020-06",
+          "text": "FloatingDock – Updated 2020-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1

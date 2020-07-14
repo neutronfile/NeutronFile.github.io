@@ -8,13 +8,13 @@
       "views": [
         {
           "class": "DepictionTableButtonView",
-          "title": "Show video tutorials",
-          "action": "https://www.youtube.com/embed/p8xQHMSafl0",
+          "title": "Show video",
+          "action": "https://www.youtube.com/embed/9fCxTy3jukM",
           "openExternal": "true",
           "tintColor": "#477D76"
         },
         {
-          "markdown": "bash command to repack deb file Easy Repack deb files. type debextract/debmount on terminal to unmount/mount deb file on /var/mobile/Documents/deb/.",
+          "markdown": "Graviboard alternative",
           "useSpacing": "true",
           "class": "DepictionMarkdownView"
         },
@@ -33,7 +33,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.0-1a"
+          "text": "0.7"
         },
         {
           "class": "DepictionTableTextView",
@@ -43,7 +43,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Section",
-          "text": "Development"
+          "text": "Tweaks"
         },
         {
           "class": "DepictionSpacerView"
@@ -113,7 +113,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "Deb Repack  1.0-1a – Updated 2020-06",
+          "text": "Gravity  0.7 – Updated 2020-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
@@ -130,7 +130,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "1.0-1a~stabel.! Full support for iOS 13.4."
+          "markdown": "0.7~stabel.! Full support for iOS 13.x"
         },{
           "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
@@ -145,7 +145,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "Deb Repack 1.0-1a – Updated 2020-06",
+          "text": "Gravity 0.7 – Updated 2020-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
