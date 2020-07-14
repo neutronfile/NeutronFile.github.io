@@ -7,17 +7,29 @@
       "tabname": "Details",
       "views": [
         {
-          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346}",
           "screenshots": [
             {
+              "accessibilityText": "Screenshot",
               "url": "https://www.youtube.com/embed/kLQCf7t38Zg",
-              "accessibilityText": "Screenshot0"
+              "fullSizeURL": "https://www.youtube.com/embed/kLQCf7t38Zg"
             }
           ],
-          "itemCornerRadius": 8,
-          "itemSize": "{160,275}"
-        },
-        {
+          "ipad": {
+            "itemCornerRadius": 9,
+            "itemSize": "{320, 693}",
+            "screenshots": [
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://www.youtube.com/embed/kLQCf7t38Zg",
+                "fullSizeURL": "https://www.youtube.com/embed/kLQCf7t38Zg"
+              }
+            ],
+            "class": "DepictionScreenshotView"
+          },
+          "class": "DepictionScreenshotsView"
+         },{
           "markdown": "Convert IPA to DEB into any terminal cmd show video tutorials",
           "useSpacing": "true",
           "class": "DepictionMarkdownView"
@@ -76,7 +88,31 @@
         }
       ],
       "class": "DepictionStackView"
-    },
+    },{
+          "title": "Contact Support",
+          "action": "depiction-https://raw.githubusercontent.com/neutronfile/NeutronFile/master/support.json",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },{
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+          "width": 88,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
     {
       "tabname": "Changelog",
       "views": [
