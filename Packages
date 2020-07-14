@@ -7,7 +7,7 @@ Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmwa
 Recommended: com.rpetrich.rocketbootstrap
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debfiles//org.neutronfile.Flex3beta_1:3~Beta92_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles//org.neutronfile.Flex3beta_1_3~Beta92_iphoneos-arm_NeutronFile.deb
 Size: 14254932
 MD5sum: 045a8ec52a770b165c2b22989e2ba01e
 SHA1: 8d5f882e8626e9b5bd353dcf979918280f405524
