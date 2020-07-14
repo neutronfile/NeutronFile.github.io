@@ -87,9 +87,6 @@
       ],
       "class": "DepictionStackView"
     },
-      ],
-      "class": "DepictionStackView"
-    },
     {
       "tabname": "Changelog",
       "views": [
