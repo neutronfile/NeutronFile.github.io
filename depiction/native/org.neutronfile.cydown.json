@@ -25,7 +25,7 @@
             }
           ],
           "itemCornerRadius": 8,
-          "itemSize": false
+          "itemSize": "{160,275}"
         },
         {
           "markdown": "Awesome Download Manager for Cydia/Zebra/Installer, Multiples connections downloads!",
