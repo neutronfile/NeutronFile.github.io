@@ -33,10 +33,6 @@
         {
           "spacing": 12,
           "class": "DepictionSpacerView"
-        },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
         },
         {
           "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
@@ -108,6 +104,10 @@
         {
           "class": "DepictionHeaderView",
           "title": "Changelog"
+        },{
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionMarkdownView",
