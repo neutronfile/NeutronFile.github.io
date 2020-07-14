@@ -8,16 +8,14 @@
       "views": [
         {
           "class": "DepictionVideoView",
-          "screenshots": [
+          },
             {
               "url": "https://www.youtube.com/embed/Lq061zT56F0",
               "width": 160,
               "height": 275,
                "itemCornerRadius": 8,
-              "accessibilityText": "Screenshot0"
-            }
-          ],
-        },
+              
+            },
           {
           "markdown": "Crack app to ipa on terminal .cmd1: Clutch2 ,cmd2:Clutch2 -i & cmd3: Clutch2 -d .",
           "useSpacing": "true",
@@ -74,7 +72,21 @@
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
+        },{
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+          "width": 44,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
         }
+      ],
+      "class": "DepictionStackView"
+    },
       ],
       "class": "DepictionStackView"
     },
@@ -96,21 +108,6 @@
           "fontSize": "10.0",
           "alignment": 1
         },
-        {
-          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-          "width": 44,
-          "height": 27,
-          "alignment": 1,
-          "cornerRadius": 0,
-          "class": "DepictionImageView"
-        },
-        {
-          "spacing": 20,
-          "class": "DepictionSpacerView"
-        }
-      ],
-      "class": "DepictionStackView"
-    },
   ],
   "class": "DepictionTabView"
 }
