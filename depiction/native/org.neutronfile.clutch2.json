@@ -89,14 +89,6 @@
           "markdown": "1.1~stabel.! Full support for iOS 13.4."
         },
         {
-          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-          "width": 60,
-          "height": 27,
-          "alignment": 1,
-          "cornerRadius": 0,
-          "class": "DepictionImageView"
-        },
-        {
           "class": "DepictionLabelView",
           "text": "Clutch 1.1~stable – Updated 2020-06",
           "textColor": "#999999",
@@ -108,4 +100,12 @@
     }
   ],
   "class": "DepictionTabView"
-}
+},
+{
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+          "width": 80,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
+        }
