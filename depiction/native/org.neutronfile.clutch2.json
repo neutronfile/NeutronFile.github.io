@@ -76,7 +76,14 @@
         }
       ],
       "class": "DepictionStackView"
-    },
+    },{
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+          "width": 80,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
+        },
     {
       "tabname": "Changelog",
       "views": [
@@ -100,12 +107,4 @@
     }
   ],
   "class": "DepictionTabView"
-},
-{
-          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-          "width": 80,
-          "height": 27,
-          "alignment": 1,
-          "cornerRadius": 0,
-          "class": "DepictionImageView"
-        }
+}
