@@ -28,7 +28,7 @@
         {
           "class": "DepictionTableButtonView",
           "title": "support",
-          "action": "Depiction-https://raw.githubusercontent.com/neutronfile/NeutronFile/master/support.json",
+          "action": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/support.json",
           "openExternal": "true",
           "tintColor": "#477D76"
         },
