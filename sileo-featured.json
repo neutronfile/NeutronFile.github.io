@@ -4,14 +4,29 @@
   "itemCornerRadius": 10,
   "banners": [
     {
+       "url":"https://i.imgur.com/lBJh7tP.jpg",
+       "title":"Cydown",
+       "package":"org.neutronfile.cydown",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/qXc23qV.png",
+       "title":"MImport",
+       "package":"org.neutronfile.mimport",
+       "hideShadow":false
+    },{
        "url":"https://i.imgur.com/wMbOirb.png",
        "title":"Safari Plus",
        "package":"org.neutronfile.safariplus",
        "hideShadow":false
     },{
-       "url":"https://i.imgur.com/lBJh7tP.jpg",
-       "title":"Cydown",
-       "package":"org.neutronfile.cydown",
+       "url":"https://i.imgur.com/alCeOT6.jpg",
+       "title":"DarkTheme",
+       "package":"org.neutronfile.darktheme",
+       "hideShadow":false
+    },{
+       "url":"https://i.imgur.com/wiMfCOB.png",
+       "title":"FloatingDock",
+       "package":"org.neutronfile.floatingdock",
        "hideShadow":false
     },{
        "url":"https://i.imgur.com/IfeACU1.png",
@@ -69,11 +84,6 @@
        "package":"org.neutronfile.lynx",
        "hideShadow":false
     },{
-       "url":"https://i.imgur.com/alCeOT6.jpg",
-       "title":"DarkTheme",
-       "package":"org.neutronfile.darktheme",
-       "hideShadow":false
-    },{
        "url":"https://i.imgur.com/wHhGl48.png",
        "title":"JBMe 10.x Webclip",
        "package":"org.neutronfile.jbme10xwebclip",
@@ -92,11 +102,6 @@
        "url":"https://i.imgur.com/wHhGl48.png",
        "title":"Localiapstore13",
        "package":"org.neutronfile.localiapstore13",
-       "hideShadow":false
-    },{
-       "url":"https://i.imgur.com/qXc23qV.png",
-       "title":"MImport",
-       "package":"org.neutronfile.mimport",
        "hideShadow":false
     },{
        "url":"https://i.imgur.com/wHhGl48.png",

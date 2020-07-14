@@ -12,6 +12,16 @@
           "action": "https://www.youtube.com/embed/NEtXmK5jDMs",
           "openExternal": "true",
           "tintColor": "#477D76"
+        },{
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://i.imgur.com/uxYT4W0.png",
+              "accessibilityText": "Screenshot0"
+            }
+            ],
+          "itemCornerRadius": 8,
+          "itemSize": "{160,275}"
         },
         {
           "markdown": "Media Importer Directly From Music App.",
