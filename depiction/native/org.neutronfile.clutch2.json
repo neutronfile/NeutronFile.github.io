@@ -28,6 +28,13 @@
         {
           "spacing": 20,
           "class": "DepictionSpacerView"
+        },{
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+          "width": 89,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
         },
         {
           "class": "DepictionHeaderView",
