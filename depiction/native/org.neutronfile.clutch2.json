@@ -37,14 +37,6 @@
           "class": "DepictionSpacerView"
         },
         {
-          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-          "width": 88,
-          "height": 27,
-          "alignment": 1,
-          "cornerRadius": 0,
-          "class": "DepictionImageView"
-        },
-        {
           "spacing": 20,
           "class": "DepictionSpacerView"
         },
@@ -106,14 +98,21 @@
         {
           "class": "DepictionHeaderView",
           "title": "Changelog"
-        },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
         },
         {
           "class": "DepictionMarkdownView",
           "markdown": "1.1~stabel.! Full support for iOS 13.4."
+        },{
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },{
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+          "width": 88,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
         },
         {
           "class": "DepictionLabelView",
