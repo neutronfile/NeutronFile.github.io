@@ -1,34 +1,31 @@
 {
   
   "minVersion": "0.1",
-  "headerImage": "https://i.imgur.com/lBJh7tP.jpg",
+  "headerImage": "https://i.imgur.com/wHhGl48.png",
   "tintColor": "#477D76",
   "tabs": [
     {
       "tabname": "Details",
       "views": [
-        {
+               {
+          "class": "DepictionTableButtonView",
+          "title": "Show video tutorials in Youtube",
+          "action": "https://www.youtube.com/embed/IOI8sDIVPyQ",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },{
           "class": "DepictionScreenshotsView",
           "screenshots": [
             {
-              "url": "https://i.imgur.com/WFQxZTX.png",
+              "url": "https://i.imgur.com/sKVBgf7.png",
               "accessibilityText": "Screenshot0"
-            },{
-              "url": "https://i.imgur.com/VHuahlc.png",
-              "accessibilityText": "Screenshot1"
-            },{
-              "url": "https://i.imgur.com/QJ4LinI.png",
-              "accessibilityText": "Screenshot1"
-            },{
-              "url": "https://i.imgur.com/FwXNGPp.png",
-              "accessibilityText": "Screenshot1"
             }
           ],
           "itemCornerRadius": 8,
           "itemSize": "{160,275}"
         },
         {
-          "markdown": "Awesome Download Manager for Cydia/Zebra/Installer, Multiples connections downloads!",
+          "markdown": "*disabling jailbreak on any app installing.*\n\nA general purpose jailbreak detection bypass patch. Configure the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not currently supported. Support for both arm64e and armv7 has been enabled in this beta version.",
           "useSpacing": "true",
           "class": "DepictionMarkdownView"
         },
@@ -42,17 +39,17 @@
         {
           "class": "DepictionTableTextView",
           "title": "Developer",
-          "text": "Juioveren"
+          "text": "Ryley Angus"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "7.1.0"
+          "text": "0.2.12"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Compatibility",
-          "text": "iOS 6 to 13"
+          "text": "iOS 7 to 13.5"
         },
         {
           "class": "DepictionTableTextView",
@@ -127,7 +124,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "Cydown 7.1.0– Updated 2020-06",
+          "text": "Liberty Lite (Beta) 0.2.12 – Updated 2020-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
@@ -144,7 +141,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "7.1.0 + Option For Disable Auto Refresh Source in Zebra; + Fix Black View When installing raw .deb file in Installer; currently supports: cydia & zebra & Installer currently supports: cydia & zebra  Option For Disable in Cydia/Zebra; + More Compatibility for Zebra; "
+          "markdown": "0.2.12~beta"
         },{
           "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
@@ -159,7 +156,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "Cydown 7.1.0– Updated 2020-06",
+          "text": "Liberty Lite (Beta) 0.2.12 – Updated 2020-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
