@@ -26,9 +26,11 @@
           "class": "DepictionSpacerView"
         },
         {
-          "title": "Contact Support",
-          "action": "depiction-https://www.neutronfile.org/p/blog-page_31.html",
-          "class": "DepictionTableButtonView"
+          "class": "DepictionTableButtonView",
+          "title": "support",
+          "action": "Depiction-https://raw.githubusercontent.com/neutronfile/NeutronFile/master/support.json",
+          "openExternal": "true",
+          "tintColor": "#477D76"
         },
         {
           "spacing": 12,
