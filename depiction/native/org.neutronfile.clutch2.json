@@ -49,7 +49,7 @@
         {
           "spacing": 20,
           "class": "DepictionSpacerView"
-        }
+        },
         {
           "class": "DepictionHeaderView",
           "title": "Information"
