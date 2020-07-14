@@ -7,15 +7,11 @@
       "tabname": "Details",
       "views": [
         {
-          "class": "DepictionScreenshotsView",
-          "screenshots": [
-            {
-              "url": "https://www.youtube.com/embed/p8xQHMSafl0",
-              "accessibilityText": "Screenshot0"
-            }
-          ],
-          "itemCornerRadius": 8,
-          "itemSize": "{160,275}"
+          "class": "DepictionTableButtonView",
+          "title": "Show video tutorials in Youtube",
+          "action": "https://www.youtube.com/embed/p8xQHMSafl0",
+          "openExternal": "true",
+          "tintColor": "#477D76"
         },
         {
           "markdown": "bash command to repack deb file Easy Repack deb files. type debextract/debmount on terminal to unmount/mount deb file on /var/mobile/Documents/deb/.",
@@ -58,6 +54,43 @@
           "action": "https://paypal.me/elhizazi1",
           "openExternal": "true",
           "tintColor": "#477D76"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "twitter",
+          "action": "https://twitter.com/NeutronFile",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "github",
+          "action": "https://github.com/elhizazi",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "facebook",
+          "action": "https://www.facebook.com/NeutronFile1/",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "instagram",
+          "action": "https://www.instagram.com/neutronfile/",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "discord",
+          "action": "https://discord.com/channels/669585645915734057/669585645915734063",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "support",
+          "action": "https://www.neutronfile.org/p/blog-page_31.html",
+          "openExternal": "true",
+          "tintColor": "#477D76"
         },
         {
           "class": "DepictionSeparatorView"
@@ -66,6 +99,17 @@
           "text": "Free",
           "title": "Price",
           "class": "DepictionTableTextView"
+        },{
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },{
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+          "width": 89,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
         },
         {
           "class": "DepictionLabelView",
@@ -87,6 +131,17 @@
         {
           "class": "DepictionMarkdownView",
           "markdown": "1.0-1a~stabel.! Full support for iOS 13.4."
+        },{
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },{
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+          "width": 89,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
         },
         {
           "class": "DepictionLabelView",

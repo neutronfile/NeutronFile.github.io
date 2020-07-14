@@ -3,19 +3,15 @@
   "headerImage": "https://i.imgur.com/4forDJS.jpg",
   "tintColor": "#477D76",
   "tabs": [
-    {
+     {
       "tabname": "Details",
       "views": [
         {
-          "class": "DepictionScreenshotsView",
-          "screenshots": [
-            {
-              "url": "https://www.youtube.com/embed/5Ig9iC-iBBg",
-              "accessibilityText": "Screenshot0"
-            }
-          ],
-          "itemCornerRadius": 8,
-          "itemSize": "{160,275}"
+          "class": "DepictionTableButtonView",
+          "title": "Show video tutorials",
+          "action": "https://www.youtube.com/embed/5Ig9iC-iBBg",
+          "openExternal": "true",
+          "tintColor": "#477D76"
         },
         {
           "markdown": "custom NewTerm color schemes with ansi color codes.",
@@ -58,6 +54,43 @@
           "action": "https://paypal.me/elhizazi1",
           "openExternal": "true",
           "tintColor": "#477D76"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "twitter",
+          "action": "https://twitter.com/NeutronFile",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "github",
+          "action": "https://github.com/elhizazi",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "facebook",
+          "action": "https://www.facebook.com/NeutronFile1/",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "instagram",
+          "action": "https://www.instagram.com/neutronfile/",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },{
+          "class": "DepictionTableButtonView",
+          "title": "discord",
+          "action": "https://discord.com/channels/669585645915734057/669585645915734063",
+          "openExternal": "true",
+          "tintColor": "#477D76"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "support",
+          "action": "https://www.neutronfile.org/p/blog-page_31.html",
+          "openExternal": "true",
+          "tintColor": "#477D76"
         },
         {
           "class": "DepictionSeparatorView"
@@ -66,10 +99,21 @@
           "text": "Free",
           "title": "Price",
           "class": "DepictionTableTextView"
+        },{
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },{
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+          "width": 89,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
         },
         {
           "class": "DepictionLabelView",
-          "text": "Re Deb 0.0.2E – Updated 2020-06",
+          "text": "NewTermtm 0.0.2E – Updated 2020-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
@@ -86,11 +130,22 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "0.0.2E~stabel.! Full support for iOS 13.4."
+          "markdown": "0.0.2E~stabel.! Full support for iOS 13.4"
+        },{
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },{
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+          "width": 89,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
         },
         {
-          "class": "DepictionLabelView",
-          "text": "Re Deb 0.0.2E – Updated 2020-06",
+           "class": "DepictionLabelView",
+          "text": "NewTermtm 0.0.2E – Updated 2020-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
