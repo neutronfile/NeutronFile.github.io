@@ -325,7 +325,7 @@
   },
   {
     "package": "org.neutronfile.powermodule",
-    "section": "Applications",
+    "section": "Control Center (Modules)",
     "version": "1.3.1",
     "name": "PowerModule",
     "size": 110834
