@@ -114,7 +114,7 @@
   {
     "package": "org.neutronfile.lynx",
     "section": "Tweaks",
-    "version": "1.5-2",
+    "version": "1.1.4",
     "name": "Lynx",
     "size": 740128
   },
@@ -155,10 +155,10 @@
   },
   {
     "section": "System",
-    "size": 56860,
-    "name": "NeutronFile Icons",
-    "package": "org.neutronfile.icone",
-    "version": "1.5"
+    "size": 605402,
+    "name": "NeutronFile Icon",
+    "package": "org.neutronfile.icons",
+    "version": "1.0"
   },
   {
     "version": "1.7.12",
@@ -196,5 +196,180 @@
     "name": "ADs Blocker",
     "package": "org.neutronfile.adblock",
     "version": "0.2~beta1"
+  },
+  {
+    "package": "org.neutronfile.adblockplus",
+    "section": "Tweaks",
+    "version": "1.4.2-1",
+    "name": "AdBlock ++",
+    "size": 8216
+  },
+  {
+    "package": "org.neutronfile.afsocial",
+    "section": "Tweaks",
+    "version": "1.0-1-1E",
+    "name": "AFSocial",
+    "size": 1771022
+  },
+  {
+    "package": "org.neutronfile.appstoreplus",
+    "section": "Tweaks",
+    "version": "0.9.11",
+    "name": "Appstore++",
+    "size": 612776
+  },
+  {
+    "package": "org.neutronfile.appsyncunified",
+    "section": "Tweaks",
+    "version": "80.0E",
+    "name": "AppSync Unified",
+    "size": 64142
+  },
+  {
+    "package": "org.neutronfile.autotouch",
+    "section": "Utilities",
+    "version": "7.0.15E",
+    "name": "AutoTouch",
+    "size": 45660224
+  },
+  {
+    "package": "org.neutronfile.azflibrary",
+    "section": "Development",
+    "version": "2.2",
+    "name": "azfLibrary",
+    "size": 676108
+  },
+  {
+    "package": "org.neutronfile.barrel",
+    "section": "Tweaks",
+    "version": "1.9.0.2E",
+    "name": "Barrel",
+    "size": 387782
+  },
+  {
+    "package": "org.neutronfile.c3rcub3",
+    "section": "Tweaks",
+    "version": "5.1.18E",
+    "name": "Cercube for YouTube",
+    "size": 5644696
+  },
+  {
+    "package": "org.neutronfile.crackerxi",
+    "section": "System",
+    "version": "1.1.16",
+    "name": "CrackerXi+",
+    "size": 9960946
+  },
+  {
+    "package": "org.neutronfile.filza",
+    "section": "Utilities",
+    "version": "3.8.0-20E",
+    "name": "Filza File Manager",
+    "size": 12899676
+  },
+  {
+    "package": "org.neutronfile.filza64bit",
+    "section": "Utilities",
+    "version": "3.8.0-20E",
+    "name": "Filza File Manager 64-bit",
+    "size": 8375852
+  },
+  {
+    "package": "org.neutronfile.honey",
+    "section": "Tweaks",
+    "version": "1.0.2",
+    "name": "Honey",
+    "size": 77194
+  },
+  {
+    "package": "org.neutronfile.floatingdockplus",
+    "section": "Tweaks",
+    "version": "1.3.4.1",
+    "name": "FloatingDockPlus",
+    "size": 96584
+  },
+  {
+    "package": "org.neutronfile.icleanerpro",
+    "section": "Utilities",
+    "version": "7.8.3E",
+    "name": "iCleaner Pro",
+    "size": 9543716
+  },
+  {
+    "package": "org.neutronfile.newterm2",
+    "section": "Terminal Support",
+    "version": "2.4",
+    "name": "NewTerm (iOS 10 ‚Äì 13)",
+    "size": 3201782
+  },
+  {
+    "package": "org.neutronfile.noctis12",
+    "section": "Tweaks",
+    "version": "1.8.9.5",
+    "name": "Noctis12",
+    "size": 258660
+  },
+  {
+    "package": "org.neutronfile.nougat",
+    "section": "Tweaks",
+    "version": "1.1.2E",
+    "name": "Nougat",
+    "size": 1492042
+  },
+  {
+    "package": "org.neutronfile.onlinenotify",
+    "section": "Tweaks",
+    "version": "3.2.4",
+    "name": "OnlineNotify",
+    "size": 614992
+  },
+  {
+    "package": "org.neutronfile.powermodule",
+    "section": "Applications",
+    "version": "1.3.1",
+    "name": "PowerModule",
+    "size": 110834
+  },
+  {
+    "package": "org.neutronfile.picsarthack",
+    "section": "Applications",
+    "version": "0.0.2",
+    "name": "PicsArt Hack",
+    "size": 82108
+  },
+  {
+    "package": "org.neutronfile.rocket",
+    "section": "Tweaks",
+    "version": "3.7.4E",
+    "name": "Rocket for Instagram",
+    "size": 7480626
+  },
+  {
+    "package": "org.neutronfile.stalky",
+    "section": "Tweaks",
+    "version": "4.1.4",
+    "name": "Stalky",
+    "size": 5287950
+  },
+  {
+    "package": "org.neutronfile.vivavideovip",
+    "section": "Applications",
+    "version": "7.0.4",
+    "name": "VivaVideo VIP",
+    "size": 88818
+  },
+  {
+    "package": "org.neutronfile.watusi",
+    "section": "Tweaks",
+    "version": "1.3.6",
+    "name": "Watusi 2 for WhatsApp",
+    "size": 4110608
+  },
+  {
+    "package": "org.neutronfile.watusitools",
+    "section": "System",
+    "version": "2.1.26E",
+    "name": "Watusitools",
+    "size": 13840350
   }
 ]

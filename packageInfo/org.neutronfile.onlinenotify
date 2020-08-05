@@ -1,0 +1,27 @@
+{   "name":"OnlineNotify",
+	"desc_short": "Track your friends on WhatsApp Messenger! ",
+	"desc_long": "Tired of waiting for your friends to come online on WhatsApp?
+Well, here's a tweak to track your selected WhatsApp friends, it keeps you notifying about their online/offline status from outside and inside WhatsApp. It will also notify you when any of your contacts start typing in your chat.<br>
+Features<br>
+• Get notifications inside and outside WhatsApp when chosen contacts become online/offline. (Works only for contacts you chose inside OnlineNotify registered users table)<br>
+• Get notifications when any of your contacts start typing a message. (It works on all of your contacts unless you enable 'Typing for selected' option)<br>
+• Get notifications when a contact has read the messages you sent him.
+• Favorites List &amp; Goup Info Page: Replace contacts status with their lastseen and add an online indicator next to online contacts.<br>
+• Add an online indicator next to online users in chats list.
+WARNING!
+There are few things you should know before purchasing
+• In order for the Outside Notifications to work, WhatsApp has to be connected to the internet and running in background, in other words when you enable outside notifications you will be shown as 'Online' in WhatsApp even if the app is in background.<br>
+• As you already know, when the iPhone is locked wifi will be turned off, which will disconnect WhatsApp and stop outside notifications. To avoid this, if you have Outside Notifications enabled, OnlineNotify will prevent your device from turning off WiFi when its locked.<br>
+• Outside notifications will slightly increase your battery consumption.
+• OnlineNotify will NOT work if you are hiding freezing your lastseen using Watusi or any other tweak.<br>
+Instructions<br>
+• OnlineNotify settings are inside WhatsApp settings page
+• You can run OnlineNotify on other WhatsApp versions by going to your device Settings App in OnlineNotify seciton.",
+	"compatitle": "compatible with ios 9 through 13",
+	"changelog": "<strong>*Added option to receive a notification when a contact view your status
+*When Read/Typing/Recording notifications are set to favorite only, the member JID will now be checked if its favorite
+*Fixed Typing/Recording notifications on WhatsApp 2.20.90
+*Update to latest WhatsApp for better compatibility - 3.3.0</strong>",
+	"screenshot": "<div style='text-align:center;'><a href= src='https://apt.neutronfile.org/description.html?id/org.neutronfile.onlinenotify' target='_blank'><img width=95% src='https://i.imgur.com/zkTmlFS.jpeg' target='_blank'><img width=95% src='https://i.imgur.com/paPzw78.jpeg' target='_blank'><img width=95% src='https://i.imgur.com/6y5thj7.jpeg'/></a><br></div>",
+	"open":true,
+	}
