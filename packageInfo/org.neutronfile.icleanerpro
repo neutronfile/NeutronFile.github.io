@@ -1,21 +1,20 @@
 {   "name":"iCleaner Pro",
 	"desc_short": "The first real iOS system cleaner & optimizer",
 	"desc_long": "Cleanup:
-iCleaner can free up space by removing unnecessary files from your device. The cleanup process is made of the following steps:
-Message attachments: it deletes files sent and received via iMessage or MMS. The "smart" setting only deletes files that do not show up in any message, while "on" deletes all attachments (messages with attachments will show a blank icon).
-Safari: it deletes cookies, browsing history and cache files to free up memory and preserve your privacy.
-Applications: it deletes app caches, cookies, temporary files and snapshots. Furthermore, it detects popular applications for a more in-depth cleanup.
-OTA software updates: it deletes downloaded iOS update files.
-Battery usage data: it deletes archived battery data, while leaving current battery data untouched.
-Unused dependencies: it issues the "apt-get autoremove" command in order to remove packages installed as dependencies that are not needed anymore, and purges uninstalled packages.
-Log files: it deletes log files and crash reports from known locations. These files are generally irrelevant to the user and can be safely deleted.
-Cache files: it scans and deletes system cache files and databases. Some of them are rebuilt upon respring. This helps removing obsolete cache data.
-Temporary files: it deletes temporary files from your device. These files are meant to be removed automatically, but they often happen not to.
-Filetype cleanup: iCleaner features a custom cleanup pass based on file extensions. By default, it looks for log and temp files all over the directory tree.
-Custom files and Folders cleanup: with this extremely powerful feature, you can add any file or folder to the cleanup process. Check the user guide for a detailed explaination of how it works.",
+                  iCleaner can free up space by removing unnecessary files from your device. The cleanup process is made of the following steps:
+                   Message attachments: it deletes files sent and received via iMessage or MMS. The "smart" setting only deletes files that do not show up in any message, while "on" deletes all attachments (messages with attachments will show a blank icon).
+                   Safari: it deletes cookies, browsing history and cache files to free up memory and preserve your privacy.
+                   Applications: it deletes app caches, cookies, temporary files and snapshots. Furthermore, it detects popular applications for a more in-depth cleanup.
+                    OTA software updates: it deletes downloaded iOS update files.
+                    Battery usage data: it deletes archived battery data, while leaving current battery data untouched.
+                    Unused dependencies: it issues the "apt-get autoremove" command in order to remove packages installed as dependencies that are not needed anymore, and purges uninstalled packages.
+                    Log files: it deletes log files and crash reports from known locations. These files are generally irrelevant to the user and can be safely deleted.
+                    Cache files: it scans and deletes system cache files and databases. Some of them are rebuilt upon respring. This helps removing obsolete cache data.
+                    Temporary files: it deletes temporary files from your device. These files are meant to be removed automatically, but they often happen not to.
+                    Filetype cleanup: iCleaner features a custom cleanup pass based on file extensions. By default, it looks for log and temp files all over the directory tree.
+                    Custom files and Folders cleanup: with this extremely powerful feature, you can add any file or folder to the cleanup process. Check the user guide for a detailed explaination of how it works.",
 	"compatitle": "compatible with ios 5 through 13.6",
 	"changelog": "<strong>*Fix languages removal tool breaking Safari settings and in-app links on iOS 13.3 and later.<br>*Improve compatibility with chroot-based jailbreak detection bypass tweaks.<br>*Disable softwareupdated daemon when turning off OTA updates on iOS 9 and later.<br>*Drop support for (long broken) Activator and Flipswitch plugins.<br>*Remove now unnecessary iCleanerLib.dylib.<br><br></strong>",
 	"screenshot": "<div style='text-align:center;'><a href='https://apt.neutronfile.org/description.htm?id=org.neutronfile.icleanerpro' target='_blank'><img width=95% src='https://i.imgur.com/IPEDA2t.jpeg' target='_blank'><img width=95% src='https://i.imgur.com/KUmlXzM.jpeg'/></a><br></div>",
 	"open":true,
 	}
-
