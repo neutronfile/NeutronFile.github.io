@@ -1,8 +1,7 @@
-{   "name":"#",
-	"desc_short": "# ",
-	"desc_long": "#",
+{   "name":"azfLibrary",
+	"desc_short": "This library is dedicated to helping Azozz ALFiras Tweak's ",
+	"desc_long": "Support library to allow tweaks to communicate with their services from sandboxed app processes",
 	"compatitle": "compatible with ios 6 through 13",
-	"changelog": "<strong></strong>",
-	"screenshot": "<div style='text-align:center;'><a href= src='' target='_blank'><img width=95% src='#' target='_blank'><img width=95% src='#' target='_blank'><img width=95% src='#' target='_blank'><img width=95% src='#'/></a><br></div>",
+	"changelog": "<strong>Updated Date : 31/07/2020 14:49 - V2.2</strong>",
 	"open":true,
 	}
