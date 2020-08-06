@@ -5,7 +5,7 @@ Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: firmware (>= 11.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker,com.spark.libsparkapplist
 Conflicts: com.imkpatil.floatingdock, org.neutronfile.floatydock
-Filename: ./debfiles//
+Filename: ./debfiles//org.neutronfile.floatingdockplus_1.3.4.1_iphoneos-arm_NeutronFile.deb
 Size: 96584
 MD5sum: 41d8e24ef739c9706f1136439b589f31
 SHA1: 1a2222b568c8e3deb14bf3f217c3a40aba34304d
@@ -24,10 +24,10 @@ Version: 1.0
 Section: Repositories
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Filename: ./debfiles//org.neutronfile.icons_1.0_iphoneos-arm_NeutronFile.deb
-Size: 605402
-MD5sum: 051d7db9098ea38c76357ea02512492d
-SHA1: 09aa48976c7aa443602bd57d3d276b82bb3fb1db
-SHA256: 34fb9bc9ae3434ee510d2407d1da7a94283d4600927973569365ba1b6c9dad1e
+Size: 605400
+MD5sum: 22907d47341b89f5c680d0e2ee7b766b
+SHA1: e26a710209d656daad19026a0106cfb342b39f65
+SHA256: 40d4cd8028ba219db48050238bb160de0542076cb75ace643270b1afca23731d
 Homepage: NeutronFile.org <http://neutronfile.org/>
 Description: locally cached package icons from NeutronFile
 Name: NeutronFile Icon
@@ -138,7 +138,7 @@ Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Conflicts: com.blakeboxberger.dockremover
-Filename: ./debfiles//
+Filename: ./debfiles//org.neutronfile.honey_1.0.2_iphoneos-arm_NeutronFile.deb
 Size: 77194
 MD5sum: c839ecebd1ac8212ba16e55e96e23f06
 SHA1: 8468f1bbc9541f86f9a1931a4421f554d78d6456
@@ -358,7 +358,7 @@ Version: 1.3.6
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, org.neutronfile.watusitools (>= 2.1.25), com.rpetrich.rocketbootstrap, applist
-Conflicts: removed.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Conflicts: removed.watusitools, com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, org.neutronfile.watusi
 Filename: ./debfiles//org.neutronfile.watusi_1.3.6_iphoneos-arm_NeutronFile.deb
 Size: 4110608
 MD5sum: 476f66f8512ce3d87d67c9d76c2b6179
@@ -415,10 +415,10 @@ Icon: https://api.ios-repo-updates.com/images/repositories/tigisoftware.png
 Package: org.neutronfile.powermodule
 Architecture: iphoneos-arm
 Version: 1.3.1
-Section: Control Center (Modules)
+Section: ControlCenter(Modules)
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
-Filename: ./debfiles//
+Filename: ./debfiles//org.neutronfile.powermodule_1.3.1_iphoneos-arm_NeutronFile.deb
 Size: 110834
 MD5sum: c4aa37c8a0a98b37045d147649e244c3
 SHA1: 732ea1e0470aa411a51cceb9d3bfb1363f9bcf22
@@ -851,14 +851,14 @@ Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.jbme1
 Package: org.neutronfile.jbzcarrier
 Architecture: iphoneos-arm
 Version: 1.0-1E
-Section: Addons (Zeppelin)
+Section: Addons(Zeppelin)
 Maintainer: NeutronFile <neutronfile19@icloud.com>
 Depends: com.alexzielenski.zeppelin
 Filename: ./debfiles//org.neutronfile.jbzcarrier_1.0-1E_iphoneos-arm_NeutronFile.deb
 Size: 8662
-MD5sum: eed60c7764ac913c78270a98df3b5b77
-SHA1: 668967bf7f8612f91146635c15bea3aed05a43b3
-SHA256: e03c67d3cb717bf62dc610b654a8442bb75537be592438004a7aa70a2146f847
+MD5sum: 71abfd7feb769d0a09d7f044699de14d
+SHA1: 8dc0c36ba68acb269b9715d9b8bac1097e65b9c9
+SHA256: 3e9635f18e228f4d629bc5b1acf779fce68fad3cd984ee9b43f1d125fb1333ef
 Homepage: http://neutronfile.org/
 Description: Jailbreak zeppelin carrier requests
 Name: Jailbreak carrier
@@ -941,25 +941,6 @@ Name: Lynx - AR
 Author: NeutronFile
 Sponsor: NeutronFile.org <http://neutronfile.org>
 Icon: https://i.imgur.com/3QJUcae.png
-
-Package: org.neutronfile.lynx
-Architecture: iphoneos-arm
-Version: 1.5-2
-Section: Tweaks
-Maintainer: NeutronFile <neutronfile19@gmail.com>
-Installed-Size: 1808
-Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
-Filename: ./debfiles//org.neutronfile.lynx_1.5-2_iphoneos-arm_NeutronFile.deb
-Size: 740124
-MD5sum: c44c3f20401f178a15b2db8516da3e30
-SHA1: 167767f3f7f19a239561b209419b4f9b8ae062df
-SHA256: a5b53481af7f9340c5af27e260d472ae05ad94108fdd0636a33dd9d4f9ae07da
-Description: Ultimate device customization
-Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios13.3
-Name: Lynx
-Author: MTAC <mtactheming@gmail.com>
-Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.lynx
-SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.lynx.json
 
 Package: org.neutronfile.mimport
 Architecture: iphoneos-arm
