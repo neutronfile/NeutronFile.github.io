@@ -1,34 +1,23 @@
-{
-  
-  "minVersion": "0.1",
-  "headerImage": "#",
+"minVersion": "0.1",
+  "headerImage": "https://i.imgur.com/wHhGl48.png",
   "tintColor": "#477D76",
   "tabs": [
     {
       "tabname": "Details",
       "views": [
         {
-          "class": "DepictionScreenshotsView",
+          "class": "HiddenDepictionScreenshotsView",
           "screenshots": [
             {
-              "url": "#",
+              "url": "null",
               "accessibilityText": "Screenshot0"
-            },{
-              "url": "#",
-              "accessibilityText": "Screenshot1"
-            },{
-              "url": "#",
-              "accessibilityText": "Screenshot1"
-            },{
-              "url": "#",
-              "accessibilityText": "Screenshot1"
             }
           ],
           "itemCornerRadius": 8,
           "itemSize": "{160,275}"
         },
         {
-          "markdown": "#",
+          "markdown": "block ads On tweaks instgram & whatsapp & youtube!.",
           "useSpacing": "true",
           "class": "DepictionMarkdownView"
         },
@@ -42,22 +31,22 @@
         {
           "class": "DepictionTableTextView",
           "title": "Developer",
-          "text": "#"
+          "text": "AdBlock"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "#"
+          "text": "1.4.2-1"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Compatibility",
-          "text": "#"
+          "text": "iOS 7 to 13"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Section",
-          "text": "#"
+          "text": "Tweaks"
         },
         {
           "class": "DepictionSpacerView"
@@ -127,7 +116,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "#– Updated 2020-06",
+          "text": "AdBlock++ 1.4.2-1– Updated 2020-08",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
@@ -144,7 +133,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "#; "
+          "markdown": "1.4.2-1~stabel.! Full support for iOS 13."
         },{
           "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
@@ -158,8 +147,8 @@
           "class": "DepictionImageView"
         },
         {
-          "class": "DepictionLabelView",
-          "text": "#– Updated 2020-06",
+           "class": "DepictionLabelView",
+          "text": "AdBlock ++ 1.4.2-1– Updated 2020-08",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
