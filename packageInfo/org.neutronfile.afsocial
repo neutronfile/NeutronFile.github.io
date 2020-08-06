@@ -1,11 +1,10 @@
 {   "name":"AFSocial",
 	"desc_short": "AFSocial all in one tweak",
 	"desc_long": "Add more features to Social media 
-     A two-day trial system is available before purchasing the tweak Social media",
+          A two-day trial system is available before purchasing the tweak Social media",
 	"compatitle": "compatible with ios 10 through 13",
-	"changelog": "<strong>Update: 1.0-1-1E
-         What's new 
-         -Keep Contacts Deleted Statuses on Whatsapp 
+	"changelog": "<strong>Update: 1.0-1-1E <br> What's new <br>
+         -Keep Contacts Deleted Statuses on Whatsapp <br>
          -Confirm like post on instagram . </strong>",
 	"screenshot": "<div style='text-align:center;'><a href= src='https://apt.neutronfile.org/description.html?id=org.neutronfile.afsocial' target='_blank'><img width=95% src='https://i.imgur.com/wC4ywy3.png' target='_blank'><img width=95% src='https://i.imgur.com/vufGpQD.png' target='_blank'><img width=95% src='https://i.imgur.com/wIRnLyl.png' target='_blank'><img width=95% src='https://i.imgur.com/ncycoY5.png'/><img width=95% src='https://i.imgur.com/ANtamF6.png'/><img width=95% src='https://i.imgur.com/ZJvc0cZ.png'/></a><br></div>",
 	"open":true,
