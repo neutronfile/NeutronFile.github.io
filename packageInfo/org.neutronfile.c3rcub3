@@ -1,8 +1,8 @@
 {   "name": "Cercube for YouTube",
 	"desc_short": "Cercube not only gives you the features that are missing from YouTube, but it also gives you full control over the app. Requires YouTube app from AppStore.",
-	"desc_long": "Save videos up to 4K resolution.<br>- Save videos as audio only.<br>- Set default download quality.<br>- Manage and share downloads to any app.<br>- Import downloads to Music or Videos.<br>- Play YouTube videos using PiP.<br>- Set default player quality on WiFi.<br>- Set default player quality on 3G/4G.<br>- Block all advertisements.<br>- Enable background playback.<br>- Play in high quality on Mobile Data.<br>",
+	"desc_long": "-Save videos up to 4K resolution.<br>- Save videos as audio only.<br>- Set default download quality.<br>- Manage and share downloads to any app.<br>- Import downloads to Music or Videos.<br>- Play YouTube videos using PiP.<br>- Set default player quality on WiFi.<br>- Set default player quality on 3G/4G.<br>- Block all advertisements.<br>- Enable background playback.<br>- Play in high quality on Mobile Data.<br>",
 	"compatitle": "compatible with ios 8 through 13",
-	"changelog": "<strong> Fixed crash on iOS 9 when trying to login.<br> Fixed weird behavior when removing downloads.<br> Other bug fixes and minor improvements.</strong>",
+	"changelog": "<strong> *Fixed crash on iOS 9 when trying to login.<br> *Fixed weird behavior when removing downloads.<br> *Other bug fixes and minor improvements.</strong>",
 	"screenshot": "<div style='text-align:center;'><a href='https://apt.neutronfile.org/description.html?id=org.neutronfile.c3rcub3' target='_blank'><img width=95% src='https://i.imgur.com/IeturDO.jpeg' target='_blank'><img width=95% src='https://i.imgur.com/3qtz9W7.jpeg' target='_blank'><img width=95% src='https://i.imgur.com/roToHVs.jpeg' target='_blank'><img width=95% src='https://i.imgur.com/3cKDFws.jpeg'/><img width=95% src='https://i.imgur.com/tyB3HcU.jpeg'/></a><br></div>",
 	"open": true,
 	}
