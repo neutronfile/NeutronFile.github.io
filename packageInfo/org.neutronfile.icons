@@ -1,8 +1,6 @@
-{   "name":"#",
-	"desc_short": "# ",
-	"desc_long": "#",
+{   "name":"NeutronFile Icon",
+	"desc_short": "locally cached package icons from NeutronFile ",
 	"compatitle": "compatible with ios 6 through 13",
-	"changelog": "<strong></strong>",
-	"screenshot": "<div style='text-align:center;'><a href= src='' target='_blank'><img width=95% src='#' target='_blank'><img width=95% src='#' target='_blank'><img width=95% src='#' target='_blank'><img width=95% src='#'/></a><br></div>",
+	"changelog": "<strong>version 1.0</strong>",
 	"open":true,
 	}
