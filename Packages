@@ -23,20 +23,18 @@ Tag: compatible_min::ios11.0, compatible_max::ios13.6
 Package: org.neutronfile.smartbattery
 Architecture: iphoneos-arm
 Version: 3.2N
+Name: SmartBattery
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, com.spark.libsparkcolourpicker, com.opa334.ccsupport
 Filename: ./debfiles//org.neutronfile.smartbattery_3.2N_iphoneos-arm_NeutronFile.deb
-Size: 777910 bytes
-MD5: 9f0fd9bcee9a7614123e4481d7dbeea0
-SHA1: 4c9d5aa793c54d2d9eebda5ccff8d6be230497ad
-SHA256: a030eab435c5721fca7a467cdaa0c4e12113e5ca70de875f77549b5b2657b631
-SHA384: 5da5cc5c576074df15b24777fb67d4a46518e939f30b4941f2d4afa170d73cc9e567a9d0c20b1590bf3052458c3d1012
-SHA512: 6d5c8b526d8a5931e630c8961a1e5d27cf23dbe1d4762495e8ed37a50f8a9fa309d46a2aaba01b7aac1630008c8b0a62a55c5765f40a7b86779fcf0ae7dd7356
+Size: 777894 Bytes
+MD5: 8dd9bc138f7bd28f07118b01e6cab04b
+SHA1: b0f424902141d4a4beacae249aab4aa0de109733
+SHA256: 67a67ec50335c517939cb9121cfecc02197d090269debdb6fa7703fb4f5bef0b
 Homepage: NeutronFile.org <http://neutronfile.org/>
 Description: Your phone is smart, but your battery isn't !
 SmartBattery is the only thing standing in your way to have the complete smartphone!
-Name: SmartBattery
 Author: elias
 SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.smartbattery.json
 Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.smartbattery
@@ -472,12 +470,10 @@ Version: 1.0
 Section: Repositories
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Filename: ./debfiles//org.neutronfile.icons_1.0_iphoneos-arm_NeutronFile.deb
-Size: 605402
-MD5sum: 051d7db9098ea38c76357ea02512492d
-SHA1: 09aa48976c7aa443602bd57d3d276b82bb3fb1db
-SHA256: 34fb9bc9ae3434ee510d2407d1da7a94283d4600927973569365ba1b6c9dad1e
-SHA384: d6a19258bfbef347182ec0e7fa3be61ddb440f179cf59eeca782356bb8367d79b08acc1962ae6011f39065bf12dcb76c
-SHA512: bdbee040fe409d760dea0bfcc5a65a3372ed02eafa0812aecdeefa9e1eccc37dd9ff3ff07cf32345dc8f22ca06351ac62c96867e5a5feca2885449d54cb19fc0
+Size: 605342 Bytes
+MD5sum: b5f1074572f99a89fdf3734ed514dedf
+SHA1: ded4e7a2b490c97e13e774090d00aff54e7a5de9
+SHA256: efc6f8b0e282c0f6650bc26772f27b4533969f4b1d9201c0191870a0b3f2dd30
 Homepage: NeutronFile.org <http://neutronfile.org/>
 Description: locally cached package icons from NeutronFile
 Name: NeutronFile Icon
@@ -572,7 +568,7 @@ Icon: Icon: https://i.imgur.com/cb7YDc3.png
 Package: org.neutronfile.powermodule
 Architecture: iphoneos-arm
 Version: 1.3.1
-Section: Control Center (Modules)
+Section: Modules
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
 Filename: ./debfiles//org.neutronfile.powermodule_1.3.1_iphoneos-arm_NeutronFile.deb
@@ -951,7 +947,7 @@ Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.jbme1
 Package: org.neutronfile.jbzcarrier
 Architecture: iphoneos-arm
 Version: 1.0-1E
-Section: Addons (Zeppelin)
+Section: Zeppelin
 Maintainer: NeutronFile <neutronfile19@icloud.com>
 Depends: com.alexzielenski.zeppelin
 Filename: ./debfiles//org.neutronfile.jbzcarrier_1.0-1E_iphoneos-arm_NeutronFile.deb
