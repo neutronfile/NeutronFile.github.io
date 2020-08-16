@@ -568,7 +568,7 @@ Icon: Icon: https://i.imgur.com/cb7YDc3.png
 Package: org.neutronfile.powermodule
 Architecture: iphoneos-arm
 Version: 1.3.1
-Section: Modules
+Section: Control
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
 Filename: ./debfiles//org.neutronfile.powermodule_1.3.1_iphoneos-arm_NeutronFile.deb
