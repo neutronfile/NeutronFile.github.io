@@ -1,3 +1,24 @@
+Package: org.neutronfile.dra1n
+Architecture: iphoneos-arm
+Version: 1.2N
+Section: Tweaks
+Maintainer: NeutronFile <neutronfile19@gmail.com>
+Depends: mobilesubstrate, firmware (>= 11.0), ws.hbang.common, preferenceloader, com.cokepokes.libnotifications (>= 0.2-2), com.muirey03.libmryipc
+Filename: ./debfiles//org.neutronfile.dra1n_1.2N_iphoneos-arm_NeutronFile.deb
+Size: 2734882
+MD5sum: c259d6b33baefa31f5b86807e89c71f6
+SHA1: dc1adcd725ee9223a48a3b716f73c1854a7056f2
+SHA256: 3617987d43433827f6fbf866470c3377224494dd46725f0ae4f9b2d825aa9c20
+SHA384: 475e8016f09fb1e3488abb7a2203e2eaa8df7e4870c19bb1f5d8c769dfa28d5ae93fc9c7f1fe5a5f3b614d0a69670fc7
+SHA512: f30a43031c738e0727db01606003dc8d49e4567df92ba4cda6635c3472766079cc5e3fbf34687979be636fede6f6eecdb5139cf15b192c7b85f50712e2b5eaee
+Homepage: NeutronFile.org <http://neutronfile.org/>
+Description: Find out which packages are dra1ning your battery! Find out what tweaks are draining your battery Compatible with iOS 11 through 13
+Name: Dra1n
+Author: MegaDzv & Charlie While
+SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile..json
+Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.
+Icon: https://repo-cdn.dynastic.co/342300381885235201.fc2c9ea5055d0d8a1f498be667fecb21-96?size=96
+
 Package: org.neutronfile.honey
 Architecture: iphoneos-arm
 Version: 1.0.2
@@ -96,7 +117,7 @@ Author: FireTheFried <elijahklaumann@gmail.com>
 Package: org.neutronfile.clutch2
 Architecture: iphoneos-arm
 Version: 1.1
-Section: Devlopment
+Section: Development
 Maintainer: Neutrnfile
 Depends: mobilesubstrate, firmware (>= 8.0)
 Filename: ./debfiles//org.neutronfile.clutch2_1.1_iphoneos-arm.deb
@@ -113,7 +134,7 @@ Author: iMokhles
 Package: org.neutronfile.cracktool3
 Architecture: iphoneos-arm
 Version: 3.0~beta11
-Section: Cracked
+Section: Tools
 Maintainer: NeutronFile
 Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
 Filename: ./debfiles//org.neutronfile.cracktool3_3.0~beta11_iphoneos-arm.deb
@@ -130,7 +151,7 @@ Author: julioverne
 Package: org.neutronfile.cracktool4
 Architecture: iphoneos-arm
 Version: 4.0~beta9c
-Section: Cracked
+Section: Tools
 Maintainer: NeutronFile
 Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
 Filename: ./debfiles//org.neutronfile.cracktool4_4.0~beta9c_iphoneos-arm.deb
