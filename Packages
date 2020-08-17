@@ -1,4 +1,4 @@
-Packages: org.neutronfile.honey
+Package: org.neutronfile.honey
 Architecture: iphoneos-arm
 Version: 1.0.3
 Section: Tweaks
