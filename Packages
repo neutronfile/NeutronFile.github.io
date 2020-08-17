@@ -1,22 +1,21 @@
-Package: org.neutronfile.honey
+Packages: org.neutronfile.honey
 Architecture: iphoneos-arm
 Version: 1.0.3
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Conflicts: com.blakeboxberger.dockremover
-Filename: ./debfiles//
+Filename: ./debfiles//org.neutronfile.honey_1.0.3_iphoneos-arm_NeutronFile.deb
 Size: 77198
-MD5sum: f65b1a1a34d2e59218089bd4083e7478
+Md5sum: f65b1a1a34d2e59218089bd4083e7478
 SHA1: e7b53a16e5cef3aa1db3f237d6ec5154e192566d
 SHA256: 5b77c8d44473f51f8a2008b6cd12354c35f2c06b74534432eb1f358f29fff362
-Homepage: NeutronFile.org <http://neutronfile.org/>
+Homepage: https://neutronfile.org
 Description: The watchOS app launcher, now on your iOS device!
 Name: Honey
 Author: Blake Boxberger
 SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.honey.json
-Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.honey
-Icon: https://apt.neutronfile.org/images/Neutronfile.png
+Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.honey
 
 Package: org.neutronfile.dra1n
 Architecture: iphoneos-arm
