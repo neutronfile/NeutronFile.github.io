@@ -20,7 +20,7 @@ Icon: https://apt.neutronfile.org/images/Neutronfile.png
 
 Package: org.neutronfile.dra1n
 Architecture: iphoneos-arm
-Version: 1.2N
+Version: 1.4
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, firmware (>= 11.0), ws.hbang.common, preferenceloader, com.cokepokes.libnotifications (>= 0.2-2), com.muirey03.libmryipc
