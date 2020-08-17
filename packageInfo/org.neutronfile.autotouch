@@ -1,8 +1,0 @@
-{   "name":"AutoTouch",
-	"desc_short": "Record and playback touch operations, play macro scripts automatically ",
-	"desc_long": "What is AutoTouch?<br>AutoTouch is a "Macro" tool used to record and playback human touching and pressing on the mobile device.<br>It simulates touching and keys pressing.<br>It runs Lua scripts.<br>It provides several extended functions to achieve automation.<br>It needs Jailbreak environment.<br>It provides a Script Store to sell and buy scripts.",
-	"compatitle": "compatible with ios 13",
-	"changelog": "<strong>Compatible with any jailbreak-able iOS versions and devices,<br>Now supports to iOS 13.5.</strong>",
-	"screenshot": "<div style='text-align:center;'><a href= 'https://apt.neutronfile.org/description.html?id=org.neutronfile.autotouch' target='_blank'><img width=95% src='https://i.imgur.com/qnZDHPm.png' target='_blank'><br></div>",
-	"open":true,
-	}

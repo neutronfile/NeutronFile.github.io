@@ -1,8 +1,0 @@
-{   "name":"OnlineNotify",
-	"desc_short": "Track your friends on WhatsApp Messenger! ",
-	"desc_long": "Tired of waiting for your friends to come online on WhatsApp?<br>Well, here's a tweak to track your selected WhatsApp friends, it keeps you notifying about their online/offline status from outside and inside WhatsApp. It will also notify you when any of your contacts start typing in your chat.",
-	"compatitle": "compatible with ios 9 through 13",
-	"changelog": "<strong>*Added option to receive a notification when a contact view your status<br> *When Read/Typing/Recording notifications are set to favorite only, the member JID will now be checked if its favorite<br> *Fixed Typing/Recording notifications on WhatsApp 2.20.90 <br>*Update to latest WhatsApp for better compatibility - 3.3.0</strong>",
-	"screenshot": "<div style='text-align:center;'><a href= src='https://apt.neutronfile.org/description.html?id/org.neutronfile.onlinenotify' target='_blank'><img width=95% src='https://i.imgur.com/zkTmlFS.jpeg' target='_blank'><img width=95% src='https://i.imgur.com/paPzw78.jpeg' target='_blank'><img width=95% src='https://i.imgur.com/6y5thj7.jpeg'/></a><br></div>",
-	"open":true,
-	}

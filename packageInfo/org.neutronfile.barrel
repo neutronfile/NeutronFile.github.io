@@ -1,8 +1,0 @@
-{   "name":"Barrel",
-	"desc_short": "3D and other effects on icon pages! A jailbreaking classic. ",
-	"desc_long": "Compatible with iOS 3 thru 13!<br><br>This tweak adds graphical effects to your icon pages as you scroll through the homescreen. In the tweak's settings, you can choose between 18 different modes. Here is the current list:<br><br>Cube (inside)<br>Cube (outside)<br>Page Slide Down<br>Page Slide Up<br>Curl and Roll Away (extremely popular!)<br>Curl and Roll Away Alternate<br>Vertical Scrolling<br>Page Fade<br>Stairs (down right)<br>Stairs (down left)<br>Page Squeeze<br>Icon Collection<br>Icon Scatter<br>Carousel<br>Flippy<br>Page Zoom<br>Pac-Man<br>Merry-Go-Round<br>Whirl<br>Snake<br>Wave<br>Icon Roll<br>Vortex<br>Shrink<br>Shrink Completely<br>Spin<br>Radar<br>Swirl<br>Whirlpool<br><p>New effects are still being developed. There is also an option to turn the effects off. Configure options from your Settings app. A Barrel settings app will be added to your home screen, all settings are entirely configurable from both the Barrel app and the native Settings app.<br>Completely tested and works on iOS 3 through iOS 13.x,",
-	"compatitle": "compatible with ios 6 through 13.6",
-	"changelog": "<strong></strong>",
-	"screenshot": "<div style='text-align:center;'><a href= 'https://apt.neutronfile.org/description.html?id=org.neutronfile.barrel' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/barrel1.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/barrel2.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/barrel3.jpg' target='_blank'><img width=95% src='http://moreinfo.thebigboss.org/moreinfo/barrel4.jpg'/></a><br></div>",
-	"open":true,
-	}

@@ -1,7 +1,0 @@
-{   "name":"AppSync Unified",
-	"desc_short": "Enables the ability to install unsigned/fakesigned iOS applications. ",
-	"desc_long": "AppSync Unified is a tweak that patches installd to allow for the installation of unsigned, fakesigned, or ad-hoc signed IPA packages on an iOS device.<br>AppSync Unified can be used to downgrade or clone installed apps, to download fakesigned IPAs (often emulators), and also to assist in the development of iOS applications using Xcode.",
-	"compatitle": "compatible with ios 6 through 13",
-	"changelog": "<strong>Added support for iOS 13.6.<br> No other changes were made to AppSync Unified's functionality or code.</strong>",
-	"open":true,
-	}

@@ -1,9 +1,8 @@
 {   "name": "MImport",
-	"desc_short": "Import Media Directly From Music App",
-	"desc_long": "✔️ Supported Audio files: mp3, m4a, m4r, aac, wav, aif, aiff, aifc, caf, amr<br>✔️ Supported Video files: mp4, m4v, mov, 3gp<br>✔️ Edit Tags before Import.<br>✔️ Select Multiples files to Import.<br>✔️ Import m4a/m4r as Ringtone.<br>✔️ Import Media Via Documents Share/Open In App<br>✔️ URL Schema to Import Media<br>✔️ One Click to Fetch Artwork, Metadatas<br><br>URL Schema like this: music:///mimport?path=/var/mobile/music_to_import.mp3",
-	"compatitle": "iOS 6 through 13",
-	"changelog": "<strong>0.0~beta38</strong><br>- Fix Alert's in iOS 13.5;<br><strong>0.0~beta37</strong><br>+ Feature Convert Media (Online);<br>+ Better Compatibility iOS 13;<br><strong>0.0~beta36a</strong><br>- Improved MImport SharePlugin;<br>- Disabled Open in Music on iOS >",
-	"screenshot": "<iframe width='100%' height='100%' src='https://www.youtube.com/embed/NEtXmK5jDMs' frameborder='0' allow='accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture' allowfullscreen><div style='text-align:center;'></iframe>",
+	"desc_short": "Media Importer Directly From Music App",
+	"compatitle": "iOS 8, 9, 10 & 11 & 12 & 13",
+	"changelog": "<strong>0.0~beta38</strong>",
+	"screenshot": "<iframe width='100%' height='95%' src='https://www.youtube.com/embed/NEtXmK5jDMs' frameborder='0' allow='accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture' allowfullscreen></iframe>",
 	"open": true,
 
 	}

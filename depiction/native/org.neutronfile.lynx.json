@@ -37,7 +37,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.1.4"
+          "text": "1.5-2"
         },
         {
           "class": "DepictionTableTextView",
@@ -117,7 +117,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "Lynx 1.1.4 – Updated 2020-06",
+          "text": "Lynx 1.5-2 – Updated 2020-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
@@ -134,7 +134,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "1.1.4 ~stabel.! Full support for iOS 13.4"
+          "markdown": "1.5-2 ~stabel.! Full support for iOS 13.4"
         },{
           "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
