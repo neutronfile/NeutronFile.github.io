@@ -3,7 +3,7 @@
    "desc_long": "Dra1n is a tweak that can help find out if newly installed tweaks are causing battery drain on your device. Dra1n does this through individual device measurements as well as compiled data from other users submitted to our server. Dra1n will notify you if a newly installed tweak causes significant battery drain. Dra1n will work in the background of your device, and will give you a notification when your discharge increases significantly after installing new tweak(s).",
 	"compatitle": "iOS 11 & 12 & 13",
 	"changelog": "<strong>* Fixed issue where DRM would trigger if Dynastic had a server issue.<br> * Fixed random crash when user had 7 averages </strong>",
-	"screenshot": "<div style='text-align:center;'><a href= src='' target='_blank'><img width=95% src='#' target='_blank'><img width=95% src='#' target='_blank'><img width=95% src='#' target='_blank'><img width=95% src='#'/></a><br></div>",
+	"screenshot": "<div style='text-align:center;'><a href= src='https://apt.neutronfile.org/description.html?id=org.neutronfile.dra1n' target='_blank'><img width=95% src='https://i.imgur.com/MR6aGnB.png' target='_blank'><img width=95% src='https://i.imgur.com/mHb8qRr.png' target='_blank'><img width=95% src='https://i.imgur.com/beAJQ7r.png' target='_blank'><img width=95% src='https://i.imgur.com/ZiI54AK.png'/></a><br></div>",
 	"open": true,
 
 	}

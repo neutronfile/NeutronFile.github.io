@@ -1,7 +1,7 @@
 {
   
   "minVersion": "0.1",
-  "headerImage": "#",
+  "headerImage": "https://i.imgur.com/Vq3Bphx.png",
   "tintColor": "#477D76",
   "tabs": [
     {
@@ -11,16 +11,16 @@
           "class": "DepictionScreenshotsView",
           "screenshots": [
             {
-              "url": "#",
+              "url": "https://i.imgur.com/MR6aGnB.png",
               "accessibilityText": "Screenshot0"
             },{
-              "url": "#",
+              "url": "https://i.imgur.com/mHb8qRr.png",
               "accessibilityText": "Screenshot1"
             },{
-              "url": "#",
+              "url": "https://i.imgur.com/beAJQ7r.png",
               "accessibilityText": "Screenshot1"
             },{
-              "url": "#",
+              "url": "https://i.imgur.com/ZiI54AK.png",
               "accessibilityText": "Screenshot1"
             }
           ],
