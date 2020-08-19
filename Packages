@@ -32,7 +32,7 @@ Homepage: NeutronFile.org <http://neutronfile.org/>
 Description: Find out which packages are dra1ning your battery! Find out what tweaks are draining your battery Compatible with iOS 11 through 13
 Name: Dra1n
 Author: MegaDzv & Charlie While
-SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile..json
+SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.dra1n.json
 Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.
 Icon: https://repo-cdn.dynastic.co/342300381885235201.fc2c9ea5055d0d8a1f498be667fecb21-96?size=96
 
