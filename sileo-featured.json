@@ -4,6 +4,16 @@
   "itemCornerRadius": 10,
   "banners": [
     {
+       "url":"#",
+       "title":"Dra1n",
+       "package":"org.neutronfile.dra1n",
+       "hideShadow":false
+    },{
+       "url":"#",
+       "title":"Honey",
+       "package":"org.neutronfile.honey",
+       "hideShadow":false
+    },{
        "url":"https://i.imgur.com/lBJh7tP.jpg",
        "title":"Cydown",
        "package":"org.neutronfile.cydown",
