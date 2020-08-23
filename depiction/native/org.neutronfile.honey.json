@@ -9,7 +9,7 @@
         {
           "class": "DepictionTableButtonView",
           "title": "Show video tutorials in Youtube",
-          "action": "https://www.youtube.com/embed/Zy8tgE-9gyg",
+          "action": "#",
           "openExternal": "true",
           "tintColor": "#477D76"
         },{

@@ -22,7 +22,7 @@ Architecture: iphoneos-arm
 Version: 1.4
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
-Depends: mobilesubstrate, firmware (>= 11.0), ws.hbang.common, preferenceloader, com.cokepokes.libnotifications (>= 0.2-2), com.muirey03.libmryipc
+Depends: mobilesubstrate, dpkg, firmware (>= 11.0), ws.hbang.common, preferenceloader, com.cokepokes.libnotifications (>= 0.2-2), com.muirey03.libmryipc
 Filename: ./debfiles//org.neutronfile.dra1n_1.4_iphoneos-arm_NeutronFile.deb
 Size: 2734998
 MD5sum: 9919375b88fb47015b7cc84984669f82
@@ -33,7 +33,7 @@ Description: Find out which packages are dra1ning your battery! Find out what tw
 Name: Dra1n
 Author: MegaDzv & Charlie While
 SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.dra1n.json
-Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.
+Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.dra1n
 Icon: https://repo-cdn.dynastic.co/342300381885235201.fc2c9ea5055d0d8a1f498be667fecb21-96?size=96
 
 Package: org.neutronfile.Flex3beta
@@ -378,7 +378,7 @@ Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.localiapstore13.json
 Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.localiapstore13
-Depends: mobilesubstrate
+Depends: mobilesubstrate, dpkg
 Filename: ./debfiles//org.neutronfile.localiapstore13_0.0.2_iphoneos-arm_NeutronFile.deb
 Size: 3788
 MD5sum: a0e22b96e01371d84cb82c8f57daf369
@@ -427,16 +427,33 @@ Icon: https://i.imgur.com/3QJUcae.png
 
 Package: org.neutronfile.lynx
 Architecture: iphoneos-arm
-Version: 1.5-2
+Version: 1.1.4
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
-Installed-Size: 1808
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
-Filename: ./debfiles//org.neutronfile.lynx_1.5-2_iphoneos-arm_NeutronFile.deb
-Size: 740124
-MD5sum: c44c3f20401f178a15b2db8516da3e30
-SHA1: 167767f3f7f19a239561b209419b4f9b8ae062df
-SHA256: a5b53481af7f9340c5af27e260d472ae05ad94108fdd0636a33dd9d4f9ae07da
+Filename: ./debfiles//org.neutronfile.lynx_1.1.4_iphoneos-arm_NeutronFile.deb
+Size: 359464
+MD5sum: 49cb2d23822704b80503d98021d5ea58
+SHA1: 88ca0f802f030f2a5ee9e360ee7ce47d7a5ee3ff
+SHA256: 3cf23e7783c4241ec7fe4af44a5c85175865a58151e94064d2ef94364760aaa9
+Description: Ultimate device customization
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios13.3
+Name: Lynx
+Author: MTAC <mtactheming@gmail.com>
+Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.lynx
+SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.lynx.json
+
+Package: org.neutronfile.lynx
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: NeutronFile <neutronfile19@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
+Filename: ./debfiles//org.neutronfile.lynx_1.1.1_iphoneos-arm_NeutronFile.deb
+Size: 303898
+MD5sum: 481a04e2b112ab7860d1596f22d060bb
+SHA1: fbab35e9afd5e58415dce1e26e60c3d5394e6eef
+SHA256: ba17da3187374384bcf1e7f01a385fbb3944e11e634f2c4e94feeeaa47fafc57
 Description: Ultimate device customization
 Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios13.3
 Name: Lynx
