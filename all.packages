@@ -1,5 +1,41 @@
 [
   {
+    "package": "org.neutronfile.batteryramp",
+    "section": "Tweaks",
+    "version": "1.0.1",
+    "name": "BatteryRamp",
+    "size": 56826
+  },{
+    "package": "org.neutronfile.smartbattery",
+    "section": "Tweaks",
+    "version": "3.2N",
+    "name": "SmartBattery",
+    "size": 777910
+  },{
+    "package": "org.neutronfile.icleanerpro",
+    "section": "Utilities",
+    "version": "7.3.8N",
+    "name": "iCleanerPro",
+    "size": 9550634
+  },{
+    "package": "org.neutronfile.watusitools",
+    "section": "System",
+    "version": "2.1.25N",
+    "name": "WatusiTools",
+    "size": 13830608
+  },{
+    "package": "org.neutronfile.blockyoux-procursus",
+    "section": "Tools",
+    "version": "3.0.2-1",
+    "name": "BlockYouX Procursus Edition",
+    "size": 107716
+  },{
+    "package": "org.neutronfile.blockyoux",
+    "section": "Tools",
+    "version": "3.0.2",
+    "name": "BlockYouX",
+    "size": 107764
+  },{
     "package": "org.neutronfile.dra1n",
     "section": "Tweaks",
     "version": "1.4",

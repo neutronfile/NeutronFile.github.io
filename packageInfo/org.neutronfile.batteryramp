@@ -1,0 +1,8 @@
+{   "name": "BatteryRamp",
+	"desc_short": "To speed up the phone charging by disabling a lot of properties that slow shipping.",
+   	"desc_long": "To speed up the phone charging by disabling a lot of properties that slow shipping.
+and when you want to re-use the phone Unplug the charging or press 3 times on the sound upload.",
+	"compatitle": "iOS 10 to up ",
+	"changelog": "<strong>1.0.1</strong>",
+	"open": true,
+	}

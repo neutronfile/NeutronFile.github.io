@@ -1,3 +1,123 @@
+Package: org.neutronfile.batteryramp
+Version: 1.0.1
+Section: Tweaks
+Maintainer: NeutronFile
+Filename: ./debfiles//org.neutronfile.batteryramp_1.0.1_iphoneos-arm_NeutronFile.deb
+Size: 56826
+MD5sum: de280087dc00991a52764ad35504a09c
+SHA1: 536abb75bb94fe80946b9437899d2229a744bbe6
+SHA256: c60cd345d0ee58153beb4512aadae0a29ea38728df4d6e37718e580dd9168654
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Name: BatteryRamp
+Author: MegaDev
+SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.batteryramp.json
+Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.batteryramp
+
+Package: org.neutronfile.smartbattery
+Version: 3.2N
+Section: Tweaks
+Maintainer: NeutronFile
+Filename: ./debfiles//org.neutronfile. smartbattery_3.2N_iphoneos-arm_NeutronFile.deb
+Size: 777910
+MD5sum: 9f0fd9bcee9a7614123e4481d7dbeea0
+SHA1: 4c9d5aa793c54d2d9eebda5ccff8d6be230497ad
+SHA256: a030eab435c5721fca7a467cdaa0c4e12113e5ca70de875f77549b5b2657b631
+Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, com.spark.libsparkcolourpicker, com.opa334.ccsupport
+Architecture: iphoneos-arm
+Name: SmartBattery
+Author: elias
+SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.smartbattery.json
+Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.smartbattery
+Icon: https://repo.packix.com/api/Packages/5d81eb2712954e001a518c8c/icon/download?size=medium
+
+Package: org.neutronfile.watusitools
+Architecture: iphoneos-arm
+Version: 2.1.25N
+Section: System
+Maintainer: NeutronFile <neutronfile19@gmail.com>
+Depends: firmware (>= 9.0), darwintools, wget
+Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, org.neutronfile.watusi, org.neutronfile.stalky, org.neutronfile.onlinenotify
+Filename: ./debfiles//org.neutronfile.watusitools_2.1.25N_iphoneos-arm_NeutronFile.deb
+Size: 13830608
+MD5sum: c4b86f64fbf3fda7deae3f7a8ebd3226
+SHA1: 96f2329702a6b00464f4e892cf62f13cb6fbacd3
+SHA256: 2d47ae5784b53eb9fee0811676506c58c7bd4fc29ad12a2821d250bff5972583
+Homepage: NeutronFile.org <http://neutronfile.org/>
+Description: Library for Watusi and WhatsApp tweaks
+Name: Watusitools
+Author: Fouad Raheb
+SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.watusitools.json
+Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.watusitools
+Icon: https://apt.neutronfile.org/images/Neutronfile.png
+
+Package: org.neutronfile.icleanerpro
+Architecture: iphoneos-arm
+Version: 7.8.3N
+Section: Utilities
+Maintainer: NeutronFile <neutronfile19@gmail.com>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./debfiles//org.neutronfile.icleanerpro_7.8.3N_iphoneos-arm_NeutronFile.deb
+Size: 9550634
+MD5sum: ba765dad7a471b3829285c40cadd472a
+SHA1: 93f53b10e2c89c7ed76be947e357431593fee296
+SHA256: 1d6aa0b9c0d3b5217fe026598a4aaae0e7cba66fcf97a39dd31701010fc0eb1f
+Homepage: NeutronFile.org <http://neutronfile.org/>
+Description: The first real iOS system cleaner & optimizer
+Name: iCleaner Pro
+Author: Ivano Bilenchi <support@ib-soft.net>
+SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.icleanerpro.json
+Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.icleanerpro
+Icon: https://apprecs.org/ios/images/app-icons/256/3a/1161431866.jpg
+
+Package: org.neutronfile.blockyoux
+Priority: standard
+Name: BlockYouX
+Version: 3.0.2
+Section: Tools
+Pre-Depends: dpkg
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<<14.0), sed, grep, coreutils, shell-cmds, com.ps.letmeblock
+Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblockermegaipv4, com.thireus.untrustedhostsblockermega, com.thireus.untrustedhostsblockerexperimental, com.ceadd.blockyoux-procursus, org.neutronfile.blockyoux-procursus
+Architecture: iphoneos-arm
+Author: Ceadd <ceadd@ceadd.ca>
+Filename: ./debfiles//org.neutronfile.blockyoux_3.0.2_iphoneos-arm_NeutronFile.deb
+Size: 107768
+MD5sum: 76bf7931d3cde550d9fab8bc352e46ea
+SHA1: 048c5f0b28197af91e533ea8292201ae76ae85e6
+SHA256: d50fb3034fc642e7e95e8c4c06cb20d84c06aec323451e9f1e08bb7ce6c302bd
+Maintainer: NeutronFile <neutronfile19@gmail.com>
+Description: The Best Ad Blocker. Period.
+Homepage: https://neutronFile.org
+SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.blockyoux.json
+Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.blockyoux
+Icon: https://apt.neutronfile.org/images/Neutronfile.png
+Tag: compatible_min::ios11, compatible_max::ios14
+
+Package: org.neutronfile.blockyoux-procursus
+Priority: standard
+Name: BlockYouX Procursus Edition
+Version: 3.0.2-1
+Section: Tools
+Pre-Depends: dpkg
+Depends: org.coolstar.libhooker, firmware (>= 11.0), firmware (<<14.0), sed, grep, coreutils, shell-cmds
+Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblockermegaipv4, com.thireus.untrustedhostsblockermega, com.thireus.untrustedhostsblockerexperimental, com.ceadd.blockyoux, org.neutronfile.blockyoux
+Architecture: iphoneos-arm
+Filename: ./debfiles//org.neutronfile.blockyoux-procursus_3.0.2-1_iphoneos-arm_NeutronFile.deb
+Size: 107716
+MD5sum: d5c666585d17493f329850b977e1bab6
+SHA1: 7ef84bcf766a47e5a45fb5aa6562b8d7fc06a869
+SHA256: 37154af04b98bafb5108c01dd074aa668c00c355b4abea54825a16184332537b
+Author: Ceadd <ceadd@ceadd.ca>
+Maintainer: NeutronFile <neutronfile19@gmail.com>
+Description: The Best Ad Blocker. Period.
+Homepage: https://neutronfile.org
+SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.blockyoux-procursus.json
+Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.blockyoux-procursus
+Icon: https://apt.neutronfile.org/images/Neutronfile.png
+Tag: compatible_min::ios11, compatible_max::ios14
+
 Package: org.neutronfile.honey
 Architecture: iphoneos-arm
 Version: 1.0.3
