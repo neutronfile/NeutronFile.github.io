@@ -28,7 +28,7 @@ Architecture: iphoneos-arm
 Name: SmartBattery
 Author: elias
 SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.smartbattery.json
-Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.smartbattery
+Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.smartbattery
 Icon: https://repo.packix.com/api/Packages/5d81eb2712954e001a518c8c/icon/download?size=medium
 
 Package: org.neutronfile.watusitools
