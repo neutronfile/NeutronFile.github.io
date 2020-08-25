@@ -120,7 +120,7 @@ Tag: compatible_min::ios11, compatible_max::ios14
 
 Package: org.neutronfile.honey
 Architecture: iphoneos-arm
-Version: 1.0.3N
+Version: 1.0.3
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
@@ -139,7 +139,7 @@ Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.honey
 
 Package: org.neutronfile.dra1n
 Architecture: iphoneos-arm
-Version: 1.4N
+Version: 1.4
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, dpkg, firmware (>= 11.0), ws.hbang.common, preferenceloader, com.cokepokes.libnotifications (>= 0.2-2), com.muirey03.libmryipc
