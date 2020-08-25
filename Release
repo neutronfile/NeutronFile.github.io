@@ -1,8 +1,8 @@
 Origin: NeutronFile
 Label: Neutronfile
 Suite: stable
-Version: 1.1
+Version: 1.0
 Codename: NeutronFile
 Architecture: iphoneos-arm
 Components: main
-Description: NeutronFile Best Repo for all Packaging! Cydia + Sileo + Installer + Zebra!.
+Description: NeutronFile Best Repo for all Packaging! Cydia + Sileo + Installer + Zebra! & Saily.
