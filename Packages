@@ -139,18 +139,18 @@ Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.honey
 
 Package: org.neutronfile.dra1n
 Architecture: iphoneos-arm
-Version: 1.4
+Version: 1.4N
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, dpkg, firmware (>= 11.0), ws.hbang.common, preferenceloader, com.cokepokes.libnotifications (>= 0.2-2), com.muirey03.libmryipc
-Filename: ./debfiles//org.neutronfile.dra1n_1.4_iphoneos-arm_NeutronFile.deb
-Size: 2734998
-MD5sum: 9919375b88fb47015b7cc84984669f82
-SHA1: 820f07c8a027326506038353d71f4a741397ef5c
-SHA256: dca66da684c73f33745e4e68c43476fc9d3c8b94a81170f7d7ce14695e5cf246
+Filename: ./debfiles//org.neutronfile.dra1n_1.4N_iphoneos-arm_NeutronFile.deb
+Size: 2735010
+MD5sum: 898612aff73d9b02f5df74ccf1cd72b5
+SHA1: 461e40315f45bdcfae6a168edca4886fba01952b
+SHA256: 8c4fe616677c7908024e676502e16f1be57b8bfa773df43f5273500f206e7938
 Homepage: NeutronFile.org <http://neutronfile.org/>
 Description: Find out which packages are dra1ning your battery! Find out what tweaks are draining your battery Compatible with iOS 11 through 13
-Name: Dra1n
+Name: Dra1n Cracked
 Author: MegaDzv & Charlie While
 SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.dra1n.json
 Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.dra1n
