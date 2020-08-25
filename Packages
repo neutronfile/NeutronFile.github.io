@@ -120,16 +120,16 @@ Tag: compatible_min::ios11, compatible_max::ios14
 
 Package: org.neutronfile.honey
 Architecture: iphoneos-arm
-Version: 1.0.3
+Version: 1.0.2
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Conflicts: com.blakeboxberger.dockremover
-Filename: ./debfiles//org.neutronfile.honey_1.0.3_iphoneos-arm_NeutronFile.deb
-Size: 77198
-MD5sum: f65b1a1a34d2e59218089bd4083e7478
-SHA1: e7b53a16e5cef3aa1db3f237d6ec5154e192566d
-SHA256: 5b77c8d44473f51f8a2008b6cd12354c35f2c06b74534432eb1f358f29fff362
+Filename: ./debfiles//org.neutronfile.honey_1.0.2_iphoneos-arm_NeutronFile.deb
+Size: 77194
+MD5sum: c839ecebd1ac8212ba16e55e96e23f06
+SHA1: 8468f1bbc9541f86f9a1931a4421f554d78d6456
+SHA256: dd1738a8da51c896f11efa754ad2c30e27c3bcfba4c5c13bfb6ebbfef96d9b5a
 Homepage: http://www.neutronfile.org/
 Description: The watchOS app launcher, now on your iOS device!.
 Name: Honey
@@ -139,12 +139,12 @@ Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.honey
 
 Package: org.neutronfile.dra1n
 Architecture: iphoneos-arm
-Version: 1.4N
+Version: 1.2N
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, dpkg, firmware (>= 11.0), ws.hbang.common, preferenceloader, com.cokepokes.libnotifications (>= 0.2-2), com.muirey03.libmryipc
-Filename: ./debfiles//org.neutronfile.dra1n_1.4N_iphoneos-arm_NeutronFile.deb
-Size: 2735010
+Filename: ./debfiles//org.neutronfile.dra1n_1.2N_iphoneos-arm_NeutronFile.deb
+Size: 2734882
 MD5sum: c259d6b33baefa31f5b86807e89c71f6
 SHA1: dc1adcd725ee9223a48a3b716f73c1854a7056f2
 SHA256: 3617987d43433827f6fbf866470c3377224494dd46725f0ae4f9b2d825aa9c20
