@@ -1,3 +1,19 @@
+Package: org.neutronfile.letmeblockb
+Section: Tweaks
+Maintainer: NeutronFile
+Architecture: iphoneos-arm
+Version: 0.0.7.2
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debfiles//org.neutronfile.letmeblockb_0.0.7.2_iphoneos-arm_NeutronFile
+Size: 9870
+MD5sum: b1f7c3abe1b11f8d4e87886d89d92ffc
+SHA1: 87ab57f756d2c0b3e5f7237024722e17153c5c38
+SHA256: 2b5492798ddf1848a5e93e7a0461db9b6df0d808f24f301b3216b86614f9e8a7
+Homepage: http://neutronfile.org/
+Description: Make mDNSResponder care more about /etc/hosts
+Name: LetMeBlock
+Author: PoomSmart
+
 Package: org.neutronfile.libbulletin
 Section: Development
 Maintainer: NeutronFile <neutronfile19@gmail.com>
@@ -118,15 +134,15 @@ Name: BlockYouX
 Version: 3.0.2
 Section: Tools
 Pre-Depends: dpkg
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (<<14.0), sed, grep, coreutils, shell-cmds, org.neutronfile.letmeblock, com.opa334.ccsupport
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<<14.0), sed, grep, coreutils, shell-cmds, org.neutronfile.letmeblock | com.ps.letmeblock
 Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblockermegaipv4, com.thireus.untrustedhostsblockermega, com.thireus.untrustedhostsblockerexperimental, com.ceadd.blockyoux-procursus, org.neutronfile.blockyoux-procursus
 Architecture: iphoneos-arm
 Author: Ceadd <ceadd@ceadd.ca>
 Filename: ./debfiles//org.neutronfile.blockyoux_3.0.2_iphoneos-arm_NeutronFile.deb
 Size: 107768
-MD5sum: 76bf7931d3cde550d9fab8bc352e46ea
-SHA1: 048c5f0b28197af91e533ea8292201ae76ae85e6
-SHA256: d50fb3034fc642e7e95e8c4c06cb20d84c06aec323451e9f1e08bb7ce6c302bd
+MD5sum: a1afabf85d203d0c3f231bb53dd50191
+SHA1: 073a129195578fcf728f88c1a68305a71efabbaf
+SHA256: e19ff3d2da0464e9ce292de9832e2cf72f842ba546c04a6aa2d4d4d39dac429d
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Description: The Best Ad Blocker. Period.
 Homepage: https://neutronFile.org
