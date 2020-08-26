@@ -1,3 +1,43 @@
+Package: org.neutronfile.libbulletin
+Section: Development
+Maintainer: NeutronFile <neutronfile19@gmail.com>
+Architecture: iphoneos-arm
+Version: 0.1-153
+Filename: ./debfiles//org.neutronfile.libbulletin_0.1-153_iphoneos-arm_NeutronFile.deb
+Size: 58060
+MD5sum: f42dadb0feeb2f089e96119c4d0c7921
+SHA1: f7e27665ffd3d3e6fdeed556e25edcf0b035b40a
+SHA256: a443f01347ef899ba3b090a235e865af09fdc0d788a8e93646ea17e1e129bebf
+Depends: mobilesubstrate (>= 0.9.5000)
+Description: Simple library that displays bulletins
+Name: libbulletin
+Homepage: http://neutronfile.org
+Author: Elias Limneos <limneoselias@gmail.com>
+Sponsor: NeutronFile.org <http://neutronfile.org>
+dev: limneos
+Tag: cydia::obsolete, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+
+Package: org.neutronfile.appsyncunified
+Architecture: iphoneos-arm
+Version: 82.0E
+Section: Tweaks
+Maintainer: NeutronFile <neutronfile19@gmail.com>
+Depends: firmware (>= 5.0), firmware (<= 13.6), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Filename: ./debfiles//org.neutronfile.appsyncunified_82.0E_iphoneos-arm_NeutronFile.deb
+Size: 43278
+MD5sum: cee90195b985a999bb4adcd4e8540fba
+SHA1: 029cd8b6899ace06c0991975898da3725ec7ddd9
+SHA256: 97c64c9db09ece0e49affe21cc34b19242a079f1222f79573870ef4e0164b6b6
+Homepage: NeutronFile.org <http://neutronfile.org/>
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Name: AppSync Unified
+Author: Linus Yang, Karen <karen@akemi.ai>
+SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.appsyncunified.json
+Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.appsyncunified
+Icon: https://apt.neutronfile.org/images/Neutronfile.png
+
 Package: org.neutronfile.batteryramp
 Version: 1.0.1
 Section: Tweaks
@@ -15,20 +55,20 @@ SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.bat
 Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.batteryramp
 
 Package: org.neutronfile.smartbattery
-Version: 3.2N
+Version: 2.7N
 Section: Tweaks
 Maintainer: NeutronFile
-Filename: ./debfiles//org.neutronfile. smartbattery_3.2N_iphoneos-arm_NeutronFile.deb
-Size: 777910
-MD5sum: 9f0fd9bcee9a7614123e4481d7dbeea0
-SHA1: 4c9d5aa793c54d2d9eebda5ccff8d6be230497ad
-SHA256: a030eab435c5721fca7a467cdaa0c4e12113e5ca70de875f77549b5b2657b631
-Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin, com.spark.libsparkcolourpicker, com.opa334.ccsupport
+Filename: ./debfiles//org.neutronfile. smartbattery_2.7N_iphoneos-arm_NeutronFile.deb
+Size: 497260
+MD5sum: 287469480476432fef440e50f93b2908
+SHA1: a68a1a61f38c4664df94797a5ce0bfda7703196a
+SHA256: ae5b17fca75885c51034a79cee4a0e2f6e3753a312db0f898bcfa848390d2d8d
+Depends: mobilesubstrate, ws.hbang.common, net.limneos.libbulletin | org.neutronfile.libbuletin | com.hackyouriphone.libbuletin, ws.hbang.alderis | com.hackyouriphone.alderis, com.spark.libsparkapplist | com.hackyouriphone.libsparkapplist | com.hackyouriphone.applist | com.hackyouriphone.libsparkapplist | com.hackyouriphone.applist | com.hackyouriphone.applist | com.hackyouriphone.applist
 Architecture: iphoneos-arm
 Name: SmartBattery
 Author: elias
 SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.smartbattery.json
-Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.smartbattery
+Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.smartbattery
 Icon: https://repo.packix.com/api/Packages/5d81eb2712954e001a518c8c/icon/download?size=medium
 
 Package: org.neutronfile.watusitools
@@ -78,7 +118,7 @@ Name: BlockYouX
 Version: 3.0.2
 Section: Tools
 Pre-Depends: dpkg
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (<<14.0), sed, grep, coreutils, shell-cmds, com.ps.letmeblock
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<<14.0), sed, grep, coreutils, shell-cmds, org.neutronfile.letmeblock, com.opa334.ccsupport
 Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblockermegaipv4, com.thireus.untrustedhostsblockermega, com.thireus.untrustedhostsblockerexperimental, com.ceadd.blockyoux-procursus, org.neutronfile.blockyoux-procursus
 Architecture: iphoneos-arm
 Author: Ceadd <ceadd@ceadd.ca>
@@ -137,17 +177,17 @@ Author: Blake Boxberger
 SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.honey.json
 Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.honey
 
-Package: org.neutronfile.dra1n
+Package: org.neutronfile.draIn
 Architecture: iphoneos-arm
 Version: 1.2N
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, dpkg, firmware (>= 11.0), ws.hbang.common, preferenceloader, com.cokepokes.libnotifications (>= 0.2-2), com.muirey03.libmryipc
-Filename: ./debfiles//org.neutronfile.dra1n_1.2N_iphoneos-arm_NeutronFile.deb
-Size: 2734882
-MD5sum: c259d6b33baefa31f5b86807e89c71f6
-SHA1: dc1adcd725ee9223a48a3b716f73c1854a7056f2
-SHA256: 3617987d43433827f6fbf866470c3377224494dd46725f0ae4f9b2d825aa9c20
+Filename: ./debfiles//org.neutronfile.draIn_1.2N_iphoneos-arm_NeutronFile.deb
+Size: 2734866
+MD5sum: a2be67ba64365836734b34aaeff192cf
+SHA1: 8b4129c8da2f22320a8421a615587134dc72499b
+SHA256: 50fa7b63ff6f9b767d9bad3d4339c4ff0a8308437615a7563ebc01992e671348
 Homepage: NeutronFile.org <http://neutronfile.org/>
 Description: Find out which packages are dra1ning your battery! Find out what tweaks are draining your battery Compatible with iOS 11 through 13
 Name: Dra1n

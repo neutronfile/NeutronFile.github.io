@@ -6,6 +6,18 @@
     "name": "BatteryRamp",
     "size": 56826
   },{
+    "package": "org.neutronfile.appsyncunified",
+    "section": "Tweaks",
+    "version": "82.0E",
+    "name": "AppSync Unified",
+    "size": 43278
+  },{
+    "package": "org.neutronfile.libbulletin",
+    "section": "Tweaks",
+    "version": "0.1-153",
+    "name": "libbulletin",
+    "size": 58060
+  },{
     "package": "org.neutronfile.smartbattery",
     "section": "Tweaks",
     "version": "3.2N",
