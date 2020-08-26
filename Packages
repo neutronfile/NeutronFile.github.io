@@ -134,7 +134,7 @@ Name: BlockYouX
 Version: 3.0.2
 Section: Tools
 Pre-Depends: dpkg
-Depends: mobilesubstrate, firmware (>= 11.0), firmware (<<14.0), sed, grep, coreutils, shell-cmds, org.neutronfile.letmeblockb | com.ps.letmeblockb
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<<14.0), sed, grep, coreutils, shell-cmds, org.neutronfile.letmeblockb
 Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblockermegaipv4, com.thireus.untrustedhostsblockermega, com.thireus.untrustedhostsblockerexperimental, com.ceadd.blockyoux-procursus, org.neutronfile.blockyoux-procursus
 Architecture: iphoneos-arm
 Author: Ceadd <ceadd@ceadd.ca>
