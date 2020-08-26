@@ -19,17 +19,17 @@ Tag: cydia::obsolete, purpose::extension, compatible::ios7, compatible::ios8, co
 
 Package: org.neutronfile.appsyncunified
 Architecture: iphoneos-arm
-Version: 82.0E
+Version: 82.0
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: firmware (>= 5.0), firmware (<= 13.6), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
 Replaces: us.hackulo.appsync50
-Filename: ./debfiles//org.neutronfile.appsyncunified_82.0E_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles//org.neutronfile.appsyncunified_82.0_iphoneos-arm_NeutronFile.deb
 Size: 43278
-MD5sum: cee90195b985a999bb4adcd4e8540fba
-SHA1: 029cd8b6899ace06c0991975898da3725ec7ddd9
-SHA256: 97c64c9db09ece0e49affe21cc34b19242a079f1222f79573870ef4e0164b6b6
+MD5sum: ec866cde2a6e2bb054e1c8e2de93e865
+SHA1: 5bcf64a5092c5f3c23839d02f60b53f4a14e9141
+SHA256: d635241fc0b163c9e52ba94cb126c37fff876dce9d2001d24f0188692438f34d
 Homepage: NeutronFile.org <http://neutronfile.org/>
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Name: AppSync Unified
