@@ -58,7 +58,7 @@ Package: org.neutronfile.smartbattery
 Version: 2.7N
 Section: Tweaks
 Maintainer: NeutronFile
-Filename: ./debfiles//org.neutronfile. smartbattery_2.7N_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles//org.neutronfile.smartbattery_2.7N_iphoneos-arm_NeutronFile.deb
 Size: 497260
 MD5sum: 287469480476432fef440e50f93b2908
 SHA1: a68a1a61f38c4664df94797a5ce0bfda7703196a
