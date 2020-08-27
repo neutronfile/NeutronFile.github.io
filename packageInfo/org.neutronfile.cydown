@@ -5,6 +5,6 @@
 	"desc_long":"Tap Options To Configure.",
 	"compatitle": "compatible with ios 6 through 13",
 	"changelog": "<strong>7.1.0 + Option For Disable Auto Refresh Source in Zebra; + Fix Black View When installing raw .deb file in Installer; currently supports: cydia & zebra & Installer currently supports: cydia & zebra  Option For Disable in Cydia/Zebra; + More Compatibility for Zebra; </strong>",
-	"screenshot": "<div style='text-align:center;'><a href= src='' target='_blank'><img width=95% src='https://i.imgur.com/WFQxZTX.png' target='_blank'><img width=95% src='https://i.imgur.com/VHuahlc.png' target='_blank'><img width=95% src='https://i.imgur.com/QJ4LinI.png' target='_blank'><img width=95% src='https://i.imgur.com/FwXNGPp.png'/></a><br></div>",
+	"screenshot": "<div style='text-align:center;'><a href= src='https://i.imgur.com/WFQxZTX.png' target='_blank'><img width=95% src='https://i.imgur.com/VHuahlc.png' target='_blank'><img width=95% src='https://i.imgur.com/QJ4LinI.png' target='_blank'><img width=95% src='https://i.imgur.com/FwXNGPp.png'/></a><br></div>",
 	"open":true,
 	}
