@@ -1,3 +1,20 @@
+Package: org.neutronfile.localiapstore13
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: NeutronFile <neutronfile19@gmail.com>
+SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.localiapstore13.json
+Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.localiapstore13
+Depends: mobilesubstrate
+Filename: ./debfiles//org.neutronfile.localiapstore13_0.0.2_iphoneos-arm_NeutronFile.deb
+Size: 3706
+MD5sum: 5d04d7be7ebe1650ef2a5f774ec38387
+SHA1: d9cda4c5c0312414c8c1bcc7fd1c7058f2925652
+SHA256: a8d14ce61112b4f9371cd2b5380156c25473a3e0b723dbeb6d73d94bcd5df9f9
+Description: Free In-App Purchases include app IOS 13 bypass Lock iCloud (bypass verify Passcode, Touch ID or Face ID).  No options to configure!
+Name: LocalIAPStore13
+Author: pxcex
+
 Package: org.neutronfile.watusitools
 Architecture: iphoneos-arm
 Version: 2.1.25N
@@ -548,23 +565,6 @@ Name: Liberty Lite (Beta)
 Author: Ryley Angus
 Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
 
-Package: org.neutronfile.localiapstore13
-Architecture: iphoneos-arm
-Version: 0.0.2
-Section: Tweaks
-Maintainer: NeutronFile <neutronfile19@gmail.com>
-SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.localiapstore13.json
-Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.localiapstore13
-Depends: mobilesubstrate
-Filename: ./debfiles//org.neutronfile.localiapstore13_0.0.2_iphoneos-arm_NeutronFile.deb
-Size: 3788
-MD5sum: a0e22b96e01371d84cb82c8f57daf369
-SHA1: 351df64d16f228bb2ef898f4084000729907a52c
-SHA256: ecfcbfd1ce4204da2d84c5d53f3bf56ef13fbf1176e5c6cfdc852c6bcc3fbc4f
-Description: Free In-App Purchases include app IOS 13 bypass Lock iCloud (bypass verify Passcode, Touch ID or Face ID).  No options to configure!
-Name: LocalIAPStore13
-Author: pxcex
-
 Package: org.neutronfile.localiapstore
 Architecture: iphoneos-arm
 Version: 1.5-2E
@@ -920,9 +920,9 @@ Maintainer: NeutronFile <neutronfile19@gmail.com>
 Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios12.2
+MD5sum: 98e1371219294bd45200b8523ef8c468
 SHA1sum: bf8c28d6e7650fdc1b5a84c4bc5fd79a4761695a
 SHA256sum: aa78230520580d208c647c3bf614fe816a54b2570f941e03f453e02229b29658
-MD5sum: 98e1371219294bd45200b8523ef8c468
 Filename: ./debfiles//org.neutronfile.vivavideovip_7.0.4_iphoneos-arm_NeutonFile.deb
 Homepage: http://neutronfile.org
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.vivavideovip
