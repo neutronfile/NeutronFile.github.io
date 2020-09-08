@@ -923,7 +923,7 @@ Tag: purpose::extension, compatible_max::ios12.2
 MD5sum: 98e1371219294bd45200b8523ef8c468
 SHA1sum: bf8c28d6e7650fdc1b5a84c4bc5fd79a4761695a
 SHA256sum: aa78230520580d208c647c3bf614fe816a54b2570f941e03f453e02229b29658
-Filename: ./debfiles//org.neutronfile.vivavideovip_7.0.4_iphoneos-arm_NeutonFile.deb
+Filename: ./debfiles//org.neutronfile.vivavideovip_7.0.4_iphoneos-arm_NeutronFile.deb
 Homepage: http://neutronfile.org
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.vivavideovip
 SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.vivavideovip.json
