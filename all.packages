@@ -1,11 +1,5 @@
 [
   {
-    "package": "org.neutronfile.batteryramp",
-    "section": "Tweaks",
-    "version": "1.0.1",
-    "name": "BatteryRamp",
-    "size": 56826
-  },{
     "package": "org.neutronfile.icleanerpro",
     "section": "Utilities",
     "version": "7.3.8N",
