@@ -9,7 +9,7 @@ Author: NeutronFile
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 9716 Bytes
-Filename: ./debfiles//org.neutronfile.psiphon_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.psiphon_0.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: ecdaae0590d5aaa79fd1549da01d593c
 SHA1: 491544c71fb0119a314201f53544caedcd64f455
 SHA256: 0a2a59c75f4326e3f5fa3257b2eb0aa6d6b5c6278b6ac6b75a0d051fe2b3e11b
@@ -21,7 +21,7 @@ Version: 1.3.2
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, firmware (>= 11.0), ws.hbang.common, preferenceloader, com.cokepokes.libnotifications (>= 0.2-2), com.muirey03.libmryipc
-Filename: ./debfiles//org.neutronfile.dra1n_1.3.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.dra1n_1.3.2_iphoneos-arm_NeutronFile.deb
 Size: 7151226 Bytes
 MD5sum: d31296f05b43b8a4c8b5339aea01a54d
 SHA1: 36f7b64e56d6ab333d28da730e829fb434cbb65f
@@ -45,7 +45,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios12.4
 Size: 114982
-Filename: ./debfiles//org.neutronfile.kinemasterhack_0.0.4_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.kinemasterhack_0.0.4_iphoneos-arm_NeutronFile.deb
 MD5sum: c5082b708ce13a1408e5529a78ea96a7
 SHA1: b242d3b6cddf4c112393111aa3f1a59efb4f666a
 SHA256: ddee1a0f39f72bc507fcba50b6f6398e94afb19e4d51a689e505cd335ec68c57
@@ -62,7 +62,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 6502 Bytes
-Filename: ./debfiles//org.neutronfile.wpsofficehack_0.0.4_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.wpsofficehack_0.0.4_iphoneos-arm_NeutronFile.deb
 MD5sum: df9d1a2a73139c7eb0a15eef773ec447
 SHA1: 12bc7ddca30d89d9b3deeaebcdf0ff40fc5d692e
 SHA256: 37bf92087c0a3e1f3d3356fdc38769c7359b2894c6c34855905531bc7be1cc86
@@ -79,7 +79,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 124152 Bytes
-Filename: ./debfiles//org.neutronfile.vpnproxymasterhack_2.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.vpnproxymasterhack_2.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: fa4349df1df86a12c8ef53b293548cfc
 SHA1: 6025551338ad392e6371e4a15bf0eedeaa05421c
 SHA256: 441a648d73dd276dd4bcf430b155572debd3cff81a87605e9b6f1904b55837ff
@@ -96,7 +96,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 113412 Bytes
-Filename: ./debfiles//org.neutronfile.vpnaegishack_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.vpnaegishack_0.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: 022a44a59058e29debd04afddb434be7
 SHA1: 7bc0a6b73fbce6e7501d37bfa5b7a90bef9c8986
 SHA256: 5471b10a4651ac4251777fbcb17f15ba8bb1f12b8fc5a24a2a11198fa4741364
@@ -115,7 +115,7 @@ Tag: purpose::extension, compatible_max::ios13.7
 SHA1sum: 8c2b96e426e4c8cced5f76a893a43959558c742e
 SHA256sum: ae552d549df117d582937e2276c2f118e419484d8d17e49d1adec58d71669f88
 MD5sum: 30af13b01ea2caae7fa26872483fc6ca
-Filename: ./debfiles//org.neutronfile.vivavideovip_7.0.4_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.vivavideovip_7.0.4_iphoneos-arm_NeutronFile.deb
 Homepage: https://www.neutronfile.org
 
 Package: org.neutronfile.videostarhacknew
@@ -129,7 +129,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 113884 Bytes
-Filename: ./debfiles//org.neutronfile.videostarhacknew_3.0.1_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.videostarhacknew_3.0.1_iphoneos-arm_NeutronFile.deb
 MD5sum: e7f415591228eabc77bb542e9365de29
 SHA1: 574f0740cf172614250b450c6333f2f6d25b6fa2
 SHA256: 1584161567ce39ca941d0a50cd5e1be3a60bfda8c69f45bcad2fe09e5f990436
@@ -146,7 +146,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 5636 Bytes
-Filename: ./debfiles//org.neutronfile.turbovpnhack_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.turbovpnhack_0.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: fdd43f115460150b12e0450b0444364a
 SHA1: 4bac0aee2e93c3433fb35a363dc7c35892595447
 SHA256: a72d94bb9dd985a8f640572a70d86b63a346bb5c075f6ef83719e7a0774d242b
@@ -163,7 +163,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 113454 Bytes
-Filename: ./debfiles//org.neutronfile.touchvpn_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.touchvpn_0.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: 6ceb5647caec02b271f156d7f129c77c
 SHA1: 09ca8657561faef0c5c219ebdb293e0183b8f49a
 SHA256: 01df34d89ca127e19991522988b5213d9d8ac89cfca81999ebfaec18433b9db5
@@ -180,7 +180,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 113724 Bytes
-Filename: ./debfiles//org.neutronfile.starvpnhack_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.starvpnhack_0.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: 26851ca310f6842583563731f2505584
 SHA1: 26851ca310f6842583563731f2505584
 SHA256: cd6ddda9b67c9d7f4db7dba0da053d80a5ddcd35f4267a46ba21e59c5c923873
@@ -197,7 +197,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 115706 Bytes
-Filename: ./debfiles//org.neutronfile.polarisofficehack_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.polarisofficehack_0.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: 790e8c46d921f2647f5d38ffd0d51a34
 SHA1: d3439b37344f9b0b7878518beb7f36bee7c7bd25
 SHA256: f52013b05d3d7f26939650cbfda41423b0b76bc95950c70fa1d3c2fd7353dddd
@@ -214,7 +214,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 82046 Bytes
-Filename: ./debfiles//com.pxcex.picsarthack_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/com.pxcex.picsarthack_0.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: f86c581f304ed1bdce6323a50296ebd8
 SHA1: c711d40f3ea18327fd814dea2db8ead6e7acf212
 SHA256: ec5f101eca2e79256a62510739e96e1691caa2e283c11b54d7cf7ad758e1325d
@@ -231,7 +231,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 115934 Bytes
-Filename: ./debfiles//org.neutronfile.officesuitehack_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.officesuitehack_0.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: 9086de28ad1c0694a562be92fa8ce444
 SHA1: be413c643df31cdd42b132cd6aeca5ee8f32d28b
 SHA256: 509d54cc9a46229c7910f372cb2199d8d2c7987846251a41151639f0c6a977e2
@@ -248,7 +248,7 @@ Author: pxcex
 Section: Tweaks
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 3718 Bytes
-Filename: ./debfiles//org.neutronfile.localiapstore13_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.localiapstore13_0.0.2_iphoneos-arm_NeutronFile.deb
 SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.localiapstore13.json
 Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.localiapstore13
 MD5sum: 72a007e243c978530053c10fd5390359
@@ -267,7 +267,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 114280 Bytes
-Filename: ./debfiles//org.neutronfile.firstvpnhack_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.firstvpnhack_0.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: 1f7935eac10199e36939bd456135c2cb
 SHA1: 82f4cb8765864b91ed65071895e8f4cb7cfa1c3b
 SHA256: 08d1481e963f53710484794109ce2663b51e0ce1639ad62fdb78f95fd0b9f0a8
@@ -284,7 +284,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 116050 Bytes
-Filename: ./debfiles//org.neutronfile.adobesparkvideohack_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.adobesparkvideohack_0.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: f5db8e23ac386070fa40f43e8bdbad67
 SHA1: 51f2aed37ba6683e67cca87f0e619e7a7aea5209
 SHA256: 89d0acf3078cde4b10363b203a999274c5cecd45bc57b6fc9f78e005efcb2eed
@@ -301,7 +301,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 116444 Bytes
-Filename: ./debfiles//org.neutronfile.adobesparkposthack_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.adobesparkposthack_0.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: d897882196f67b831f8a87eb1e85e8dd
 SHA1: f9db790d1c845885c048fac5e7bf81013da08fbf
 SHA256: df31d8d81b28a27128059a14303acf620c619a8c6bf9ffa2da03b5c2cfc0d874
@@ -318,7 +318,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 4924 Bytes 
-Filename: ./debfiles//org.neutronfile.360vpn_0.0.4_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.360vpn_0.0.4_iphoneos-arm_NeutronFile.deb
 MD5sum: da495ff64f6773691ce62ab72d792639
 SHA1: cc626dbb8e3663a03c9a250cd373702ff939bef3
 SHA256: 7bba7834fcc74ed0c7a0d0e4e62cfdd75903d81b5baf3804de2759c46908a112
@@ -335,7 +335,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 114118 Bytes
-Filename: ./debfiles//org.neutronfile.adobesparkpagehack_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.adobesparkpagehack_0.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: bf0d7926af4e4e3fc55df46025058498
 SHA1: 12a676171933550fa4c26e23d9f1412d05417c6a
 SHA256: f6009e580e1a91be8e8ab3d58167c0c9780fd28b41592b1ab6996a8e6c5a65fe
@@ -352,7 +352,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 81944 Bytes
-Filename: ./debfiles//org.neutronfile.adoberushhack_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.adoberushhack_0.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: 7a6ed7be39c158c6086ccec9fb5d54b4
 SHA1: 01ba041972084e1b2827eac00f7df7ba6a56bba0
 SHA256: 9f063679b22866e9aa28e57612f8c5ff1503d57a60d5136a904db2676aab809f
@@ -366,7 +366,7 @@ Section: Tweaks
 Maintainer: NeutronFile <Neutronfile19@gmail.com>
 Installed-Size: 269
 Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
-Filename: ./debfiles//org.neutronfile.floatingdock_1.5_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.floatingdock_1.5_iphoneos-arm_NeutronFile.deb
 Size: 45264
 MD5sum: 0f34e7b0386cd4fad89916404223e7ca
 SHA1: 91e7f3b8ec6773804ec6ef3a5ee825d14ce99323
@@ -390,7 +390,7 @@ Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
-Filename: ./debfiles//org.neutronfile.icleanerpro_7.8.3N_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.icleanerpro_7.8.3N_iphoneos-arm_NeutronFile.deb
 Size: 9550634
 MD5sum: ba765dad7a471b3829285c40cadd472a
 SHA1: 93f53b10e2c89c7ed76be947e357431593fee296
@@ -410,7 +410,7 @@ Section: System
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: firmware (>= 9.0), darwintools, wget
 Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, org.neutronfile.watusi, org.neutronfile.stalky, org.neutronfile.onlinenotify
-Filename: ./debfiles//org.neutronfile.watusitools_2.1.25N_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.watusitools_2.1.25N_iphoneos-arm_NeutronFile.deb
 Size: 13830608
 MD5sum: c4b86f64fbf3fda7deae3f7a8ebd3226
 SHA1: 96f2329702a6b00464f4e892cf62f13cb6fbacd3
@@ -430,7 +430,7 @@ Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Installed-Size: 5114
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
-Filename: ./debfiles//org.neutronfile.safariplus_1.7.12_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.safariplus_1.7.12_iphoneos-arm_NeutronFile.deb
 Size: 1873546
 MD5sum: b4db88d585396c0ce437e4d82551d821
 SHA1: 374fe7f143c2c0647c3a7ffb7b8d031f770fb466
@@ -455,7 +455,7 @@ Maintainer: NeutronFile <neutronfile19@gmail.com>
 Provides: com.matchstic.extender-installer
 Depends: firmware (>= 9.0)
 Replaces: com.matchstic.extender-installer
-Filename: ./debfiles//org.neutronfile.reprovision_0.5.2~EOL_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.reprovision_0.5.2~EOL_iphoneos-arm_NeutronFile.deb
 Size: 14391250
 MD5sum: 05f1192fa1ac433150c41d4d163199e5
 SHA1: 30888b441074f1a3943c2aa8301e6e88838e8759
@@ -475,7 +475,7 @@ Version: 1.0.4E
 Section: Development
 Maintainer: NeutronFile
 Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
-Filename: ./debfiles//org.neutronfile.redeb_1.0.4E_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.redeb_1.0.4E_iphoneos-arm_NeutronFile.deb
 Size: 3576
 MD5sum: 13355eac83630f12969f466e80e13c38
 SHA1: 202fe719a37d53bb9f7059390d22e682a1bdbcf8
@@ -492,7 +492,7 @@ Version: 0.0.2E
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate
-Filename: ./debfiles//org.neutronfile.newtermtm_0.0.2E_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.newtermtm_0.0.2E_iphoneos-arm_NeutronFile.deb
 Size: 30006
 MD5sum: 9779fce94ff51680a660ab824578e074
 SHA1: 6e6040e9d2a0e6c96984ef31e987057e0e981def
@@ -509,7 +509,7 @@ Version: 0.0~beta38
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, unzip, unrar
-Filename: ./debfiles//org.neutronfile.mimport_0.0~beta38_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.mimport_0.0~beta38_iphoneos-arm_NeutronFile.deb
 Size: 1440990
 MD5sum: 001a5d2811fc94fa0ac1393d73a077ce
 SHA1: 4e382bbd4b74ecf4c19b2ed793a6fb509a25d416
@@ -528,7 +528,7 @@ Version: 1.1.4
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
-Filename: ./debfiles//org.neutronfile.lynx_1.1.4_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.lynx_1.1.4_iphoneos-arm_NeutronFile.deb
 Size: 359464
 MD5sum: 49cb2d23822704b80503d98021d5ea58
 SHA1: 88ca0f802f030f2a5ee9e360ee7ce47d7a5ee3ff
@@ -546,7 +546,7 @@ Version: 1.1.1
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, ws.hbang.common, firmware (>= 12.0), com.spark.libsparkapplist, com.spark.libsparkcolourpicker
-Filename: ./debfiles//org.neutronfile.lynx_1.1.1_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.lynx_1.1.1_iphoneos-arm_NeutronFile.deb
 Size: 303898
 MD5sum: 481a04e2b112ab7860d1596f22d060bb
 SHA1: fbab35e9afd5e58415dce1e26e60c3d5394e6eef
@@ -569,7 +569,7 @@ Author: NeutronFile
 Section: Addons
 Size: 8934
 Homepage: http://neutronfile.org
-Filename: ./debfiles//org.neutronfile.lynx-ar_0.1~ar_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.lynx-ar_0.1~ar_iphoneos-arm_NeutronFile.deb
 MD5sum: 0c07f24e41cbc9901fe321042d6b16f3
 SHA1: 535412c6f3241da83b6f2118470dedd2d6d09817
 SHA256: 868a9827e1f899a614a80a31e6551059bad4a74ab105a4d75670834a1182d727
@@ -582,7 +582,7 @@ Version: 1.5-2E
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
-Filename: ./debfiles//org.neutronfile.localiapstore_1.5-2E_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.localiapstore_1.5-2E_iphoneos-arm_NeutronFile.deb
 Size: 70850
 MD5sum: c4de72a83299812d48cef16928c0cca6
 SHA1: a786fbdf37c6fa03bef0ca0d6a005f7968899618
@@ -604,7 +604,7 @@ Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.libert
 Installed-Size: 616
 Depends: mobilesubstrate, preferenceloader, applist
 Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
-Filename: ./debfiles//org.neutronfile.libertylite.beta_0.2.12_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.libertylite.beta_0.2.12_iphoneos-arm_NeutronFile.deb
 Size: 82464
 MD5sum: 479410bebe2b2804aeacd68bf2727731
 SHA1: 903cd50228bdf60872cdafd883bd0452234829a8
@@ -625,7 +625,7 @@ Author: PoomSmart
 Section: Tweaks
 Size: 9870
 Homepage: http://neutronfile.org
-Filename: ./debfiles//org.neutronfile.letmeblockb_0.0.7.2_iphoneos-arm_NeutronFile_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.letmeblockb_0.0.7.2_iphoneos-arm_NeutronFile_NeutronFile.deb
 MD5sum: fad8a53a3bc0918595a416b0bba3f472
 SHA1: 6cf58d44fcdb60968c5aa973131b7c1788d345ad
 SHA256: 29093f077c0f14afee79b4745f7a7562fd14a0d10e4f43e1bba8d509d5ba049a
@@ -638,7 +638,7 @@ Version: 1.0-1E
 Section: Addons (Zeppelin)
 Maintainer: NeutronFile <neutronfile19@icloud.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debfiles//org.neutronfile.jbzcarrier_1.0-1E_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.jbzcarrier_1.0-1E_iphoneos-arm_NeutronFile.deb
 Size: 8662
 MD5sum: eed60c7764ac913c78270a98df3b5b77
 SHA1: 668967bf7f8612f91146635c15bea3aed05a43b3
@@ -657,7 +657,7 @@ Architecture: iphoneos-arm
 Version: 0.1
 Section: Utilities
 Maintainer: NeutronFile
-Filename: ./debfiles//org.neutronfile.jbme10xwebclip_0.1_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.jbme10xwebclip_0.1_iphoneos-arm_NeutronFile.deb
 Size: 1191716
 MD5sum: 0ea33242f6a01f2524a630f23ca340a7
 SHA1: 3878ab802dc6da433b6bcbe4a952b8c275cb11e5
@@ -675,7 +675,7 @@ Version: 1.0.4
 Section: Utilities
 Maintainer: Neutronfile
 Pre-Depends: firmware(>=10.0), zip, unzip, ldid, sed
-Filename: ./debfiles//org.neutronfile.ipapatcher_1.0.4_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.ipapatcher_1.0.4_iphoneos-arm_NeutronFile.deb
 Size: 1632
 MD5sum: 873563433e3ed87f7ad34bec1a324e49
 SHA1: 9f194cfe046e8b083268e552f2797f3d5dde2dda
@@ -692,7 +692,7 @@ Version: 1.0.5
 Section: Development
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: dpkg
-Filename: ./debfiles//org.neutronfile.ipa2deb_1.0.5_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.ipa2deb_1.0.5_iphoneos-arm_NeutronFile.deb
 Size: 2688
 MD5sum: 17ea22d2e91e1d84d0944e58e4c05bfb
 SHA1: aaa66a05cf42e5bf32fd031d0a0984cf2d07716c
@@ -709,7 +709,7 @@ Version: 1.0~beta1a
 Section: Utilities
 Maintainer: NeutronFile
 Depends: mobilesubstrate
-Filename: ./debfiles//org.neutronfile.inapp_1.0~beta1a_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.inapp_1.0~beta1a_iphoneos-arm_NeutronFile.deb
 Size: 4130
 MD5sum: 5bbe75dfbace1aa139fd83ab9d622c1d
 SHA1: c04c1be613f8dfa73337d3345caf7240f008d879
@@ -728,7 +728,7 @@ Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Conflicts: com.blakeboxberger.dockremover
-Filename: ./debfiles//org.neutronfile.honey_1.0.3_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.honey_1.0.3_iphoneos-arm_NeutronFile.deb
 Size: 77198
 MD5sum: f65b1a1a34d2e59218089bd4083e7478
 SHA1: e7b53a16e5cef3aa1db3f237d6ec5154e192566d
@@ -746,7 +746,7 @@ Version: 0.7
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debfiles//org.neutronfile.gravity_0.7_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.gravity_0.7_iphoneos-arm_NeutronFile.deb
 Size: 223654
 MD5sum: 929ee3c18c0348a5500200b58a9e4fd1
 SHA1: ea2fd4dfe27cb10c280631b122c7c61c7b640f6b
@@ -768,7 +768,7 @@ Depends: mobilesubstrate, firmware (>=12.2) | org.swift.libswift (>=5.0), firmwa
 Recommended: com.rpetrich.rocketbootstrap
 Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
 Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, com.johncoates.Flex3, Flex3FeatureCatalog, Flex3ToolsOnly
-Filename: ./debfiles//org.neutronfile.Flex3beta_1_3~Beta92_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.Flex3beta_1_3~Beta92_iphoneos-arm_NeutronFile.deb
 Size: 14254932
 MD5sum: 045a8ec52a770b165c2b22989e2ba01e
 SHA1: 8d5f882e8626e9b5bd353dcf979918280f405524
@@ -785,7 +785,7 @@ Version: 1.0-1a
 Section: Development
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: dpkg
-Filename: ./debfiles//org.neutronfile.debrepack_1.0-1a_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.debrepack_1.0-1a_iphoneos-arm_NeutronFile.deb
 Size: 1218
 MD5sum: 1d24c6533a6faec6b91de026432a324b
 SHA1: c3b72a265b3d1f72cd621b0875aee9830d2b79ad
@@ -803,7 +803,7 @@ Version: 7.1.0
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./debfiles//org.neutronfile.cydown_7.1.0_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.cydown_7.1.0_iphoneos-arm_NeutronFile.deb
 Size: 4322376
 MD5sum: 46e95e7df97c5cc090f7ff8d19096e93
 SHA1: 413a86226d1310b28b084800184d354f3c1e8e4d
@@ -822,7 +822,7 @@ Version: 4.0~beta9c
 Section: Tools
 Maintainer: NeutronFile
 Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
-Filename: ./debfiles//org.neutronfile.cracktool4_4.0~beta9c_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.cracktool4_4.0~beta9c_iphoneos-arm_NeutronFile.deb
 Size: 516640
 MD5sum: 6eac23b2c572f53dd8b3a8f9af567136
 SHA1: 5daf76e6647d5af36bf8afd5586448e1f923e982
@@ -839,7 +839,7 @@ Version: 3.0~beta11
 Section: Tools
 Maintainer: NeutronFile
 Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
-Filename: ./debfiles//org.neutronfile.cracktool3_3.0~beta11_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.cracktool3_3.0~beta11_iphoneos-arm_NeutronFile.deb
 Size: 165276
 MD5sum: 558616c82600bff8a7c38818d339a915
 SHA1: d96488e0403de6ed431a4b9ce5a76558a37a3ce6
@@ -856,7 +856,7 @@ Version: 1.1
 Section: Development
 Maintainer: Neutrnfile
 Depends: mobilesubstrate, firmware (>= 8.0)
-Filename: ./debfiles//org.neutronfile.clutch2_1.1_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.clutch2_1.1_iphoneos-arm_NeutronFile.deb
 Size: 457666
 MD5sum: babe4d5b85505fed98c0801de059f74c
 SHA1: 71f01aeafdec8f40091750b12fa1930239534b7d
@@ -874,7 +874,7 @@ Version: 1.0
 Section: Themes
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: com.spark.snowboard
-Filename: ./debfiles//org.neutronfile.checkra1n-respring-logo_1.0_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.checkra1n-respring-logo_1.0_iphoneos-arm_NeutronFile.deb
 Size: 19818
 MD5sum: ad805c2dba8578f86db0edf6212931e7
 SHA1: 6c1f39b5233b62b48e79c7e05e2de612fb18fa24
@@ -896,7 +896,7 @@ Depends: mobilesubstrate, firmware (>= 11.0), firmware (<<14.0), sed, grep, core
 Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblockermegaipv4, com.thireus.untrustedhostsblockermega, com.thireus.untrustedhostsblockerexperimental, com.ceadd.blockyoux-procursus, org.neutronfile.blockyoux-procursus
 Architecture: iphoneos-arm
 Author: Ceadd <ceadd@ceadd.ca>
-Filename: ./debfiles//org.neutronfile.blockyoux_3.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.blockyoux_3.0.2_iphoneos-arm_NeutronFile.deb
 Size: 107768
 MD5sum: 784044e798be085db1b9603efe30f029
 SHA1: 4f50bb8c2ddd51921202a137c5473787adbda770
@@ -918,7 +918,7 @@ Pre-Depends: dpkg
 Depends: org.coolstar.libhooker, firmware (>= 11.0), firmware (<<14.0), sed, grep, coreutils, shell-cmds
 Conflicts: com.thireus.untrustedhostsblockerlight, com.thireus.untrustedhostsblockermegaipv4, com.thireus.untrustedhostsblockermega, com.thireus.untrustedhostsblockerexperimental, com.ceadd.blockyoux, org.neutronfile.blockyoux
 Architecture: iphoneos-arm
-Filename: ./debfiles//org.neutronfile.blockyoux-procursus_3.0.2-1_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.blockyoux-procursus_3.0.2-1_iphoneos-arm_NeutronFile.deb
 Size: 107718
 MD5sum: 274d8dda7eedaa7b7b13d1fa9d9e721f
 SHA1: b176ade1990cd28eb80a751db94e0ebfdbeabc64
@@ -939,7 +939,7 @@ Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>= 1.11), firmware (>= 11.0), applist
 Conflicts: me.nepeta.begonecia-10
-Filename: ./debfiles//org.neutronfile.begonecia-11_0.3.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.begonecia-11_0.3.2_iphoneos-arm_NeutronFile.deb
 Size: 82800
 MD5sum: 69f5bec65b0aaaf18d0d8244eaea67a8
 SHA1: c7a4c7ce2a34382ab0e1beb80e48c87a6f92e431
@@ -957,7 +957,7 @@ Version: 0.2~beta1
 Section: Tweaks
 Maintainer: NeutronFile
 Depends: mobilesubstrate
-Filename: ./debfiles//org.neutronfile.adblock_0.2~beta1_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/org.neutronfile.adblock_0.2~beta1_iphoneos-arm_NeutronFile.deb
 Size: 10034
 MD5sum: 21de9912c4d0a4869632f920e1034ef0
 SHA1: 58840a8ab9c9f52688707b7cb4eae1a0f43fd662
