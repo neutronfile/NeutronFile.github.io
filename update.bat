@@ -1,0 +1,1 @@
+bash -c "cd /mnt/d/Documents/GitHub/apt.neutronfile.org; ./update.sh"

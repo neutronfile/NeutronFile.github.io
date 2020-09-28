@@ -214,7 +214,7 @@ Author: pxcex
 Section: Applications
 Tag: purpose::extension, compatible_max::ios13.7
 Size: 82046 Bytes
-Filename: ./debfiles/com.pxcex.picsarthack_0.0.2_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles/.org.neutronfile.picsarthack_0.0.2_iphoneos-arm_NeutronFile.deb
 MD5sum: f86c581f304ed1bdce6323a50296ebd8
 SHA1: c711d40f3ea18327fd814dea2db8ead6e7acf212
 SHA256: ec5f101eca2e79256a62510739e96e1691caa2e283c11b54d7cf7ad758e1325d
