@@ -1,1 +1,1 @@
-bash -c "cd /mnt/d/Documents/GitHub/apt.neutronfile.org; ./update.sh"
+bash -c "cd var/mobile/NeutronFile/apt.neutronfile.org; ./update.sh"
