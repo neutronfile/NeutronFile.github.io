@@ -4,9 +4,166 @@
   "itemCornerRadius": 10,
   "banners": [
     {
+       "url":"https://i.imgur.com/lBJh7tP.jpg",
+       "title":"Cydown",
+       "package":"org.neutronfile.cydonw",
+       "hideShadow":false
+    },
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+       "url":"https://i.imgur.com/qXc23qV.png",
+       "title":"Mimport",
+       "package":"org.neutronfile.mimport",
+       "hideShadow":false
+    },
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+       "url":"https://i.imgur.com/sRYkCdG.png",
+       "title":"JBZcarrier",
+       "package":"org.neutronfile.jbzcarrier",
+       "hideShadow":false
+    },
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+       "url":"https://i.imgur.com/clDLhVM.png",
+       "title":"Reprovision",
+       "package":"org.neutronfile.reprovision",
+       "hideShadow":false
+    },
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+       "url":"https://i.imgur.com/4forDJS.jpg",
+       "title":"Newtermtm",
+       "package":"org.neutronfile.newtermtm",
+       "hideShadow":false
+    },
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
        "url":"https://i.imgur.com/wMbOirb.png",
        "title":"Safari Plus",
-       "package":"org.neutronfile.safariplus",
+       "package":"org.neutronfile.safariplussnaeoil",
+       "hideShadow":false
+    },
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+       "url":"https://i.imgur.com/M2710Iq.png",
+       "title":"Lynx",
+       "package":"org.neutronfile.lynx",
+       "hideShadow":false
+    },
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+       "url":"https://i.imgur.com/alCeOT6.jpg",
+       "title":"Dark theme",
+       "package":"org.neutronfile.darktheme",
+       "hideShadow":false
+    },
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+       "url":"https://i.imgur.com/IfeACU1.png",
+       "title":"Begonecia-11",
+       "package":"org.neutronfile.begonecia-11",
+       "hideShadow":false
+    },
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+       "url":"https://i.imgur.com/S5YwbdX.png",
+       "title":"checkra1n respring logo",
+       "package":"org.neutronfile.checkra1n-respring-logo",
+       "hideShadow":false
+    },
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+       "url":"https://i.imgur.com/wiMfCOB.png",
+       "title":"Gravity",
+       "package":"org.neutronfile.gravity",
+       "hideShadow":false
+    },
+  ]
+}
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+       "url":"https://i.imgur.com/Vq3Bphx.png",
+       "title":"Dra1n",
+       "package":"org.neutronfile.dra1n",
+       "hideShadow":false
+    },
+  ]
+}
+
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{263, 148}",
+  "itemCornerRadius": 10,
+  "banners": [
+    {
+       "url":"https://i.imgur.com/Vq3Bphx.png",
+       "title":"Dra1n",
+       "package":"org.neutronfile.dra1n",
        "hideShadow":false
     },
   ]

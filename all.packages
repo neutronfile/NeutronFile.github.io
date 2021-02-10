@@ -130,14 +130,14 @@
   {
     "package": "org.neutronfile.cydown",
     "section": "Tweaks",
-    "version": "7.1.0",
+    "version": "7.1.1",
     "name": "Cydown",
     "size": 4322360
   },
   {
     "package": "org.neutronfile.mimport",
     "section": "Tweaks",
-    "version": "0.0~beta38",
+    "version": "0.0~beta40",
     "name": "MImport",
     "size": 1440952
   },
@@ -172,7 +172,7 @@
   {
     "version": "4.0~beta9c",
     "package": "org.neutronfile.cracktool4",
-    "name": "CrackTool4 (iOS 12)",
+    "name": "CrackTool4 (iOS 12/13)",
     "section": "Tools",
     "size": 516630
   },
@@ -191,11 +191,11 @@
     "version": "1.5"
   },
   {
-    "version": "1.7.12",
+    "version": "1.7.14-7",
     "section": "Tweaks",
     "size": 1873530,
-    "package": "org.neutronfile.safariplus",
-    "name": "Safari Plus"
+    "package": "org.neutronfile.safariplussnakeoil",
+    "name": "Safari Plus (Cepheiless)"
   },
   {
     "version": "1.0~beta1a",

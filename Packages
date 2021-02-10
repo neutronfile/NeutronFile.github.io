@@ -245,16 +245,16 @@ Author: julioverne
 
 Package: org.neutronfile.cracktool4
 Architecture: iphoneos-arm
-Version: 4.0~beta9c
+Version: 4.0~beta9e
 Section: Tools
 Maintainer: NeutronFile
 Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
-Filename: ./debfiles//org.neutronfile.cracktool4_4.0~beta9c_iphoneos-arm_NeutronFile.deb
-Size: 516640
-MD5sum: 6eac23b2c572f53dd8b3a8f9af567136
-SHA1: 5daf76e6647d5af36bf8afd5586448e1f923e982
-SHA256: dcbb94f1dc60db332b5be22ff4105813eb48a259837e5c6a4aab006dcb2bb7eb
-SHA512: b53a35bac05f5a9ad8527ba8c22e822d2a3eb1336313541436c107c0c3b355c68ce3b06e04b68bf087b7aaa17eadd9bf79ce58bfe3477a1826fe747f57919f1c
+Filename: ./debfiles//org.neutronfile.cracktool4_4.0~beta9e_iphoneos-arm_NeutronFile.deb
+Size: 729204
+MD5sum: ac802d94575606bdee4dbe150063e082
+SHA1: c87c425bc0c89ce5caf82c1bcc89b7415acabccd
+SHA256: 90dff35d689910fc8734b9ecf7d0f3750ee67bcaa34b15a40e74d1d636ce6f10
+SHA512: d9c64c3bb3fd238848d1c42e995bdd7b44153973b13755fd91d8338c77266d339a75b26902b8740feb7e7fefcdf8a51dfd45ea1b9fe29544a73be36db60ad6c7
 Description: Crack Tweaks on one click
 Name: CrackTool4 (iOS 12)
 SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.cracktool4.json
@@ -263,16 +263,16 @@ Author: julioverne
 
 Package: org.neutronfile.cydown
 Architecture: iphoneos-arm
-Version: 7.1.0
+Version: 7.1.1
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./debfiles//org.neutronfile.cydown_7.1.0_iphoneos-arm_NeutronFile.deb
-Size: 4322376
-MD5sum: 46e95e7df97c5cc090f7ff8d19096e93
-SHA1: 413a86226d1310b28b084800184d354f3c1e8e4d
-SHA256: aba048c1b2c69afc2ecff31a261409cc4cc2f4ee40738a3baf759cc956caf75d
-SHA512: 1de8e269e135d73fc4c3684d30947a52560f658a76d50c046635b918740b7114265062d9f89e11a0c16ab23c8f4072e2a083f3e6e6aa70585f4e1f1395be7676
+Filename: ./debfiles//org.neutronfile.cydown_7.1.1_iphoneos-arm_NeutronFile.deb
+Size: 4358082
+MD5sum: 9e6ab515e7155733203d6b246632adb6
+SHA1: 83a08f378f745a4c0850241f674b3a3d8794054a
+SHA256: 849e474b3b8738d59937424893ed220f300b8a1b0e34dff96be71b9946c4eddd
+SHA512: 22fb09424ad1cb003ec9615f7c6a9887cf24850615750c3fcec47f2fad26c46858d57d96b0d3435573d212f2dccd5a75360f6fe0644163bde894f6c3e14d3376
 Homepage: http://neutronfile.org/
 Description: Cydia Download Manager & Extra Features!
 Name: CyDown
@@ -661,16 +661,16 @@ Icon: https://twickd.com/cdn/screenshots/6195125da9033aac54ffa8c087ff0eaa/defaul
 
 Package: org.neutronfile.mimport
 Architecture: iphoneos-arm
-Version: 0.0~beta38
+Version: 0.0~beta40
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
 Depends: mobilesubstrate, unzip, unrar
-Filename: ./debfiles//org.neutronfile.mimport_0.0~beta38_iphoneos-arm_NeutronFile.deb
-Size: 1440990
-MD5sum: 001a5d2811fc94fa0ac1393d73a077ce
-SHA1: 4e382bbd4b74ecf4c19b2ed793a6fb509a25d416
-SHA256: 2748b3fa2399fd5951dc781b5a1dbf611219f9406e2c5f869d805c77c1a47949
-SHA512: 4e1dee1f9d2b5931843c16a93029dca6bffaf1dc2a881baa17b56dcdb5b4a12521c44ca3ff8939dd46322c97c64a26bd0d038dcdcfa6a56cb7f122c0dd857844
+Filename: ./debfiles//org.neutronfile.mimport_0.0~beta40_iphoneos-arm_NeutronFile.deb
+Size: 1495766
+MD5sum: a0b2cb50120093d2b2b06e74757408ad
+SHA1: ce43c814087b1c7fd4c64339c6aaeb4e5ecd4d08
+SHA256: 0fc80699a52f74dd4160ab4e5d708d0c36739ead45626d5e096d8c3f9258c785
+SHA512: a4e8766e65bbafc61f8ddb21e3358d0fba8a6015c54c7b7f80549642dfe00b8b9c0eb0032d1f1ec076362bb23b6efa7573508e24229d5950878bfd91678c657d
 Homepage: http://neutronfile.org/
 Description: Media Importer Directly From Music App
 Name: MImport
@@ -808,26 +808,26 @@ SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.rep
 Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.reprovision
 Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 
-Package: org.neutronfile.safariplus
+Package: org.neutronfile.safariplussnakeoil
 Architecture: iphoneos-arm
-Version: 1.7.12
+Version: 1.7.14-7
 Section: Tweaks
 Maintainer: NeutronFile <neutronfile19@gmail.com>
-Installed-Size: 5114
+Installed-Size: 1949478
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
-Filename: ./debfiles//org.neutronfile.safariplus_1.7.12_iphoneos-arm_NeutronFile.deb
+Filename: ./debfiles//org.neutronfile.safariplussnakeoil_1.7.14-7_iphoneos-arm_NeutronFile.deb
 Size: 1873546
-MD5sum: b4db88d585396c0ce437e4d82551d821
-SHA1: 374fe7f143c2c0647c3a7ffb7b8d031f770fb466
-SHA256: 83393be1e488584c780a484dcdafd28540172ca6b3bb417faf12cf800e78e7f0
-SHA512: e158803687c482d0b14fc65324055e0710a21583f98b474d0d4e867ffb20d542d53e57ad5fd817ade6b7d0c43a0ff4d47281fa3a6bc67f602419981ae06d75bb
+MD5sum: 311d63f82eea8d68f34e650ec8923d19
+SHA1: 2bbf2c815a7da21ae272aebd2e112af1569d41d1
+SHA256: b32098ced173dce329398e5394d18ea39101135501a05e9fef510a7284246d49
+SHA512: 6051e4182a803a4f5fecb95b50e8ace78a166ef14cee08bd6203609c47a1e1df79f9fff4de21772aa9de85575f45e739a461374d5e40533ff8ebfd3cd04a243b
 Homepage: http://neutronfile.org
 Description: Various enhancements to Safari!
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: opa334
-Name: Safari Plus
-Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.safariplus
-SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.safariplus.json
+Name: Safari Plus (Cephieless)
+Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.safariplussnakeoil
+SileoDepiction: https://apt.neutronfile.org/depiction/native/org.neutronfile.safariplussnakeoil.json
 Sponsor: NeutronFile.org <http://neutronfile.org>
 dev: opa334
 Icon: file:///Library/PreferenceBundles/SafariPlusPrefs.bundle/SPRootIcon@2x.png

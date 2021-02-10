@@ -43,12 +43,12 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "0.0~beta38"
+          "text": "0.0~beta40"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Compatibility",
-          "text": "iOS 8 to 13"
+          "text": "iOS 8 to 14"
         },
         {
           "class": "DepictionTableTextView",
@@ -61,7 +61,7 @@
         {
           "class": "DepictionTableButtonView",
           "title": "Donate",
-          "action": "https://paypal.me/elhizazi1",
+          "action": "https://paypal.me/Elhizazi",
           "openExternal": "true",
           "tintColor": "#477D76"
         },{
@@ -85,7 +85,7 @@
         },{
           "class": "DepictionTableButtonView",
           "title": "instagram",
-          "action": "https://www.instagram.com/neutronfile/",
+          "action": "https://www.instagram.com/neutronfile1/",
           "openExternal": "true",
           "tintColor": "#477D76"
         },{
@@ -98,7 +98,7 @@
         {
           "class": "DepictionTableButtonView",
           "title": "support",
-          "action": "https://www.neutronfile.org/p/blog-page_31.html",
+          "action": "https://www.neutronfile.org/p/contact-us.html",
           "openExternal": "true",
           "tintColor": "#477D76"
         },
@@ -123,7 +123,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "MImport 0.0~beta38 – Updated 2020-06",
+          "text": "MImport 0.0~beta40 – Updated 2021-02",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
@@ -140,7 +140,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "0.0~beta38 ~stabel.! Full support for iOS 13.4"
+          "markdown": "0.0~beta40 ~stabel.! Full support for iOS 14"
         },{
           "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,

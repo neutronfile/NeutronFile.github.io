@@ -42,7 +42,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Compatibility",
-          "text": "iOS 10 to 12.x"
+          "text": "iOS 10 to 12/13"
         },
         {
           "class": "DepictionTableTextView",
@@ -55,7 +55,7 @@
         {
           "class": "DepictionTableButtonView",
           "title": "Donate",
-          "action": "https://paypal.me/elhizazi1",
+          "action": "https://paypal.me/Elhizazi",
           "openExternal": "true",
           "tintColor": "#477D76"
         },{
@@ -79,7 +79,7 @@
         },{
           "class": "DepictionTableButtonView",
           "title": "instagram",
-          "action": "https://www.instagram.com/neutronfile/",
+          "action": "https://www.instagram.com/neutronfile1/",
           "openExternal": "true",
           "tintColor": "#477D76"
         },{
@@ -104,7 +104,7 @@
           "title": "Price",
           "class": "DepictionTableTextView"
         },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2021.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },{
@@ -117,7 +117,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "CrackTool4 (iOS 12) – Updated 2020-06",
+          "text": "CrackTool4 (iOS 12/13) – Updated 2021-02",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
@@ -134,7 +134,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "4.0~beta9c.! Full support for iOS 12.x "
+          "markdown": "4.0~beta9e.! Full support for iOS 12/13 "
         },{
           "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
@@ -149,7 +149,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "CrackTool4 (iOS 12) – Updated 2020-06",
+          "text": "CrackTool4 (iOS 12) – Updated 2021-02",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
