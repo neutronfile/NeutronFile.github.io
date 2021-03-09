@@ -1,1 +1,0 @@
-bash -c "cd var/mobile/NeutronFile/apt.neutronfile.org; ./update.sh"
