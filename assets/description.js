@@ -10,7 +10,7 @@ if(!theme) {
 	theme = "ios7.min";
 	localStorage.setItem('Theme', theme);
 }
-$('head').append('<link rel="stylesheet" href="'+theme+'.css?_=f" type="text/css" />');
+$('head').append('<link rel="stylesheet" href="assets/'+theme+'.css?_=f" type="text/css" />');
 function toogleTheme()
 {
 	var themeNew = "ios7.min";
@@ -93,7 +93,7 @@ var packagesSection = {};
 function openSection(sectionName)
 {
 	var sectionContent = "";
-	sectionContent += "<li class=\"has-icon\"><a onclick=\"loadMainSection()\" role=\"button\"><img style=\"border-radius: 20%;\" href=\"back.png\" alt=\"\" srcset=\"back.png 2x, back.png 3x\" class=\"icon\"/><label><< Back</label></a></li>";
+	sectionContent += "<li class=\"has-icon\"><a onclick=\"loadMainSection()\" role=\"button\"><img style=\"border-radius: 20%;\" href=\"images/back.png\" alt=\"\" srcset=\"images/back.png 2x, images/back.png 3x\" class=\"icon\"/><label><< Back</label></a></li>";
 	for (var keyNow in packagesSection[sectionName]) {
 		var dicNow = packagesSection[sectionName][keyNow];
 		var urlOpen = "cydia://package/"+dicNow.package;
@@ -101,7 +101,7 @@ function openSection(sectionName)
 			var current_url_path = window.location.href.slice(0, window.location.href.lastIndexOf('/'));
 			urlOpen = current_url_path+"/description.html?id="+dicNow.package;
 		}		
-		sectionContent +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(sectionName)+".png\" alt=\"\" srcset=\""+encodeURI(sectionName)+".png 2x, "+encodeURI(sectionName)+".png 3x\" class=\"icon\"/><label>"+dicNow.name+" v"+dicNow.version+"</label></a></li>";
+		sectionContent +=  "<li class=\"has-icon\"><a href='images/"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\"images/"+encodeURI(sectionName)+".png\" alt=\"\" srcset=\"images/"+encodeURI(sectionName)+".png 2x, "+encodeURI(sectionName)+".png 3x\" class=\"icon\"/><label>"+dicNow.name+" v"+dicNow.version+"</label></a></li>";
 	}
 	
 	$("#browser").html(sectionContent);
@@ -110,7 +110,7 @@ function loadMainSection()
 {
 	var sectionContent = "";
 	for (var section in packagesSection) {		
-		sectionContent += "<li class=\"has-icon\"><a onclick=\"openSection('"+section+"')\" role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(section)+".png\" alt=\"\" srcset=\""+encodeURI(section)+".png 2x, "+encodeURI(section)+".png 3x\" class=\"icon\"/><label>"+section+" ("+packagesSection[section].length+")</label></a></li>";
+		sectionContent += "<li class=\"has-icon\"><a onclick=\"openSection('"+section+"')\" role=\"button\"><img style=\"border-radius: 20%;\" href=\"images/"+encodeURI(section)+".png\" alt=\"\" srcset=\"images/"+encodeURI(section)+".png 2x, "+encodeURI(section)+".png 3x\" class=\"icon\"/><label>"+section+" ("+packagesSection[section].length+")</label></a></li>";
 	}
 	$("#browser").html(sectionContent);
 }
@@ -151,13 +151,13 @@ function loadRecentUpdates()
 			var current_url_path = window.location.href.slice(0, window.location.href.lastIndexOf('/'));
 			urlOpen = current_url_path+"/description.html?id="+allPackages[dicNow].package;
 		}				
-		htmlnews +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\""+encodeURI(allPackages[dicNow].section)+".png\" alt=\"\" srcset=\""+encodeURI(allPackages[dicNow].section)+".png 2x, "+encodeURI(allPackages[dicNow].section)+".png 3x\" class=\"icon\"/><label>"+allPackages[dicNow].name+" v"+allPackages[dicNow].version+"</label></a></li>";
+		htmlnews +=  "<li class=\"has-icon\"><a href='"+urlOpen+"' target='_blank' role=\"button\"><img style=\"border-radius: 20%;\" href=\"images/"+encodeURI(allPackages[dicNow].section)+".png\" alt=\"\" srcset=\"images/"+encodeURI(allPackages[dicNow].section)+".png 2x, "+encodeURI(allPackages[dicNow].section)+".png 3x\" class=\"icon\"/><label>"+allPackages[dicNow].name+" v"+allPackages[dicNow].version+"</label></a></li>";
 	}
 	$("#updates").html(htmlnews);
 }
 function loadPackages() {
 	var current_url_path = window.location.href.slice(0, window.location.href.lastIndexOf('/'));
-	var form_url = current_url_path+"/all.packages";
+	var form_url = current_url_path+"/assets/all.packages";
 	$.ajax({
 		url: form_url,
 		type: "GET",
