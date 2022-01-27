@@ -43,35 +43,9 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-       "url":"https://i.imgur.com/clDLhVM.png",
-       "title":"Reprovision",
-       "package":"org.neutronfile.reprovision",
-       "hideShadow":false
-    },
-  ]
-}
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{263, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
        "url":"https://i.imgur.com/4forDJS.jpg",
        "title":"Newtermtm",
        "package":"org.neutronfile.newtermtm",
-       "hideShadow":false
-    },
-  ]
-}
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{263, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-       "url":"https://i.imgur.com/wMbOirb.png",
-       "title":"Safari Plus",
-       "package":"org.neutronfile.safariplussnaeoil",
        "hideShadow":false
     },
   ]

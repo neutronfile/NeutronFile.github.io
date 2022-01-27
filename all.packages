@@ -1,0 +1,163 @@
+[
+  {
+    "package": "org.neutronfile.vivavideovip",
+    "section": "Applications",
+    "version": "7.0.4",
+    "name": "VivaVideo VIP",
+    "size": 88706
+  },
+  {
+    "package": "org.neutronfile.picsarthack",
+    "section": "Applications",
+    "version": "0.0.2",
+    "name": "PicsArt Gold",
+    "size": 82046 
+  },
+  {
+    "package": "org.neutronfile.honey",
+    "section": "Tweaks",
+    "version": "1.0.3",
+    "name": "Honey",
+    "size": 77198
+  },
+   {
+    "version": "1.0-1a",
+    "package": "org.neutronfile.debrepack",
+    "name": "deb Repack",
+    "section": "Development",
+    "size": 1194
+  },
+  {
+    "package": "org.neutronfile.lynx-ar",
+    "section": "Addons",
+    "version": "0.1~ar",
+    "name": "Lynx - ar",
+    "size": 8886
+  },
+  {
+    "package": "org.neutronfile.gravity",
+    "section": "Tweaks",
+    "version": "0.7",
+    "name": "Gravity",
+    "size": 223640
+  },
+  {
+    "package": "org.neutronfile.floatingdock",
+    "section": "Tweaks",
+    "version": "1.5",
+    "name": "FloatingDock",
+    "size": 45256
+  },
+  {
+    "package": "org.neutronfile.jbzcarrier",
+    "section": "Addons (Zeppelin)",
+    "version": "1.0-1E",
+    "name": "Jailbreak carrier",
+    "size": 8636
+  },
+  {
+    "package": "org.neutronfile.localiapstore13",
+    "section": "Tweaks",
+    "version": "0.0.2",
+    "name": "LocalIAPStore13",
+    "size": 3720
+  },
+  {
+    "package": "org.neutronfile.starvpnhack",
+    "section": "Applications",
+    "version": "0.0.2",
+    "name": "Star VPN Hack",
+    "size": 113724 
+  },
+   {
+    "package": "org.neutronfile.kinemasterhack",
+    "section": "Applications",
+    "version": "0.0.4",
+    "name": "KineMaster Hack",
+    "size": 114982 
+  },
+  {
+    "package": "org.neutronfile.newtermtm",
+    "section": "Tweaks",
+    "version": "0.0.2E",
+    "name": "NewTerm Theme Manager",
+    "size": 29996
+  },
+  {
+    "package": "org.neutronfile.ipa2deb",
+    "section": "Development",
+    "version": "1.0.5",
+    "name": "ipa2deb",
+    "size": 2662
+  },
+  {
+    "package": "org.neutronfile.turbovpnhack",
+    "section": "Applications",
+    "version": "0.0.2",
+    "name": "Turbo VPN Hack",
+    "size": 5636 
+  },
+  {
+    "package": "org.neutronfile.begonecia-11",
+    "section": "Tweaks",
+    "version": "0.3.2",
+    "name": "BegoneCIA (iOS 11, 12 and 13)",
+    "size": 82802
+  },
+  {
+    "package": "org.neutronfile.localiapstore",
+    "section": "Tweaks",
+    "version": "1.5-2E",
+    "name": "LocalIAPStore",
+    "size": 70846
+  },
+  {
+    "package": "org.neutronfile.checkra1n-respring-logo",
+    "section": "Themes",
+    "version": "1.0",
+    "name": "Checkra1n Respring Logo",
+    "size": 19798
+  },
+  {
+    "package": "org.neutronfile.cydown",
+    "section": "Tweaks",
+    "version": "7.1.2",
+    "name": "Cydown",
+    "size": 4322360
+  },
+  {
+    "package": "org.neutronfile.mimport",
+    "section": "Tweaks",
+    "version": "0.0~beta38",
+    "name": "MImport",
+    "size": 1440952
+  },
+  {
+    "package": "org.neutronfile.lynx",
+    "section": "Tweaks",
+    "version": "1.5-2",
+    "name": "Lynx",
+    "size": 740128
+  },
+  {
+    "package": "org.neutronfile.darktheme",
+    "section": "Themes",
+    "version": "0.0.1",
+    "name": "Dark Theme",
+    "size": 38366000
+  },
+  {
+    "version": "1.0.4E",
+    "package": "org.neutronfile.redeb",
+    "name": "redeb",
+    "section": "Development",
+    "size": 3524
+  },
+  {
+    "version": "1.1",
+    "size": 457614,
+    "section": "Development",
+    "package": "org.neutronfile.clutch2",
+    "name": "Clutch2"
+  }
+]
