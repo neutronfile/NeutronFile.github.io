@@ -4,6 +4,6 @@
 	"compatitle": "compatible with ios 5 through 13.6",
 	"changelog": "<strong>Fix languages removal tool breaking Safari settings and in-app links on iOS 13.3 and later.<br>Improve compatibility with chroot-based jailbreak detection bypass tweaks.<br>Disable softwareupdated daemon when turning off OTA updates on iOS 9 and later.<br>Drop support for (long broken) Activator and Flipswitch plugins.<br>Remove now unnecessary iCleanerLib.dylib.<br><br></strong>",
 	"screenshot": "<div style='text-align:center;'><a href='https://apt.neutronfile.org/description.htm?id=org.neutronfile.icleanerpro' target='_blank'><img width=95% src='https://i.imgur.com/IPEDA2t.jpeg' target='_blank'><img width=95% src='https://i.imgur.com/KUmlXzM.jpeg'/></a><br></div>",
-	"Updated": "Date 23/03/2022"
+	"Updated": "Date 23/03/2022",
         "open":true,
 	}
