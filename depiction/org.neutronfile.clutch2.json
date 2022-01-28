@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://i.imgur.com/wHhGl48.png",
+  "headerImage": "https://i.imgur.com/wHhGl48_d.png",
   "tintColor": "#477D76",
   "tabs": [
     {
@@ -13,6 +13,13 @@
           "openExternal": "true",
           "tintColor": "#477D76"
         },
+      {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "https://www.youtube.com/embed/Lq061zT56F0",
+              "accessibilityText": "Screenshot0"
+            }
         {
           "markdown": "Crack app to ipa on terminal .cmd1: Clutch2 ,cmd2:Clutch2 -i & cmd3: Clutch2 -d ",
           "useSpacing": "true",

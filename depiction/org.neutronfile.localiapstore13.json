@@ -1,5 +1,6 @@
+{
 "minVersion": "0.1",
-  "headerImage": "https://i.imgur.com/wHhGl48.png",
+  "headerImage": "https://i.imgur.com/wHhGl48_d.png",
   "tintColor": "#477D76",
   "tabs": [
     {
@@ -103,7 +104,7 @@
           "title": "Price",
           "class": "DepictionTableTextView"
         },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },{
@@ -135,7 +136,7 @@
           "class": "DepictionMarkdownView",
           "markdown": "1.5~stabel.! Full support for iOS 13."
         },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },{
@@ -148,7 +149,7 @@
         },
         {
            "class": "DepictionLabelView",
-          "text": "Localiapstore13 1.5– Updated 2020-06",
+          "text": "Localiapstore13 1.5– Updated 2021-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1

@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://i.imgur.com/alCeOT6.jpg",
+  "headerImage": "https://i.imgur.com/alCeOT6_d.jpg",
   "tintColor": "#477D76",
   "tabs": [
     {
@@ -10,7 +10,7 @@
           "class": "DepictionScreenshotsView",
           "screenshots": [
             {
-              "url": "https://i.imgur.com/lpj9BB2.png",
+              "url": "https://i.imgur.com/lpj9BB2_d.png",
               "accessibilityText": "Screenshot0"
             }
           ],

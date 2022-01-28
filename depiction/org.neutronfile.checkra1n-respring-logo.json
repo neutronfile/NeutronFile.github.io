@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://i.imgur.com/S5YwbdX.png",
+  "headerImage": "https://i.imgur.com/S5YwbdX_d.png",
   "tintColor": "#477D76",
   "tabs": [
     {
@@ -104,7 +104,7 @@
           "title": "Price",
           "class": "DepictionTableTextView"
         },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2021.</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },{
@@ -117,7 +117,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "Checkra1n Respring Logo 1.0 – Updated 2021-02",
+          "text": "Checkra1n Respring Logo 1.0 – Updated 2021-08",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
@@ -136,7 +136,7 @@
           "class": "DepictionMarkdownView",
           "markdown": "1.0 ~stabel.! Full support for iOS 14"
         },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2021.</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },{
@@ -149,7 +149,7 @@
         },
         {
            "class": "DepictionLabelView",
-          "text": "Checkra1n Respring Logo 1.0 – Updated 2021-02",
+          "text": "Checkra1n Respring Logo 1.0 – Updated 2021-08",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1

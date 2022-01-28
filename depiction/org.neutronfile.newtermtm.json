@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://i.imgur.com/4forDJS.jpg",
+  "headerImage": "https://i.imgur.com/4forDJS_d.jpg",
   "tintColor": "#477D76",
   "tabs": [
      {
@@ -100,7 +100,7 @@
           "title": "Price",
           "class": "DepictionTableTextView"
         },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },{
@@ -113,7 +113,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "NewTermtm 0.0.2E – Updated 2020-06",
+          "text": "NewTermtm 0.0.2E – Updated 2021-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
@@ -132,7 +132,7 @@
           "class": "DepictionMarkdownView",
           "markdown": "0.0.2E~stabel.! Full support for iOS 13.4"
         },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },{

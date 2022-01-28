@@ -1,7 +1,7 @@
 {
   
   "minVersion": "0.1",
-  "headerImage": "https://i.imgur.com/lBJh7tP.jpg",
+  "headerImage": "https://i.imgur.com/lBJh7tP_d.jpg",
   "tintColor": "#477D76",
   "tabs": [
     {
@@ -11,16 +11,16 @@
           "class": "DepictionScreenshotsView",
           "screenshots": [
             {
-              "url": "https://i.imgur.com/WFQxZTX.png",
+              "url": "https://i.imgur.com/WFQxZTX_d.png",
               "accessibilityText": "Screenshot0"
             },{
-              "url": "https://i.imgur.com/VHuahlc.png",
+              "url": "https://i.imgur.com/VHuahlc_d.png",
               "accessibilityText": "Screenshot1"
             },{
-              "url": "https://i.imgur.com/QJ4LinI.png",
+              "url": "https://i.imgur.com/QJ4LinI_d.png",
               "accessibilityText": "Screenshot1"
             },{
-              "url": "https://i.imgur.com/FwXNGPp.png",
+              "url": "https://i.imgur.com/FwXNGPp_d.png",
               "accessibilityText": "Screenshot1"
             }
           ],
@@ -47,12 +47,12 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "7.1.0"
+          "text": "7.1.2"
         },
         {
           "class": "DepictionTableTextView",
           "title": "Compatibility",
-          "text": "iOS 6 to 13"
+          "text": "iOS 6 to 14.x"
         },
         {
           "class": "DepictionTableTextView",
@@ -114,7 +114,7 @@
           "title": "Price",
           "class": "DepictionTableTextView"
         },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },{
@@ -127,7 +127,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "Cydown 7.1.1– Updated 2021-02",
+          "text": "Cydown 7.1.2– Updated 2021-08",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
@@ -144,9 +144,9 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "7.1.0 + Option For Disable Auto Refresh Source in Zebra; + Fix Black View When installing raw .deb file in Installer; currently supports: cydia & zebra & Installer currently supports: cydia & zebra  Option For Disable in Cydia/Zebra; + More Compatibility for Zebra; "
+          "markdown": "7.1.2 + Option For Disable Auto Refresh Source in Zebra; + Fix Black View When installing raw .deb file in Installer; currently supports: cydia & zebra & Installer currently supports: cydia & zebra  Option For Disable in Cydia/Zebra; + More Compatibility for Zebra; "
         },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },{
@@ -159,7 +159,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "Cydown 7.1.1– Updated 2021-02",
+          "text": "Cydown 7.1.2– Updated 2021-08",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
