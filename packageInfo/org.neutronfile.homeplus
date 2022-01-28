@@ -1,0 +1,9 @@
+{   "name": "Home Plus Beta",
+	"desc_short": "Edit homescreen.",
+	"desc_long": "Dynamic, live homescreen layout with an intuitive UI.",
+	"compatitle": "iOS 12.x -~> Up",
+	"changelog": "<strong>0.4.9</strong>",
+	"screenshot": "<div style='text-align:center;'><a href= src='#' target='_blank'><img width=95% src='./screenshot/homeplus.png' target='_blank'></a><br></div>",
+	"open":true,
+
+	}

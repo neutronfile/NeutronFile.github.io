@@ -38,7 +38,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Compatibility",
-          "text": "iOS 7 to 13"
+          "text": "iOS 7 to 14.x"
         },
         {
           "class": "DepictionTableTextView",
@@ -78,12 +78,6 @@
           "action": "https://www.instagram.com/neutronfile1/",
           "openExternal": "true",
           "tintColor": "#477D76"
-        },{
-          "class": "DepictionTableButtonView",
-          "title": "discord",
-          "action": "https://discord.com/channels/669585645915734057/669585645915734063",
-          "openExternal": "true",
-          "tintColor": "#477D76"
         },
         {
           "class": "DepictionTableButtonView",
@@ -100,7 +94,7 @@
           "title": "Price",
           "class": "DepictionTableTextView"
         },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },{
@@ -132,7 +126,7 @@
           "class": "DepictionMarkdownView",
           "markdown": "1.0-1a~stabel.! Full support for iOS 14."
         },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },{

@@ -69,19 +69,6 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-       "url":"https://i.imgur.com/alCeOT6.jpg",
-       "title":"Dark theme",
-       "package":"org.neutronfile.darktheme",
-       "hideShadow":false
-    },
-  ]
-}
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{263, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
        "url":"https://i.imgur.com/IfeACU1.png",
        "title":"Begonecia-11",
        "package":"org.neutronfile.begonecia-11",
@@ -111,33 +98,6 @@
        "url":"https://i.imgur.com/wiMfCOB.png",
        "title":"Gravity",
        "package":"org.neutronfile.gravity",
-       "hideShadow":false
-    },
-  ]
-}
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{263, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-       "url":"https://i.imgur.com/Vq3Bphx.png",
-       "title":"Dra1n",
-       "package":"org.neutronfile.dra1n",
-       "hideShadow":false
-    },
-  ]
-}
-
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{263, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-       "url":"https://i.imgur.com/Vq3Bphx.png",
-       "title":"Dra1n",
-       "package":"org.neutronfile.dra1n",
        "hideShadow":false
     },
   ]

@@ -1,19 +1,39 @@
 [
   {
+    "time": 1636604099,
     "package": "org.neutronfile.vivavideovip",
-    "section": "Applications",
+    "section": "Apps",
     "version": "7.0.4",
     "name": "VivaVideo VIP",
     "size": 88706
+   
+  },
+{
+    "time": 1636601066,
+    "package": "org.neutronfile.psiphon",
+    "section": "Apps",
+    "version": "0.0.2",
+    "name": "Psiphon VPN Hack",
+    "size": 9716 
+  },
+   {
+    "time": 1636601066,
+    "package": "org.neutronfile.homeplus",
+    "section": "Tweaks",
+    "version": "0.4.9",
+    "name": "Home Plus Beta",
+    "size": 542536 
   },
   {
+     "time": 1636601066,
     "package": "org.neutronfile.picsarthack",
-    "section": "Applications",
+    "section": "Apps",
     "version": "0.0.2",
     "name": "PicsArt Gold",
     "size": 82046 
   },
   {
+     "time":1555452603,
     "package": "org.neutronfile.honey",
     "section": "Tweaks",
     "version": "1.0.3",
@@ -21,6 +41,7 @@
     "size": 77198
   },
    {
+     "time":1555452603,
     "version": "1.0-1a",
     "package": "org.neutronfile.debrepack",
     "name": "deb Repack",
@@ -28,13 +49,55 @@
     "size": 1194
   },
   {
+     "time": 1636601066,
+    "package": "org.neutronfile.vpnproxymasterhack",
+    "section": "Apps",
+    "version": "2.0.2",
+    "name": "VPN Proxy Master Hack",
+    "size": 124152 
+  },
+  {
+    "time": 1636601066,
+    "package": "org.neutronfile.adobesparkvideohack",
+    "section": "Apps",
+    "version": "0.0.2",
+    "name": "AdobeSpark Video Hack",
+    "size": 116050 
+  },
+   {
+     "time": 1636601066,
+    "package": "org.neutronfile.360vpn",
+    "section": "Apps",
+    "version": "0.0.4",
+    "name": "VPN 360 Hack",
+    "size": 4924 
+  },
+  {
+     "time":1555452603,
     "package": "org.neutronfile.lynx-ar",
     "section": "Addons",
     "version": "0.1~ar",
     "name": "Lynx - ar",
     "size": 8886
   },
+{
+    "time": 1636601066,
+    "package": "org.neutronfile.touchvpn",
+    "section": "Apps",
+    "version": "0.0.2",
+    "name": "Touch VPN Hack",
+    "size": 113454 
+  },
   {
+    "time": 1636601066,
+    "package": "org.neutronfile.wpsofficehack",
+    "section": "Apps",
+    "version": "0.0.4",
+    "name": "WPS Office Hack",
+    "size": 6502 
+  },
+  {
+     "time":1593040925,
     "package": "org.neutronfile.gravity",
     "section": "Tweaks",
     "version": "0.7",
@@ -42,41 +105,79 @@
     "size": 223640
   },
   {
-    "package": "org.neutronfile.floatingdock",
-    "section": "Tweaks",
-    "version": "1.5",
-    "name": "FloatingDock",
-    "size": 45256
+    "time": 1636601066,
+    "package": "org.neutronfile.polarisofficehack",
+    "section": "Apps",
+    "version": "0.0.2",
+    "name": "Polaris Office Hack",
+    "size": 115706 
   },
   {
+    "time": 1636601066,
+    "package": "org.neutronfile.officesuitehack",
+    "section": "Apps",
+    "version": "1.0.2",
+    "name": "OfficeSuite Hack",
+    "size": 115934 
+  },
+   {
+     "time": 1636601066,
+    "package": "org.neutronfile.vpnaegishack",
+    "section": "Apps",
+    "version": "0.0.2",
+    "name": "VPN Aegis Hack",
+    "size": 113412 
+  },
+  {
+     "time":1555452603,
     "package": "org.neutronfile.jbzcarrier",
     "section": "Addons (Zeppelin)",
     "version": "1.0-1E",
     "name": "Jailbreak carrier",
     "size": 8636
   },
-  {
+  { 
+    "time": 1636601066,
     "package": "org.neutronfile.localiapstore13",
     "section": "Tweaks",
     "version": "0.0.2",
     "name": "LocalIAPStore13",
     "size": 3720
   },
+   {
+    "time": 1636601066,
+    "package": "org.neutronfile.adobesparkpagehack",
+    "section": "Apps",
+    "version": "0.0.2",
+    "name": "AdobeSpark Page Hack",
+    "size": 114118 
+  },
   {
+    "time": 1636601066,
     "package": "org.neutronfile.starvpnhack",
-    "section": "Applications",
+    "section": "Apps",
     "version": "0.0.2",
     "name": "Star VPN Hack",
     "size": 113724 
   },
    {
+    "time": 1636601066,
     "package": "org.neutronfile.kinemasterhack",
-    "section": "Applications",
+    "section": "Apps",
     "version": "0.0.4",
     "name": "KineMaster Hack",
     "size": 114982 
   },
   {
+    "time": 1636601066,
+    "package": "org.neutronfile.adobesparkposthack",
+    "section": "Apps",
+    "version": "0.0.2",
+    "name": "AdobeSpark Post Hack",
+    "size": 116444 
+  },
+  {
+    "time": 1636601066,
     "package": "org.neutronfile.newtermtm",
     "section": "Tweaks",
     "version": "0.0.2E",
@@ -84,6 +185,7 @@
     "size": 29996
   },
   {
+    "time":1555452603,
     "package": "org.neutronfile.ipa2deb",
     "section": "Development",
     "version": "1.0.5",
@@ -91,13 +193,15 @@
     "size": 2662
   },
   {
+    "time": 1636601066,
     "package": "org.neutronfile.turbovpnhack",
-    "section": "Applications",
+    "section": "Apps",
     "version": "0.0.2",
     "name": "Turbo VPN Hack",
     "size": 5636 
   },
   {
+    "time":1555452603,
     "package": "org.neutronfile.begonecia-11",
     "section": "Tweaks",
     "version": "0.3.2",
@@ -105,6 +209,15 @@
     "size": 82802
   },
   {
+    "time": 1636601066,
+    "package": "org.neutronfile.adoberushhack",
+    "section": "Apps",
+    "version": "0.0.2",
+    "name": "AdobeRushCC hack",
+    "size": 81944 
+  },
+  {
+     "time":1555452603,
     "package": "org.neutronfile.localiapstore",
     "section": "Tweaks",
     "version": "1.5-2E",
@@ -112,6 +225,7 @@
     "size": 70846
   },
   {
+     "time":1555452603,
     "package": "org.neutronfile.checkra1n-respring-logo",
     "section": "Themes",
     "version": "1.0",
@@ -119,6 +233,7 @@
     "size": 19798
   },
   {
+    "time": 1636601066,
     "package": "org.neutronfile.cydown",
     "section": "Tweaks",
     "version": "7.1.2",
@@ -126,6 +241,7 @@
     "size": 4322360
   },
   {
+    "time":1599714732,
     "package": "org.neutronfile.mimport",
     "section": "Tweaks",
     "version": "0.0~beta38",
@@ -133,6 +249,7 @@
     "size": 1440952
   },
   {
+     "time":1555452603,
     "package": "org.neutronfile.lynx",
     "section": "Tweaks",
     "version": "1.5-2",
@@ -140,6 +257,7 @@
     "size": 740128
   },
   {
+     "time":1555452603,
     "package": "org.neutronfile.darktheme",
     "section": "Themes",
     "version": "0.0.1",
@@ -147,13 +265,15 @@
     "size": 38366000
   },
   {
+    "time":1555452603,
     "version": "1.0.4E",
     "package": "org.neutronfile.redeb",
     "name": "redeb",
     "section": "Development",
     "size": 3524
   },
-  {
+  { 
+    "time":1555452603,
     "version": "1.1",
     "size": 457614,
     "section": "Development",

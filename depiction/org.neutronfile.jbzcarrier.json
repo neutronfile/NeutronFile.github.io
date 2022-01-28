@@ -82,12 +82,6 @@
           "action": "https://www.instagram.com/neutronfile1/",
           "openExternal": "true",
           "tintColor": "#477D76"
-        },{
-          "class": "DepictionTableButtonView",
-          "title": "discord",
-          "action": "https://discord.com/channels/669585645915734057/669585645915734063",
-          "openExternal": "true",
-          "tintColor": "#477D76"
         },
         {
           "class": "DepictionTableButtonView",
@@ -104,7 +98,7 @@
           "title": "Price",
           "class": "DepictionTableTextView"
         },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },{
@@ -136,7 +130,7 @@
           "class": "DepictionMarkdownView",
           "markdown": "1.0-1E! Full support for all iOS "
         },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },{
