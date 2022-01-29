@@ -4,64 +4,64 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-       "url":"https://i.imgur.com/mJfcOph_d.jpg",
+       "url":"https://i.imgur.com/mJfcOph.jpg",
        "title":"VivaVideo VIP",   "package":"org.neutronfile.vivavideovip",
        "hideShadow":false
     },
     {
-       "url":"https://i.imgur.com/pdmhP8H_d.jpg",
+       "url":"https://i.imgur.com/pdmhP8H.jpg",
        "title":"PicsArt Gold",       "package":"org.neutronfile.picsarthack",
        "hideShadow":false
     },
     {
-       "url":"https://i.imgur.com/lBJh7tP_d.jpg",
+       "url":"https://i.imgur.com/lBJh7tP.jpg",
        "title":"Cydown",       "package":"org.neutronfile.cydown",
        "hideShadow":false
     },
     {
-       "url":"https://i.imgur.com/qXc23qV_d.png",
+       "url":"https://i.imgur.com/qXc23qV.png",
        "title":"Mimport",
        "package":"org.neutronfile.mimport",
        "hideShadow":false
     },
     {
-       "url":"https://i.imgur.com/sRYkCdG_d.png",
+       "url":"https://i.imgur.com/sRYkCdG.png",
        "title":"JBZcarrier",
        "package":"org.neutronfile.jbzcarrier",
        "hideShadow":false
     },
     {
-       "url":"https://i.imgur.com/pBG7ir3_d.jpg",
+       "url":"https://i.imgur.com/pBG7ir3.jpg",
        "title":"KineMaster",
        "package":"org.neutronfile.kinemasterhack",
        "hideShadow":false
     },
     {
-       "url":"https://i.imgur.com/4forDJS_d.jpg",
+       "url":"https://i.imgur.com/4forDJS.jpg",
        "title":"Newtermtm",
        "package":"org.neutronfile.newtermtm",
        "hideShadow":false
     },
     {
-       "url":"https://i.imgur.com/M2710Iq_d.png",
+       "url":"https://i.imgur.com/M2710Iq.png",
        "title":"Lynx",
        "package":"org.neutronfile.lynx",
        "hideShadow":false
     },
     {
-       "url":"https://i.imgur.com/IfeACU1_d.png",
+       "url":"https://i.imgur.com/IfeACU1.png",
        "title":"Begonecia-11",
        "package":"org.neutronfile.begonecia-11",
        "hideShadow":false
     },
     {
-       "url":"https://i.imgur.com/S5YwbdX_d.png",
+       "url":"https://i.imgur.com/S5YwbdX.png",
        "title":"checkra1n respring logo",
        "package":"org.neutronfile.checkra1n-respring-logo",
        "hideShadow":false
     },
     {
-       "url":"https://i.imgur.com/wiMfCOB_d.png",
+       "url":"https://i.imgur.com/wiMfCOB.png",
        "title":"Gravity",
      "package":"org.neutronfile.gravity",
        "hideShadow":false
