@@ -1,7 +1,7 @@
 {   "name": "BegoneCIA (iOS 11, 12 and 13)",
 	"desc_short": "disable & enable microphone, camera and GPS.",
 	"desc_long": "CC toggle to disable microphone, camera and GPS.",
-	"compatitle": "iOS 11 & 12 & 13",
+	"compatitle": "iOS 11 & 12 & 14.x",
 	"changelog": "<strong>0.3.2</strong>",
 	"screenshot": "<iframe width='100%' height='95%' src='https://www.youtube.com/embed/msf2LtpF_x4' frameborder='0' allow='accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture' allowfullscreen></iframe>",
 	"open":true,
