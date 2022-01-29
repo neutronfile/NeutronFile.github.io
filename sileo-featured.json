@@ -5,38 +5,25 @@
   "banners": [
     {
        "url":"https://i.imgur.com/mJfcOph_d.jpg",
-       "title":"VivaVideo VIP",
-       "package":"org.neutronfile.vivavideovip",
+       "title":"VivaVideo VIP",   "package":"org.neutronfile.vivavideovip",
        "hideShadow":false
     },
     {
        "url":"https://i.imgur.com/pdmhP8H_d.jpg",
-       "title":"PicsArt Gold",
-       "package":"org.neutronfile.picsarthack",
+       "title":"PicsArt Gold",       "package":"org.neutronfile.picsarthack",
        "hideShadow":false
     },
     {
        "url":"https://i.imgur.com/lBJh7tP_d.jpg",
-       "title":"Cydown",
-       "package":"org.neutronfile.cydown",
+       "title":"Cydown",       "package":"org.neutronfile.cydown",
        "hideShadow":false
     },
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{263, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
     {
        "url":"https://i.imgur.com/qXc23qV_d.png",
        "title":"Mimport",
        "package":"org.neutronfile.mimport",
        "hideShadow":false
     },
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{263, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
     {
        "url":"https://i.imgur.com/sRYkCdG_d.png",
        "title":"JBZcarrier",
@@ -49,59 +36,34 @@
        "package":"org.neutronfile.kinemasterhack",
        "hideShadow":false
     },
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{263, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
     {
        "url":"https://i.imgur.com/4forDJS_d.jpg",
        "title":"Newtermtm",
        "package":"org.neutronfile.newtermtm",
        "hideShadow":false
     },
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{263, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
     {
        "url":"https://i.imgur.com/M2710Iq_d.png",
        "title":"Lynx",
        "package":"org.neutronfile.lynx",
        "hideShadow":false
     },
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{263, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
     {
        "url":"https://i.imgur.com/IfeACU1_d.png",
        "title":"Begonecia-11",
        "package":"org.neutronfile.begonecia-11",
        "hideShadow":false
     },
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{263, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
     {
        "url":"https://i.imgur.com/S5YwbdX_d.png",
        "title":"checkra1n respring logo",
        "package":"org.neutronfile.checkra1n-respring-logo",
        "hideShadow":false
     },
-{
-  "class": "FeaturedBannersView",
-  "itemSize": "{263, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
     {
        "url":"https://i.imgur.com/wiMfCOB_d.png",
        "title":"Gravity",
-       "package":"org.neutronfile.gravity",
+     "package":"org.neutronfile.gravity",
        "hideShadow":false
     },
   ]
