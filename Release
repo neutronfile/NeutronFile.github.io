@@ -4,8 +4,13 @@ Suite: stable
 Version: 1.0
 Codename: NuetronFile
 Architecture: iphoneos-arm
+Homepage: https://neutronfile.org
+Twitter: @NeutronFile <https://twitter.com/NeutronFile/>
+Donate: https://paypal.me/Elhizazi
+Email: elhizazi1@icloud.com
+Sponsor: NeutronFile.org <http://neutronfile.org/>
 Components: main
 Description: NeutronFile's Best Repo for all Packages! Cydia + Sileo + Installer + Zebra! & Saily.
 MD5Sum:
- c627d7bf6a574ab38d118a6887897115 32665 Packages
- 605958f00ff1cca6be74dbc26325755f 9459 Packages.bz2
+ 7bff4d8c46b145478364357c20a26310 39890 Packages
+ bfb29c1c24b9633532ee6771e604706b 9571 Packages.bz2
