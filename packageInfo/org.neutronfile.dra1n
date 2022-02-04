@@ -1,9 +1,0 @@
-{   "name": "Honey",
-	"desc_short": "Find out which packages are dra1ning your battery! Find out what tweaks are draining your battery",
-   "desc_long": "Dra1n is a tweak that can help find out if newly installed tweaks are causing battery drain on your device. Dra1n does this through individual device measurements as well as compiled data from other users submitted to our server. Dra1n will notify you if a newly installed tweak causes significant battery drain. Dra1n will work in the background of your device, and will give you a notification when your discharge increases significantly after installing new tweak(s).",
-	"compatitle": "iOS 11 & 12 & 13",
-	"changelog": "<strong>* Fixed issue where DRM would trigger if Dynastic had a server issue.<br> * Fixed random crash when user had 7 averages </strong>",
-	"screenshot": "<div style='text-align:center;'><a href= src='' target='_blank'><img width=95% src='#' target='_blank'><img width=95% src='#' target='_blank'><img width=95% src='#' target='_blank'><img width=95% src='#'/></a><br></div>",
-	"open": true,
-
-	}

@@ -1,0 +1,9 @@
+{   "name": "View Source",
+	"desc_short": "Show all coding any website.",
+	"desc_long": "Show all coding any website & get souerc any website & Get all codes (html pho js css ...), Enjoy! ",
+	"compatitle": "iOS 9 + up To 15.x",
+	"changelog": "<strong>0.0.2</strong>",
+	"screenshot": "<div style='text-align:center;'><a href= src='#' target='_blank'><img width=95% src='https://i.imgur.com/Qbz8Gq5.png' target='_blank'><img width=95% src='https://i.imgur.com/SXDIh3d.png' target='_blank'></a><br></div>",
+	"open":true,
+
+	}
