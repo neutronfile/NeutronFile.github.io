@@ -57,14 +57,14 @@
           "title": "Donate",
           "action": "https://paypal.me/Elhizazi",
           "openExternal": "true",
-          "tintColor": "#477D76"
+          "tintColor": "#477D76",
 "view": "top",
         },{
           "class": "DepictionTableButtonView",
           "title": "twitter",
           "action": "https://twitter.com/NeutronFile",
           "openExternal": "true",
-          "tintColor": "#477D76"
+          "tintColor": "#477D76",
 "view": "top",
         },{
           "class": "DepictionTableButtonView",
