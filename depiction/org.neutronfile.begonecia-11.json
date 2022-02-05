@@ -7,11 +7,13 @@
       "tabname": "Details",
       "views": [
 {
-          "class": "DepictionScreenshotsView",
+          "class": "DepictionVideoView",
           "screenshots": [
             {
-              "url": "<iframe width='100%' height='95%' src='https://www.youtube.com/embed/msf2LtpF_x4' frameborder='0' allow='accelerometer, autoplay, encrypted-media, gyroscope, picture-in-picture' allowfullscreen></iframe>",
-          "accessibilityText": "Screenshot0"
+              "url": "https://www.youtube.com/embed/msf2LtpF_x4",
+          "width": "100%",
+"height": "95%",
+"cornerRadius": "view’s corners"
             }
           ],
           "itemCornerRadius": 8,

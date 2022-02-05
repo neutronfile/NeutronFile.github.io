@@ -67,8 +67,13 @@
           "title": "Donate",
           "action": "https://paypal.me/Elhizazi",
           "openExternal": "true",
+"View": "aligned",
           "tintColor": "#477D76"
-        },{
+        },
+{
+          "class": "DepictionSpacerView"
+        },
+{
           "class": "DepictionTableButtonView",
           "title": "twitter",
           "action": "https://twitter.com/NeutronFile",
