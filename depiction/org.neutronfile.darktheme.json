@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://i.imgur.com/alCeOT6.jpg",
-  "tintColor": "#477D76",
+  "tintColor": "#2CC6AF",
   "tabs": [
     {
       "tabname": "Details",
@@ -54,47 +54,20 @@
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "Donate",
-          "action": "https://paypal.me/elhizazi1",
+          "title": "read more",
+          "action": "https://apt.neutronfile.org/description.html?id=org.neutronfile.darktheme",
           "openExternal": "true",
-          "tintColor": "#477D76"
-        },{
-          "class": "DepictionTableButtonView",
-          "title": "twitter",
-          "action": "https://twitter.com/NeutronFile",
-          "openExternal": "true",
-          "tintColor": "#477D76"
-        },{
-          "class": "DepictionTableButtonView",
-          "title": "github",
-          "action": "https://github.com/elhizazi",
-          "openExternal": "true",
-          "tintColor": "#477D76"
-        },{
-          "class": "DepictionTableButtonView",
-          "title": "facebook",
-          "action": "https://www.facebook.com/NeutronFile1/",
-          "openExternal": "true",
-          "tintColor": "#477D76"
-        },{
-          "class": "DepictionTableButtonView",
-          "title": "instagram",
-          "action": "https://www.instagram.com/neutronfile/",
-          "openExternal": "true",
-          "tintColor": "#477D76"
-        },{
-          "class": "DepictionTableButtonView",
-          "title": "discord",
-          "action": "https://discord.com/channels/669585645915734057/669585645915734063",
-          "openExternal": "true",
-          "tintColor": "#477D76"
+          "tintColor": "#2CC6AF"
+        },
+        {
+          "class": "DepictionSpacerView"
         },
         {
           "class": "DepictionTableButtonView",
-          "title": "support",
-          "action": "https://www.neutronfile.org/p/blog-page_31.html",
+          "title": "Donate",
+          "action": "https://paypal.me/Elhizazi1",
           "openExternal": "true",
-          "tintColor": "#477D76"
+          "tintColor": "#2CC6AF"
         },
         {
           "class": "DepictionSeparatorView"
@@ -103,7 +76,9 @@
           "text": "Free",
           "title": "Price",
           "class": "DepictionTableTextView"
-        },{
+        },
+        {"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.darktheme.json","openExternal":"true","tintColor":"#2CC6AF"},
+        {"class":"DepictionSpacerView"},{
           "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"

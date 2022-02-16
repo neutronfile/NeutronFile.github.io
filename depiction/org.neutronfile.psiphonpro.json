@@ -1,0 +1,149 @@
+{
+  "minVersion": "0.0.2",
+  "headerImage": "###",
+  "tintColor": "#2CC6AF",
+   "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "screenshots": [
+            {
+              "url": "0000",
+              "accessibilityText": "Screenshot0"
+            }
+          ],
+          "itemCornerRadius": 8,
+          "itemSize": "{160,275}"
+        },
+        {
+          "markdown": "Full Unlock & Subscription Unlimited Proxy Premium!. speed network + fast conective, Enjoy!",
+          "useSpacing": "true",
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Information"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "Pxcex"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "0.0.2"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "iOS 9 to 15.x"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Apps"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Maintainer",
+          "text": "NeutronFile"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "read more",
+          "action": "https://apt.neutronfile.org/description.html?id=org.neutronfile.psiphonpro",
+          "openExternal": "true",
+          "tintColor": "#2CC6AF"
+        },
+        {
+          "class": "DepictionSpacerView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "Donate",
+          "action": "https://paypal.me/Elhizazi",
+          "openExternal": "true",
+          "tintColor": "#2CC6AF"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "text": "Free",
+          "title": "Price",
+          "class": "DepictionTableTextView"
+        },
+        {"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.psiphonpro.json","openExternal":"true","tintColor":"#2CC6AF"},
+        {"class":"DepictionSpacerView"}, {"class":"DepictionTableButtonView","title":"Repo Settings","action":"depiction-https://NeutronFile.github.io/depiction/repo_settings.json","openExternal":"true","tintColor":"#2CC6AF"},
+        {"class":"DepictionSpacerView"},
+        {
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },{
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+          "width": 89,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Psiphon VPN PRO  Full Unlock & Subscription Unlimited Proxy Premium! 0.0.2 – Updated 2022-01",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "Changelog"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Psiphon VPN PRO  Full Unlock & Subscription Unlimited Proxy Premium! 0.0.2 ~stabel.! Full support for iOS 15.x"
+        },
+        {"class": "DepictionLabelView",
+          "title": "deb Release"
+        }, {"bundle_id":"org.neutronfile.psiphonpro","name":"  Psiphon VPN PRO ","homepage":"https://apt.neutronfile.org/","developer":{"name":"Pxcex","email":"neutronfile19@gmail.com"},
+"maintainer":{"name":"NeutronFile","email":"neutronfile19@gmail.com"},"works_min":"9","works_max":"15.x","featured":"false","dependencies":"mobilesubstrate","Conflicts":"com.pxcex.###"},
+        {
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },{
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+          "width": 89,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
+        },
+        {
+           "class": "DepictionLabelView",
+          "text": "Psiphon VPN PRO  Full Unlock & Subscription Unlimited Proxy Premium! 0.0.2 – Updated 2022-01",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
