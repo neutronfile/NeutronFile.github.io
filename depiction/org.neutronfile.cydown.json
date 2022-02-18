@@ -63,8 +63,8 @@
           "class": "DepictionSpacerView"
         },
         {
-          "class": "DepictionTableButtonView",
-          "title": "read more",
+          "class": "DepictionButtonView",
+          "text": "read more",
           "action": "https://apt.neutronfile.org/description.html?id=org.neutronfile.cydown",
           "openExternal": "true",
           "tintColor": "#2CC6AF"
@@ -77,7 +77,7 @@
           "text": "Donate",
           "action": "https://paypal.me/Elhizazi1",
           "openExternal": "true",
-          "tintColor": "#2CC6AF"
+          "tintColor": "#0060C6"
         },
         {
           "class": "DepictionSeparatorView"
@@ -87,7 +87,7 @@
           "title": "Price",
           "class": "DepictionTableTextView"
         },
-        {"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.cydown.json","openExternal":"true","tintColor":"#2CC6AF"},
+        {"class":"DepictionSpacerView"},{"class":"DepictionButtonView","text":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.cydown.json","openExternal":"true","tintColor":"#00CFF8"},
         {"class":"DepictionSpacerView"},
         {
           "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
