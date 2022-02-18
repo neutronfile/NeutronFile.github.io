@@ -64,6 +64,9 @@
           "title": "Price",
           "class": "DepictionTableTextView"
         },
+        {
+          "class": "DepictionSeparatorView"
+        },
        {
           "class": "DepictionSpacerView"
         },
@@ -84,11 +87,11 @@
           "openExternal": "true",
           "tintColor": "#0060C6"
         },
+        {"class":"DepictionSpacerView"},{"class":"DepictionButtonView","text":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.cydown.json","openExternal":"true","tintColor":"#00CFF8"},
+        {"class":"DepictionSpacerView"},
         {
           "class": "DepictionSeparatorView"
         },
-        {"class":"DepictionSpacerView"},{"class":"DepictionButtonView","text":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.cydown.json","openExternal":"true","tintColor":"#00CFF8"},
-        {"class":"DepictionSpacerView"},
         {
           "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
