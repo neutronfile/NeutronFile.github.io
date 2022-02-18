@@ -74,7 +74,7 @@
         },
         {
           "class": "DepictionButtonView",
-          "title": "Donate",
+          "text": "Donate",
           "action": "https://paypal.me/Elhizazi1",
           "openExternal": "true",
           "tintColor": "#2CC6AF"
