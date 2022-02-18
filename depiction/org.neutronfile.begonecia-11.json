@@ -129,7 +129,6 @@
          }
       ],
       "class": "DepictionStackView"
-    }
-  ],
+    },
   "class": "DepictionTabView"
 }
