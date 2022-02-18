@@ -73,7 +73,7 @@
           "class": "DepictionSpacerView"
         },
         {
-          "class": "DepictionTableButtonView",
+          "class": "DepictionButtonView",
           "title": "Donate",
           "action": "https://paypal.me/Elhizazi1",
           "openExternal": "true",
