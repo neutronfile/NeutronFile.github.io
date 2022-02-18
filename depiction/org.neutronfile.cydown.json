@@ -59,6 +59,11 @@
           "title": "Section",
           "text": "Tweaks"
         },
+        {
+          "text": "Free",
+          "title": "Price",
+          "class": "DepictionTableTextView"
+        },
        {
           "class": "DepictionSpacerView"
         },
@@ -81,11 +86,6 @@
         },
         {
           "class": "DepictionSeparatorView"
-        },
-        {
-          "text": "Free",
-          "title": "Price",
-          "class": "DepictionTableTextView"
         },
         {"class":"DepictionSpacerView"},{"class":"DepictionButtonView","text":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.cydown.json","openExternal":"true","tintColor":"#00CFF8"},
         {"class":"DepictionSpacerView"},
