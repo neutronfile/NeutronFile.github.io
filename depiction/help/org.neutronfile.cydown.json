@@ -61,4 +61,12 @@
           "alignment": 1,
           "cornerRadius": 0,
           "class": "DepictionImageView"
-        }]}
+        },{
+           "class": "DepictionLabelView",
+          "text": "Created By @elhizazi1",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
+        },{
+           "class": "DepictionSeparatorView"
+           }]}
