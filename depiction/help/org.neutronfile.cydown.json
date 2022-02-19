@@ -4,8 +4,7 @@
           "action": "https://www.neutronfile.org/p/contact-us.html",
           "openExternal": "true",
           "tintColor": "#477D76"
-        },
-{"class":"DepictionButtonView","text":"Website","action":"https://neutronfile.org","openExternal":"true","tintColor":"#2CC6AF"},{
+        },{"class":"DepictionButtonView","text":"Website","action":"https://neutronfile.org","openExternal":"true","tintColor":"#2CC6AF"},{
           "class": "DepictionSpacerView"
         },
         {
