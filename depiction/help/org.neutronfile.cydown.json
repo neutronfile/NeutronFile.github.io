@@ -52,30 +52,27 @@
           "openExternal": "true",
           "tintColor": "#3772FF"
         },
+        {"class":"DepictionSpacerView"
+        },
         {
-          "class": "DepictionSeparatorView"
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
         },{
-                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
-                    "useRawFormat": true,
-                    "class": "DepictionMarkdownView"
-                }, {
-                    "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-                    "width": 89,
-                    "height": 27,
-                    "alignment": 1,
-                    "cornerRadius": 0,
-                    "class": "DepictionImageView"
-                },
-                {
-                    "class": "DepictionLabelView",
-                    "text": "Created By @elhizazi1",
-                    "textColor": "#999999",
-                    "fontSize": "10.0",
-                    "alignment": 1
-                }
-            ],
-            "class": "DepictionStackView"
+          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+          "width": 89,
+          "height": 27,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Created By elhizazi1",
+          "textColor": "#999999",
+          "fontSize": "10.0",
+          "alignment": 1
         }
-    ],
-    "class": "DepictionTabView"
-}
+      ],
+      "class": "DepictionStackView"
+    }
