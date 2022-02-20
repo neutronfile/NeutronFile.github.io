@@ -81,7 +81,7 @@
                     "text": "Donate",
                     "action": "https://paypal.me/Elhizazi1",
                     "openExternal": "true",
-                    "tintColor": "#2CC6AF"
+                    "tintColor": "#0060C6"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -93,7 +93,7 @@
                     "text": "Contact Support",
                     "action": "depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.localiapstore.json",
                     "openExternal": "true",
-                    "tintColor": "#2CC6AF"
+                    "tintColor": "#00CFF8"
                 },
                 {
                     "class": "DepictionSpacerView"

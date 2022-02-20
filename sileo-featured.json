@@ -10,7 +10,7 @@
     },
     {
        "url":"https://i.imgur.com/pdmhP8H.jpg",
-       "title":"PicsArt Gold",       "package":"org.neutronfile.picsarthack",
+       "title":"PicsArt Gold",       "package":"org.neutronfile.picsartgold",
        "hideShadow":false
     },
     {
@@ -33,7 +33,7 @@
     {
        "url":"https://i.imgur.com/pBG7ir3.jpg",
        "title":"KineMaster",
-       "package":"org.neutronfile.kinemasterhack",
+       "package":"org.neutronfile.kinemasterpro",
        "hideShadow":false
     },
     {

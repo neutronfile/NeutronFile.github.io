@@ -7,7 +7,7 @@
             "views": [{
                     "class": "DepictionScreenshotsView",
                     "screenshots": [{
-                        "url": "0000",
+                        "url": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/screenshot/psiphon.png",
                         "accessibilityText": "Screenshot0"
                     }],
                     "itemCornerRadius": 8,
@@ -88,7 +88,7 @@
                     "text": "Donate",
                     "action": "https://paypal.me/Elhizazi",
                     "openExternal": "true",
-                    "tintColor": "#2CC6AF"
+                    "tintColor": "#0060C6"
                 },
                 {
                     "class": "DepictionSeparatorView"
@@ -100,7 +100,7 @@
                     "text": "Contact Support",
                     "action": "depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.psiphonpro.json",
                     "openExternal": "true",
-                    "tintColor": "#2CC6AF"
+                    "tintColor": "#00CFF8"
                 },
                 {
                     "class": "DepictionSpacerView"
