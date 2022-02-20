@@ -467,6 +467,26 @@ Sponsor: NeutronFile.org <http://neutronfile.org/>
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.honey
 SileoDepiction: https://apt.neutronfile.org/depiction/org.neutronfile.honey.json
 
+Package: org.neutronfile.icons
+Architecture: all
+Version: 1.0
+Multi-Arch: foreign
+Priority: required
+Essential: yes
+Section: Repositories
+Maintainer: MeutronFile <neutronfile19@gmail.com>
+Replaces: cydia
+Filename: ./debfiles//org.neutronfile.icons_1.0_all_NeutronFile.deb
+Size: 3583288
+MD5sum: cb2b3f2aa087c43f18ed8bf56b4132e6
+SHA1: 1cd25ac1dabf3a2954af15d3a5eff027c70f5a1a
+SHA256: feb9dd6db2ce1b606e337916f588beb7af87407fd99658245a44a6eb1e85e795
+SHA512: 2d5b4a19bf5a41262592db387a1de23bcf08f700f2c3d36cade6eed258946aa6365689f83171b0816dd5ab2da73c01adf15e851db00cf38aa8938ce2a6c6002c
+Description: locally cached package icons from NeutronFile's Repo
+Author: elhizazi1 <elhizazi1@gmail.com>
+Sponsor: NeutronFile.org <https://neutronfile.org>
+Name: NeutronFile Icon Set
+
 Package: org.neutronfile.inshotpro
 Architecture: iphoneos-arm
 Version: 0.0.2
