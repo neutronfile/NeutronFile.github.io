@@ -487,6 +487,27 @@ Author: elhizazi1 <elhizazi1@gmail.com>
 Sponsor: NeutronFile.org <https://neutronfile.org>
 Name: NeutronFile Icon Set
 
+Package: org.neutronfile.icons
+Architecture: all
+Version: 1.1
+Multi-Arch: foreign
+Priority: required
+Essential: yes
+Section: Repositories
+Maintainer: MeutronFile <neutronfile19@gmail.com>
+Replaces: cydia
+Filename: ./debfiles//org.neutronfile.icons_1.1_all_NeutronFile.deb
+Size: 3583300
+MD5sum: b706e38ee5f1eb8fe68b363102fe16a4
+SHA1: 8cb64579d8b3b2d534e515cdfa26fe57ad63f8a3
+SHA256: 7c1ca5424634d8bb6e7127280742c006d6331279622847c9dc0acdfefc558b08
+SHA512: 7d50e3a77cb455601ca5c8b5e9a7680d86dcc0c4b473dc61a929158f17432bac2c31b8e152e79984acfad5b65356f42e912445eb65fff4111be7365b6d9d6ecc
+Homepage: https://apt.neutronfile.org/
+Description: locally cached package icons from NeutronFile's Repo
+Author: elhizazi1 <elhizazi1@gmail.com>
+Sponsor: NeutronFile.org <https://neutronfile.org>
+Name: NeutronFile Icon Set
+
 Package: org.neutronfile.inshotpro
 Architecture: iphoneos-arm
 Version: 0.0.2
