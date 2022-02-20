@@ -13,8 +13,8 @@
                 },
 {
                 "URL": "https://www.youtube.com/embed/kLQCf7t38Zg",
-                "width": 160,
-                "height": 275,
+                "width": 700,
+                "height": 300,
                 "alignment": 1,
                 "cornerRadius": 0,
                 "class": "DepictionVideoView"
