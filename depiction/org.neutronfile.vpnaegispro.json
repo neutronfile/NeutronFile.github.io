@@ -1,5 +1,5 @@
 {
-  "minVersion": "0.0.2",
+  "minVersion": "0.1",
   "headerImage": "###",
   "tintColor": "#2CC6AF",
    "tabs": [
@@ -55,6 +55,26 @@
           "text": "NeutronFile"
         },
         {
+        "class": "DepictionTableTextView",
+        "title": "dependencies",
+        "text": "mobilesubstrate"
+        },
+        {
+        "class":"DepictionTableTextView",
+         "text": "org.neutronfile.vpnaegispro",
+          "title": "Identifier"
+        },
+        { 
+        "class":"DepictionTableTextView",
+         "text": "110.75 KB",
+          "title": "Size"
+        }, 
+        { 
+        "class":"DepictionTableTextView",
+         "text": "Free",
+          "title": "Price"
+        },
+        {
           "class": "DepictionSpacerView"
         },
         {
@@ -77,15 +97,8 @@
         {
           "class": "DepictionSeparatorView"
         },
-        {
-          "text": "Free",
-          "title": "Price",
-          "class": "DepictionTableTextView"
-        },
         {"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.vpnaegispro.json","openExternal":"true","tintColor":"#2CC6AF"},
-        {"class":"DepictionSpacerView"}, {"class":"DepictionTableButtonView","title":"Repo Settings","action":"depiction-https://NeutronFile.github.io/depiction/repo_settings.json","openExternal":"true","tintColor":"#2CC6AF"},
-        {"class":"DepictionSpacerView"},
-        {
+        {"class":"DepictionSpacerView"},{
           "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
@@ -118,10 +131,6 @@
           "class": "DepictionMarkdownView",
           "markdown": "VPN Aegis Unlimited VPN Proxy Premium! 0.0.2 ~stabel.! Full support for iOS 15.x"
         },
-        {"class": "DepictionLabelView",
-          "title": "deb Release"
-        }, {"bundle_id":"org.neutronfile.vpnaegispro","name":"  VPN Aegis PRO ","homepage":"https://apt.neutronfile.org/","developer":{"name":"Pxcex","email":"neutronfile19@gmail.com"},
-"maintainer":{"name":"NeutronFile","email":"neutronfile19@gmail.com"},"works_min":"9","works_max":"15.x","featured":"false","dependencies":"mobilesubstrate","Conflicts":"com.pxcex.###"},
         {
           "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,

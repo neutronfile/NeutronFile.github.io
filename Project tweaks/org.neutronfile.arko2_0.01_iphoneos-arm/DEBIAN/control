@@ -1,0 +1,10 @@
+Package: org.neutronfile.arko2
+Name: ArkoII
+Version: 0.01
+Section: Widgets
+Architecture: iphoneos-arm
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
+Author: NeutronFile
+Maintainer: NeutronFile <neutronfile19@gmail.com>
+Homepage: https://www.neutronfile.org
+Description: Awesome widget for your LS & HS

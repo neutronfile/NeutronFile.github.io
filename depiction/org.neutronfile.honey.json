@@ -56,6 +56,26 @@
           "text": "Tweaks"
         },
         {
+          "class": "DepictionTableTextView",
+          "title": "Maintainer",
+          "text": "NeutronFile"
+        },
+        {
+        "class":"DepictionTableTextView",
+         "text": "org.neutronfile.honey",
+          "title": "Identifier"
+        },
+        { 
+        "class":"DepictionTableTextView",
+         "text": "75.39 KB",
+          "title": "Size"
+        }, 
+        { 
+        "class":"DepictionTableTextView",
+         "text": "Free",
+          "title": "Price"
+        },
+        {
           "class": "DepictionSpacerView"
         },
         {
@@ -78,11 +98,6 @@
         {
           "class": "DepictionSeparatorView"
         },
-        {
-          "text": "Free",
-          "title": "Price",
-          "class": "DepictionTableTextView"
-        },
         {"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.honey.json","openExternal":"true","tintColor":"#2CC6AF"},
         {"class":"DepictionSpacerView"
         },{
@@ -99,7 +114,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "# – Updated 2021-06",
+          "text": "Honey – Updated 2021-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
@@ -116,7 +131,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "# ~stabel.! Full support for iOS 14.x"
+          "markdown": "Honey ~stabel.! Full support for iOS 14.x"
         },{
           "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
@@ -131,7 +146,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "# – Updated 2021-06",
+          "text": "Honey – Updated 2021-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1

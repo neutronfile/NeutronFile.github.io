@@ -1,0 +1,9 @@
+Package: org.neutronfile.cards
+Name: LS Cards
+Version: 1.2
+Architecture: iphoneos-arm
+Description: LS Cards is a interactive widget with a tap to unfold animation that you will love!
+Homepage: https://neutronfile.org/
+Maintainer: NeutronFile <neutronfile19@gmail.com>
+Author: Daniell <daniell@wijdenbos.ch>
+Section: Widgets

@@ -1,0 +1,219 @@
+body{
+  background: transparent;
+  margin: 0;
+  text-shadow:1px 1px 1px rgba(55,55,55,0.4);
+}
+
+
+#picker{
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  height: 40px;
+  width: 130px;
+  background-color: transparent;
+  z-index: 500;
+  border-radius: 20px;
+}
+
+#picker2{
+  position: absolute;
+  top: 50px;
+  left: 250px;
+  height: 50px;
+  width: 100px;
+  background-color: transparent;
+  z-index: 500;
+  border-radius: 20px;
+}
+
+
+#dot{
+    position: absolute;
+    top: 94px;
+    left: 312px;
+    height: 38px;
+    width: 38px;
+    background-color: green;
+    z-index: 5;
+    border-radius: 50%;
+}
+
+#line{
+    position: absolute;
+    top: 130px;
+    left: 59px;
+    height: 4px;
+    width: 270px;
+    background: linear-gradient(-90deg, transparent, green);
+    z-index: 5;
+}
+
+#line1{
+    position: absolute;
+    top: 130px;
+    left: 31px;
+    height: 4px;
+    width: 15px;
+    background-color: green;
+    z-index: 5;
+}
+
+#line2{
+    position: absolute;
+    top: 130px;
+    left: 50px;
+    height: 4px;
+    width: 4px;
+    background-color: red;
+    z-index: 5;
+}
+
+#line3{
+    position: absolute;
+    top: 144px;
+    left: 50px;
+    height: 4px;
+    width: 4px;
+    background-color: azure;
+    opacity: 0.7;
+    z-index: 5;
+}
+
+#line4{
+    position: absolute;
+    top: 159px;
+    left: 50px;
+    height: 4px;
+    width: 4px;
+    background-color: azure;
+    opacity: 0.3;
+    z-index: 5;
+}
+
+
+#Widget{
+   width: 414px;
+   height: 700px;
+   top: -35px;
+   left: 0px;
+   position: absolute;
+   z-index: 99;
+   color: azure;
+}
+
+
+#weatherIcon{
+    position: absolute; 
+    top: 100px;
+    left: 313px; 
+    width: 9%; 
+    z-index:100;
+}
+
+
+#Clock{
+      position:absolute; 
+      top: 90px; 
+      left: 50px;
+      width: 100%; 
+      text-align: left; 
+      z-index: 50;
+      font-size: 32px; 
+      letter-spacing: 0px; 
+      font-weight: bold; 
+      font-family: P;
+      opacity: 1;
+      color: cyan;
+       text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
+}
+
+
+#ampm{
+  position: absolute;
+  top: 25px;
+  left: -19px;
+  font-size: 9px; 
+  font-family: P;
+  font-weight: bold; 
+  text-transform: uppercase;
+}
+
+
+#Cal{
+       position: absolute; 
+       width: 100%;
+       top: 112px; 
+       left: 155px; 
+       text-align: left; 
+       z-index: 50;
+       font-size: 10px; 
+       font-family: L; 
+       font-weight: normal;
+       letter-spacing: 3.5px;
+       color: azure;
+       text-shadow: 0px 1px 1px rgba(0,0,0,0.3);
+       text-transform: uppercase;
+}
+
+#weekday{
+       position: absolute; 
+       top: -15px; 
+       left: 0px; 
+       z-index: 50;
+       font-size: 10px; 
+       font-family: G; 
+       font-weight: normal;
+       letter-spacing: 3.5px;
+       color: black;
+       text-transform: uppercase;
+}
+
+
+#W1{
+       position: absolute; 
+       width: 100%;
+       top: 138px; 
+       left: 60px; 
+       color: ivory;
+       text-align: left; 
+       z-index: 50;
+       font-size: 11px; 
+       font-weight: normal;
+       font-family: G;
+       text-shadow: 0px 1px 1px rgba(0,0,0,0.3);
+}
+
+
+#Batt{
+       position: absolute; 
+       width: 100%;
+       top: 153px; 
+       left: 60px; 
+       color: ivory;
+       text-align: left; 
+       z-index: 50;
+       font-size: 11px; 
+       font-weight: normal;
+       font-family: G;
+       opacity: 0.7;
+       text-shadow: 0px 1px 1px rgba(0,0,0,0.3);
+}
+
+
+@font-face{
+  font-family: L;
+  src:url(Stuff/L.otf);
+}
+
+
+@font-face{
+  font-family: G;
+  src:url(Stuff/G.otf);
+}
+
+@font-face{
+  font-family: P;
+  src:url(Stuff/Prototype.ttf);
+}
+

@@ -36,11 +36,6 @@
         },
         {
           "class": "DepictionTableTextView",
-          "title": "Maintainer",
-          "text": "NeutronFile"
-        },
-        {
-          "class": "DepictionTableTextView",
           "title": "Version",
           "text": "1.0"
         },
@@ -53,6 +48,26 @@
           "class": "DepictionTableTextView",
           "title": "Section",
           "text": "Addons"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Maintainer",
+          "text": "NeutronFile"
+        },
+        {
+        "class":"DepictionTableTextView",
+         "text": "org.neutronfile.checkra1n-respring-logo",
+          "title": "Identifier"
+        },
+        { 
+        "class":"DepictionTableTextView",
+         "text": "19.33 KB",
+          "title": "Size"
+        }, 
+        { 
+        "class":"DepictionTableTextView",
+         "text": "Free",
+          "title": "Price"
         },
         {
           "class": "DepictionSpacerView"
@@ -76,13 +91,7 @@
         },
         {
           "class": "DepictionSeparatorView"
-        },
-        {
-          "text": "Free",
-          "title": "Price",
-          "class": "DepictionTableTextView"
-        },
-        {"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.checkra1n-respring-logo.json","openExternal":"true","tintColor":"#2CC6AF"},
+        },{"class":"DepictionTableButtonView","title":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.checkra1n-respring-logo.json","openExternal":"true","tintColor":"#2CC6AF"},
          {"class":"DepictionSpacerView"},
         {
           "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",

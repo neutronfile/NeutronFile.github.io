@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+<script type="text/javascript" charset="utf-8" src="Config.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/jquery.min.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/main.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/lang.js"></script>
+<script type="text/javascript" charset="utf-8" src="Scripts/vanilla-picker.js"></script>
+    <meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8" />
+		<meta content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="Style.css" type="text/css" media="screen"/>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+
+
+
+</head>
+<body onload="init()">
+
+        <div id="picker">
+        </div>
+        <div id="picker2">
+        </div>
+  <div> <center><p><span class="logo"><img style = "px:  2%;" src="neutronfile.gif" alt="" /></span></p></center> </div><br>
+       <br>
+        <br>
+         <br>
+<div id="Widget">
+    <div id="line"></div>
+    <div id="line1"></div>
+    <div id="line2"></div>
+    <div id="line3"></div>
+    <div id="line4"></div>
+    <div id="dot"></div>
+
+
+<img id="weatherIcon" src="Stuff/1/32.png"></img>
+
+<div id="W1">
+<a id="city">Your city</a>.
+<a id="country">Your city</a>
+<a id="temp">??&deg;C</a>
+</div>
+
+<div id="Batt">
+<a id="LevelDisplay">__%</a>
+</div>
+
+
+<div id="Clock"><a id="hour"></a>:<a id="minute"></a> <a id="ampm"></a>
+</div>
+
+
+<div id="Cal">
+<a id="weekday"></a>
+<a id="month"></a>
+<a id="date"></a> </div>
+
+
+</div>
+
+
+
+<script type="text/javascript">
+		var doc = document,
+pickerDiv = doc.getElementById('picker');
+
+			if (PickerColor == false){
+                     
+                      picker.style.visibility = 'hidden';
+picker2.style.visibility = 'hidden';
+}
+</script>
+
+
+    <script>
+        "use strict";
+        /*global Picker*/
+        
+        function $(selector, context) {
+            return (context || document).querySelector(selector);
+        }
+        
+
+
+        var parentA = $('#picker'),
+            parentA1 = $('#W1'),
+            parentA2 = $('#date'),
+            parentA3 = $('#weekday'),
+            parentA4 = $('#month'),
+            parentA5 = $('#Clock'),
+            parentA6 = $('#ampm'),
+            parentA7 = $('#LevelDisplay'),
+            popupA = new Picker(parentA);
+        popupA.onDone = function(color) {
+            parentA1.style.color = color.rgbaString;
+            parentA2.style.color = color.rgbaString;
+            parentA3.style.color = color.rgbaString;
+            parentA4.style.color = color.rgbaString;
+            parentA5.style.color = color.rgbaString;
+            parentA6.style.color = color.rgbaString;
+            parentA7.style.color = color.rgbaString;
+
+
+
+        };
+
+        var parentB = $('#picker2'), 
+            parentB1 = $('#dot'),
+            parentB2 = $('#line'),
+            parentB3 = $('#line1'),
+            parentB4 = $('#line2'),
+            parentB5 = $('#line3'),
+            parentB6 = $('#line4'),
+            popupB = new Picker(parentB);
+        popupB.onDone = function(color) {
+            parentB1.style.backgroundColor = color.rgbaString;
+            parentB2.style.background = "linear-gradient(-45deg,transparent," + color.rgbaString + ")";
+            parentB3.style.backgroundColor = color.rgbaString;
+            parentB4.style.backgroundColor = color.rgbaString;
+            parentB5.style.backgroundColor = color.rgbaString;
+            parentB6.style.backgroundColor = color.rgbaString;
+        };
+
+    </script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+document.getElementById('weekday').style.color = TextColor;
+document.getElementById('month').style.color = TextColor;
+document.getElementById('date').style.color = TextColor;
+document.getElementById('LevelDisplay').style.color = TextColor;
+document.getElementById('W1').style.color = TextColor;
+
+document.getElementById('Clock').style.color = TextColor;
+document.getElementById('ampm').style.color = TextColor;
+
+document.getElementById('line').style.background = "linear-gradient(-45deg,transparent," + LineColor + ")";
+document.getElementById('line1').style.backgroundColor = LineColor;
+
+document.getElementById('line2').style.backgroundColor = LineColor;
+
+document.getElementById('line3').style.backgroundColor = LineColor;
+
+document.getElementById('line4').style.backgroundColor = LineColor;
+    
+document.getElementById('dot').style.backgroundColor = LineColor;
+
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+function mainUpdate(type){
+    if(type == "weather"){
+
+
+document.getElementById('temp').innerHTML = weather.temperature + "&deg;" + weather.celsius;
+
+      document.getElementById('country').innerHTML = weather.address.country;
+
+      document.getElementById('city').innerHTML = weather.address.city;
+
+
+
+document.getElementById('weatherIcon').src = 'Stuff/' + IconWeather + "/" + weather.conditionCode + ".png";
+     
+    }
+
+    if(type == "battery"){
+
+      document.getElementById('LevelDisplay').innerHTML = "Battery"+" "+ batteryPercent + "%" + (batteryCharging? '<span style="font-size: 8px; position: relative; left: 3px; top:0px; z-index: 50" class="fas fa-bolt"></span>' : " ");;
+					
+}
+
+
+}
+</script>
+
+
+
+<script>
+(function(){
+    'use strict';
+    if (window.innerWidth === 320) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=0.85, maximum-scale=0.85, user-scalable=0');
+    } else if (window.innerWidth === 414) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.104, maximum-scale=1.104, user-scalable=0');
+    } else if (window.innerWidth === 425) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.133, maximum-scale=1.133, user-scalable=0');
+    } else if (window.innerWidth === 432) {
+        document.querySelector("meta[name=viewport]").setAttribute('content', 'width=device-width, initial-scale=1.152, maximum-scale=1.152, user-scalable=0');
+    }
+}());
+
+
+
+</script>
+
+
+
+
+
+
+<script type="text/javascript">
+
+       document.getElementById('Widget').style.webkitTransform = 'scale(' + Scale + ')';
+
+</script>
+
+
+
+
+
+
+
+
+</body>
+</html>

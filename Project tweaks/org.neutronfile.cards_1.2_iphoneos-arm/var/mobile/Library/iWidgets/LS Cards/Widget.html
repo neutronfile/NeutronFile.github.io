@@ -1,0 +1,50 @@
+<!-- HTML by mselmany (https://codepen.io/mselmany/) - Modified by Daniell -->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible">
+	<meta content="width=device-width, initial-scale=1" name="viewport">
+	<link href="css/style.css" media="screen" rel="stylesheet" type="text/css">
+	<title></title>
+</head>
+<body>
+	<div class="signboard outer">
+		<div class="signboard front inner anim04c">
+			<ul>
+				<li class="year set anim04c"><span></span></li>
+				<li style="list-style: none; display: inline">
+					<ul class="calendarMain anim04c">
+							<li class="date anim04c"><span></span></li>
+						<li class="month anim04c"><span></span></li>
+					</ul>
+				</li>
+				<li class="clock minute anim04c"><span></span></li>
+				<li class="calendarNormal set date2 anim04c"><span></span></li>
+			</ul>
+		</div>
+		<div class="signboard left inner anim04c">
+			<ul>
+				<li class="clock hour anim04c"><span></span></li>
+				<li class="clock battery anim04c"><span></span></li>
+				<li class="calendarNormal set day2 anim04c"><span></span></li>
+			</ul>
+		</div>
+		<div class="signboard right inner anim04c">
+			<ul>
+				<li class="clock wthr anim04c"><span></span></li>
+				<li class="clock deg anim04c"><span></span></li>
+				<li class="calendarNormal set month2 anim04c"><span></span></li>
+			</ul>
+		</div>
+	</div>
+	<script>
+	document.querySelector(".battery").style.display = setBattery;
+	document.querySelector(".year").style.display = setYear;
+	</script>
+	<script src="js/jquery-3.3.1.slim.min.js">
+	</script> 
+	<script src="js/functions.js">
+	</script>
+</body>
+</html>

@@ -54,6 +54,26 @@
           "text": "Development"
         },
         {
+          "class": "DepictionTableTextView",
+          "title": "Maintainer",
+          "text": "NeutronFile"
+        },
+        {
+        "class":"DepictionTableTextView",
+         "text": "org.neutronfile.ipa2deb",
+          "title": "Identifier"
+        },
+        { 
+        "class":"DepictionTableTextView",
+         "text": "2.6 KB",
+          "title": "Size"
+        }, 
+        { 
+        "class":"DepictionTableTextView",
+         "text": "Free",
+          "title": "Price"
+        },
+        {
           "class": "DepictionSpacerView"
         },
         {
@@ -75,11 +95,6 @@
         },
         {
           "class": "DepictionSeparatorView"
-        },
-        {
-          "text": "Free",
-          "title": "Price",
-          "class": "DepictionTableTextView"
         },
         {"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.ipa2deb.json","openExternal":"true","tintColor":"#2CC6AF"},
         {"class":"DepictionSpacerView"

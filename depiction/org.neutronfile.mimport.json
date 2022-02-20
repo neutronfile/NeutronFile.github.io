@@ -56,6 +56,26 @@
           "text": "Tweaks"
         },
         {
+          "class": "DepictionTableTextView",
+          "title": "Maintainer",
+          "text": "NeutronFile"
+        },
+        {
+        "class":"DepictionTableTextView",
+         "text": "org.neutronfile.mimport",
+          "title": "Identifier"
+        },
+        { 
+        "class":"DepictionTableTextView",
+         "text": "1.37 MB",
+          "title": "Size"
+        }, 
+        { 
+        "class":"DepictionTableTextView",
+         "text": "Free",
+          "title": "Price"
+        },
+        {
           "class": "DepictionSpacerView"
         },
         {
@@ -77,11 +97,6 @@
         },
         {
           "class": "DepictionSeparatorView"
-        },
-        {
-          "text": "Free",
-          "title": "Price",
-          "class": "DepictionTableTextView"
         },
         {"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.mimport.json","openExternal":"true","tintColor":"#2CC6AF"},
         {"class":"DepictionSpacerView"

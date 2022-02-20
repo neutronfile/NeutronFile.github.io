@@ -1,151 +1,171 @@
 {
-  
-  "minVersion": "0.1",
-  "headerImage": "https://i.imgur.com/lBJh7tP.jpg",
-  "tintColor": "#2CC6AF",
-  "tabs": [
-    {
-      "tabname": "Details",
-      "views": [
-        {
-          "class": "DepictionScreenshotsView",
-          "screenshots": [
-            {
-              "url": "https://i.imgur.com/WFQxZTX.png",
-              "accessibilityText": "Screenshot0"
-            },{
-              "url": "https://i.imgur.com/VHuahlc.png",
-              "accessibilityText": "Screenshot1"
-            },{
-              "url": "https://i.imgur.com/QJ4LinI.png",
-              "accessibilityText": "Screenshot1"
-            },{
-              "url": "https://i.imgur.com/FwXNGPp.png",
-              "accessibilityText": "Screenshot1"
-            }
-          ],
-          "itemCornerRadius": 8,
-          "itemSize": "{160,275}"
-        },
-        {
-          "markdown": "Awesome Download Manager for Cydia/Zebra/Installer, Multiples connections downloads!",
-          "useSpacing": "true",
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "Information"
-        },
-        {
+
+    "minVersion": "0.1",
+    "headerImage": "https://i.imgur.com/lBJh7tP.jpg",
+    "tintColor": "#2CC6AF",
+    "tabs": [{
+            "tabname": "Details",
+            "views": [{
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [{
+                        "url": "https://i.imgur.com/WFQxZTX.png",
+                        "accessibilityText": "Screenshot0"
+                    }, {
+                        "url": "https://i.imgur.com/VHuahlc.png",
+                        "accessibilityText": "Screenshot1"
+                    }, {
+                        "url": "https://i.imgur.com/QJ4LinI.png",
+                        "accessibilityText": "Screenshot1"
+                    }, {
+                        "url": "https://i.imgur.com/FwXNGPp.png",
+                        "accessibilityText": "Screenshot1"
+                    }],
+                    "itemCornerRadius": 8,
+                    "itemSize": "{160,275}"
+                },
+                {
+                    "markdown": "Awesome Download Manager for Cydia/Zebra/Installer, Multiples connections downloads!",
+                    "useSpacing": "true",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "Juioveren"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "7.1.2"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 6 to 14.x"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Tweaks"
+                },
+                {
           "class": "DepictionTableTextView",
-          "title": "Developer",
-          "text": "Juioveren"
+          "title": "Maintainer",
+          "text": "NeutronFile"
         },
         {
-          "class": "DepictionTableTextView",
-          "title": "Version",
-          "text": "7.1.2"
+        "class":"DepictionTableTextView",
+         "text": "org.neutronfile.cydown",
+          "title": "Identifier"
+        },
+        { 
+        "class":"DepictionTableTextView",
+         "text": "4.12 MB",
+          "title": "Size"
+        }, 
+        { 
+        "class":"DepictionTableTextView",
+         "text": "Free",
+          "title": "Price"
+        },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "read more",
+                    "action": "https://apt.neutronfile.org/description.html?id=org.neutronfile.cydown",
+                    "openExternal": "true",
+                    "tintColor": "#2CC6AF"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Donate",
+                    "action": "https://paypal.me/Elhizazi1",
+                    "openExternal": "true",
+                    "tintColor": "#0060C6"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                }, {
+                    "class": "DepictionButtonView",
+                    "text": "Contact Support",
+                    "action": "depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.cydown.json",
+                    "openExternal": "true",
+                    "tintColor": "#00CFF8"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }, {
+                    "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+                    "width": 89,
+                    "height": 27,
+                    "alignment": 1,
+                    "cornerRadius": 0,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "Cydown 7.1.2– Updated 2021-08",
+                    "textColor": "#999999",
+                    "fontSize": "10.0",
+                    "alignment": 1
+                }
+            ],
+            "class": "DepictionStackView"
         },
         {
-          "class": "DepictionTableTextView",
-          "title": "Compatibility",
-          "text": "iOS 6 to 14.x"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Section",
-          "text": "Tweaks"
-        },
-        {
-          "text": "Free",
-          "title": "Price",
-          "class": "DepictionTableTextView"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-       {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "read more",
-          "action": "https://apt.neutronfile.org/description.html?id=org.neutronfile.cydown",
-          "openExternal": "true",
-          "tintColor": "#2CC6AF"
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "Donate",
-          "action": "https://paypal.me/Elhizazi1",
-          "openExternal": "true",
-          "tintColor": "#0060C6"
-        },
-        {"class":"DepictionSpacerView"},{"class":"DepictionButtonView","text":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.cydown.json","openExternal":"true","tintColor":"#00CFF8"},
-        {"class":"DepictionSpacerView"},
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
-        },{
-          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-          "width": 89,
-          "height": 27,
-          "alignment": 1,
-          "cornerRadius": 0,
-          "class": "DepictionImageView"
-        },
-        {
-          "class": "DepictionLabelView",
-          "text": "Cydown 7.1.2– Updated 2021-08",
-          "textColor": "#999999",
-          "fontSize": "10.0",
-          "alignment": 1
+            "tabname": "Changelog",
+            "views": [{
+                    "class": "DepictionHeaderView",
+                    "title": "Changelog"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "7.1.2 + Option For Disable Auto Refresh Source in Zebra; + Fix Black View When installing raw .deb file in Installer; currently supports: cydia & zebra & Installer currently supports: cydia & zebra  Option For Disable in Cydia/Zebra; + More Compatibility for Zebra; "
+                }, {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }, {
+                    "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+                    "width": 89,
+                    "height": 27,
+                    "alignment": 1,
+                    "cornerRadius": 0,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "Cydown 7.1.2– Updated 2021-08",
+                    "textColor": "#999999",
+                    "fontSize": "10.0",
+                    "alignment": 1
+                }
+            ],
+            "class": "DepictionStackView"
         }
-      ],
-      "class": "DepictionStackView"
-    },
-    {
-      "tabname": "Changelog",
-      "views": [
-        {
-          "class": "DepictionHeaderView",
-          "title": "Changelog"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "7.1.2 + Option For Disable Auto Refresh Source in Zebra; + Fix Black View When installing raw .deb file in Installer; currently supports: cydia & zebra & Installer currently supports: cydia & zebra  Option For Disable in Cydia/Zebra; + More Compatibility for Zebra; "
-        },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
-        },{
-          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-          "width": 89,
-          "height": 27,
-          "alignment": 1,
-          "cornerRadius": 0,
-          "class": "DepictionImageView"
-        },
-        {
-          "class": "DepictionLabelView",
-          "text": "Cydown 7.1.2– Updated 2021-08",
-          "textColor": "#999999",
-          "fontSize": "10.0",
-          "alignment": 1
-        }
-      ],
-      "class": "DepictionStackView"
-    }
-  ],
-  "class": "DepictionTabView"
+    ],
+    "class": "DepictionTabView"
 }

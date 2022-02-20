@@ -48,7 +48,28 @@
           "class": "DepictionTableTextView",
           "title": "Section",
           "text": "Addons"
-        },{
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Maintainer",
+          "text": "NeutronFile"
+        },
+        {
+        "class":"DepictionTableTextView",
+         "text": "org.neutronfile.lynx-ar",
+          "title": "Identifier"
+        },
+        { 
+        "class":"DepictionTableTextView",
+         "text": "8.68 KB",
+          "title": "Size"
+        }, 
+        { 
+        "class":"DepictionTableTextView",
+         "text": "Free",
+          "title": "Price"
+        },
+        {
           "class": "DepictionSpacerView"
         },
         {
@@ -70,11 +91,6 @@
         },
         {
           "class": "DepictionSeparatorView"
-        },
-        {
-          "text": "Free",
-          "title": "Price",
-          "class": "DepictionTableTextView"
         },
         {"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.lynx-ar.json","openExternal":"true","tintColor":"#2CC6AF"},
         {"class":"DepictionSpacerView"

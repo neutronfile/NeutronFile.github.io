@@ -1,134 +1,179 @@
 {
+
     "minVersion": "0.1",
     "headerImage": "https://i.imgur.com/IfeACU1.png",
     "tintColor": "#2CC6AF",
     "tabs": [{
-        "tabname": "Details",
-        "views": [{
-            "class": "DepictionVideoView",
-            "URL": "https://www.youtube.com/embed/msf2LtpF_x4",
-            "width": 100,
-            "height": 95,
-            "alignment": 1,
-            "cornerRadius": 0
-        }, ],
-        "itemCornerRadius": 8,
-        "itemSize": "{160,275}"
-    }, {
-        "markdown": "disable & enable microphone, camera and GPS..",
-        "useSpacing": "true",
-        "class": "DepictionMarkdownView"
-    }, {
-        "class": "DepictionSpacerView"
-    }, {
-        "class": "DepictionHeaderView",
-        "title": "Information"
-    }, {
-        "class": "DepictionTableTextView",
-        "title": "Developer",
-        "text": "Nepeta m"
-    }, {
-        "class": "DepictionTableTextView",
-        "title": "Version",
-        "text": "0.3.2"
-    }, {
-        "class": "DepictionTableTextView",
-        "title": "Compatibility",
-        "text": "iOS 11 to 14.x"
-    }, {
-        "class": "DepictionTableTextView",
-        "title": "Section",
-        "text": "Tweaks"
-    }, {
-        "class": "DepictionTableTextView",
-        "text": "org.neutronfile.begonecia-11",
-        "title": "Identifier"
-    }, {
-        "class": "DepictionTableTextView",
-        "text": "80.86 KB",
-        "title": "Size"
-    }, {
-        "class": "DepictionTableTextView",
-        "title": "Maintainer",
-        "text": "NeutronFile"
-    }, {
-        "class": "DepictionTableTextView",
-        "text": "Free",
-        "title": "Price"
-    }, {
-        "class": "DepictionSpacerView"
-    }, {
-        "class": "DepictionTableButtonView",
-        "title": "read more",
-        "action": "https://apt.neutronfile.org/description.html?id=org.neutronfile.begonecia-11",
-        "openExternal": "true",
-        "tintColor": "#2CC6AF"
-    }, {
-        "class": "DepictionSpacerView"
-    }, {
-        "class": "DepictionTableButtonView",
-        "title": "Donate",
-        "action": "https://paypal.me/Elhizazi1",
-        "openExternal": "true",
-        "tintColor": "#2CC6AF"
-    }, {
-        "class": "DepictionSeparatorView"
-    }, {
-        "class": "DepictionSpacerView"
-    }, {
-        "class": "DepictionTableButtonView",
-        "title": "Contact Support",
-        "action": "depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.begonecia-11.json",
-        "openExternal": "true",
-        "tintColor": "#2CC6AF"
-    }, {
-        "class": "DepictionSpacerView"
-    }, {
-        "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
-        "useRawFormat": true,
-        "class": "DepictionMarkdownView"
-    }, {
-        "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-        "width": 89,
-        "height": 27,
-        "alignment": 1,
-        "cornerRadius": 0,
-        "class": "DepictionImageView"
-    }, {
-        "class": "DepictionLabelView",
-        "text": "BegoneCIA (iOS 11, 12 and 13 and 14) 0.3.2 – Updated 2021-02",
-        "textColor": "#999999",
-        "fontSize": "10.0",
-        "alignment": 1
-    }],
-    "class": "DepictionStackView" {
-        "tabname": "Changelog",
-        "views": [{
-            "class": "DepictionHeaderView",
-            "title": "Changelog"
-        }, {
-            "class": "DepictionMarkdownView",
-            "markdown": "0.3.2 ~stabel.! Full support for iOS 14.x"
-        }, {
-            "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
-            "useRawFormat": true,
-            "class": "DepictionMarkdownView"
-        }, {
-            "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-            "width": 89,
-            "height": 27,
-            "alignment": 1,
-            "cornerRadius": 0,
-            "class": "DepictionImageView"
-        }, {
-            "class": "DepictionLabelView",
-            "text": "BegoneCIA (iOS 11, 12 and 13 and 14.x) 0.3.2 – Updated 2021-06",
-            "textColor": "#999999",
-            "fontSize": "10.0",
-            "alignment": 1
-         }
-      ],
-      "class": "DepictionStackView"
-    }
-  "class": "DepictionTabView"
+            "tabname": "Details",
+            "views": [{
+        "URL": "https://www.youtube.com/embed/msf2LtpF_x4",
+          "width": 100,
+          "height": 95,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionVideoView"
+                    }],
+                    "itemCornerRadius": 8,
+                    "itemSize": "{160,275}"
+                },
+                {
+                    "markdown": "disable & enable microphone, camera and GPS..",
+                    "useSpacing": "true",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Information"
+                },
+                {
+          "class": "DepictionTableTextView",
+          "title": "Developer",
+          "text": "Nepeta m"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "0.3.2"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Compatibility",
+          "text": "iOS 11 to 13"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Tweaks"
+        },
+        {
+        "class":"DepictionTableTextView",
+         "text": "org.neutronfile.begonecia-11",
+          "title": "Identifier"
+        },
+        { 
+        "class":"DepictionTableTextView",
+         "text": "80.86 KB",
+          "title": "Size"
+        }, 
+        {
+          "class": "DepictionTableTextView",
+          "title": "Maintainer",
+          "text": "NeutronFile"
+        },
+        { 
+        "class":"DepictionTableTextView",
+         "text": "Free",
+          "title": "Price"
+        },
+        {
+        "class":"DepictionTableTextView",
+         "text": "org.neutronfile.begonecia-11",
+          "title": "Identifier"
+        },
+        { 
+        "class":"DepictionTableTextView",
+         "text": "80.86 KB",
+          "title": "Size"
+        }, 
+        { 
+        "class":"DepictionTableTextView",
+         "text": "Free",
+          "title": "Price"
+        },
+        {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "read more",
+                    "action": "https://apt.neutronfile.org/description.html?id=org.neutronfile.begonecia-11",
+                    "openExternal": "true",
+                    "tintColor": "#2CC6AF"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Donate",
+                    "action": "https://paypal.me/Elhizazi1",
+                    "openExternal": "true",
+                    "tintColor": "#0060C6"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                }, {
+                    "class": "DepictionButtonView",
+                    "text": "Contact Support",
+                    "action": "depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.begonecia-11.json",
+                    "openExternal": "true",
+                    "tintColor": "#00CFF8"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }, {
+                    "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+                    "width": 89,
+                    "height": 27,
+                    "alignment": 1,
+                    "cornerRadius": 0,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "BegoneCIA (iOS 11, 12 and 13 and 14.x) 0.3.2 – Updated 2021-02",
+                    "textColor": "#999999",
+                    "fontSize": "10.0",
+                    "alignment": 1
+                }
+            ],
+            "class": "DepictionStackView"
+        },
+        {
+            "tabname": "Changelog",
+            "views": [{
+                    "class": "DepictionHeaderView",
+                    "title": "Changelog"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "0.3.2 ~stabel.! Full support for iOS 14.x "
+                }, {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }, {
+                    "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+                    "width": 89,
+                    "height": 27,
+                    "alignment": 1,
+                    "cornerRadius": 0,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "BegoneCIA (iOS 11, 12 and 13 and 14.x) 0.3.2 – Updated 2021-06",
+                    "textColor": "#999999",
+                    "fontSize": "10.0",
+                    "alignment": 1
+                }
+            ],
+            "class": "DepictionStackView"
+        }
+    ],
+    "class": "DepictionTabView"
 }

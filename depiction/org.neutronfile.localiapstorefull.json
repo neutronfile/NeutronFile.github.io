@@ -50,6 +50,26 @@
           "text": "Tweaks"
         },
         {
+          "class": "DepictionTableTextView",
+          "title": "Maintainer",
+          "text": "NeutronFile"
+        },
+        {
+        "class":"DepictionTableTextView",
+         "text": "org.neutronfile.localiapstorefull",
+          "title": "Identifier"
+        },
+        { 
+        "class":"DepictionTableTextView",
+         "text": "3.63 KB",
+          "title": "Size"
+        }, 
+        { 
+        "class":"DepictionTableTextView",
+         "text": "Free",
+          "title": "Price"
+        },
+        {
           "class": "DepictionSpacerView"
         },
         {
@@ -72,11 +92,6 @@
         {
           "class": "DepictionSeparatorView"
         },
-        {
-          "text": "Free",
-          "title": "Price",
-          "class": "DepictionTableTextView"
-        },
         {"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.localiapstorefull.json","openExternal":"true","tintColor":"#2CC6AF"},
         {"class":"DepictionSpacerView"
         },{
@@ -93,7 +108,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "Localiapstore13 1.5– Updated 2020-06",
+          "text": "LocalIAPStoreFull 1.5– Updated 2020-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1
@@ -125,7 +140,7 @@
         },
         {
            "class": "DepictionLabelView",
-          "text": "Localiapstore13 1.5– Updated 2021-06",
+          "text": "LocalIAPStoreFull 1.5– Updated 2021-06",
           "textColor": "#999999",
           "fontSize": "10.0",
           "alignment": 1

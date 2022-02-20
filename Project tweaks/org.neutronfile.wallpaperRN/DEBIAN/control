@@ -1,0 +1,18 @@
+Author: elhizazi1 <elhizazi1@gmail.com>
+Maintainer: NeutronFile <neutronfile19@gmail.com>
+Package: org.neutronfile.wallpaperRN
+Name: WallpaperRN
+Depends: firmware (>= 7.0),
+Section: Wallpaper
+Installed-Size: 
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: extend your wallpaper's library
+Homepage: https://neutronfile.org
+Twitter: https://twitter.com/NeutronFile
+Donate: https://paypal.me/Elhizazi
+Sponsor: NeutronFile.org <http://neutronfile.org/>
+SileoDepiction: https://apt.neutronfile.org/depiction/org.neutronfile.wallpaperRN.json
+Depection: https://apt.neutronfile.org/description.html?id=org.neutronfile.wallpaperRN
+dev: elhizazi1
+Icon: https://i.imgur.com/
