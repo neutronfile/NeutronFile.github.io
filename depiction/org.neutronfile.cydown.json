@@ -56,25 +56,25 @@
                     "text": "Tweaks"
                 },
                 {
-          "class": "DepictionTableTextView",
-          "title": "Maintainer",
-          "text": "NeutronFile"
-        },
-        {
-        "class":"DepictionTableTextView",
-         "text": "org.neutronfile.cydown",
-          "title": "Identifier"
-        },
-        { 
-        "class":"DepictionTableTextView",
-         "text": "4.12 MB",
-          "title": "Size"
-        }, 
-        { 
-        "class":"DepictionTableTextView",
-         "text": "Free",
-          "title": "Price"
-        },
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer",
+                    "text": "NeutronFile"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "org.neutronfile.cydown",
+                    "title": "Identifier"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "4.12 MB",
+                    "title": "Size"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Free",
+                    "title": "Price"
+                },
                 {
                     "class": "DepictionSeparatorView"
                 },

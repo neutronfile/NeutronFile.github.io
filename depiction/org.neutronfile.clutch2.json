@@ -1,163 +1,168 @@
 {
-  "minVersion": "0.1",
-  "headerImage": "https://i.imgur.com/wHhGl48.png",
-  "tintColor": "#2CC6AF",
-  "tabs": [
-    {
-      "tabname": "Details",
-      "views": [
-        {
-          "class": "DepictionTableButtonView",
-          "title": "Show video tutorials in Youtube",
-          "action": "https://www.youtube.com/embed/Lq061zT56F0",
-          "openExternal": "true",
-          "tintColor": "#2CC6AF"
-        },
-      {
-          "class": "DepictionScreenshotsView",
-          "screenshots": [
-            {
-              "url": "https://www.youtube.com/embed/Lq061zT56F0",
-              "accessibilityText": "Screenshot0"
+    "minVersion": "0.1",
+    "headerImage": "https://i.imgur.com/wHhGl48.png",
+    "tintColor": "#2CC6AF",
+    "tabs": [{
+                "tabname": "Details",
+                "views": [{
+                        "class": "DepictionTableButtonView",
+                        "title": "Show video tutorials in Youtube",
+                        "action": "https://www.youtube.com/embed/Lq061zT56F0",
+                        "openExternal": "true",
+                        "tintColor": "#2CC6AF"
+                    },
+                    {
+                        "class": "DepictionScreenshotsView",
+                        "screenshots": [{
+                                "url": "https://www.youtube.com/embed/Lq061zT56F0",
+                                "accessibilityText": "Screenshot0"
+                            } {
+                                "markdown": "Crack app to ipa on terminal .cmd1: Clutch2 ,cmd2:Clutch2 -i & cmd3: Clutch2 -d ",
+                                "useSpacing": "true",
+                                "class": "DepictionMarkdownView"
+                            },
+                            {
+                                "class": "DepictionSpacerView"
+                            },
+                            {
+                                "spacing": 12,
+                                "class": "DepictionSpacerView"
+                            },
+                            {
+                                "spacing": 20,
+                                "class": "DepictionSpacerView"
+                            },
+                            {
+                                "class": "DepictionHeaderView",
+                                "title": "Information"
+                            },
+                            {
+                                "class": "DepictionTableTextView",
+                                "title": "Developer",
+                                "text": "NeutronFile"
+                            },
+                            {
+                                "class": "DepictionTableTextView",
+                                "title": "Version",
+                                "text": "1.1~stable"
+                            },
+                            {
+                                "class": "DepictionTableTextView",
+                                "title": "Compatibility",
+                                "text": "iOS 7 to 13"
+                            },
+                            {
+                                "class": "DepictionTableTextView",
+                                "title": "Section",
+                                "text": "Development"
+                            },
+                            {
+                                "class": "DepictionTableTextView",
+                                "title": "Maintainer",
+                                "text": "NeutronFile"
+                            },
+                            {
+                                "class": "DepictionTableTextView",
+                                "text": "org.neutronfile.clutch2",
+                                "title": "Identifier"
+                            },
+                            {
+                                "class": "DepictionTableTextView",
+                                "text": "446.89 KB",
+                                "title": "Size"
+                            },
+                            {
+                                "class": "DepictionTableTextView",
+                                "text": "Free",
+                                "title": "Price"
+                            },
+                            {
+                                "class": "DepictionSpacerView"
+                            },
+                            {
+                                "class": "DepictionButtonView",
+                                "text": "read more",
+                                "action": "https://apt.neutronfile.org/description.html?id=org.neutronfile.clutch2",
+                                "openExternal": "true",
+                                "tintColor": "#2CC6AF"
+                            },
+                            {
+                                "class": "DepictionSpacerView"
+                            },
+                            {
+                                "class": "DepictionButtonView",
+                                "text": "Donate",
+                                "action": "https://paypal.me/Elhizazi1",
+                                "openExternal": "true",
+                                "tintColor": "#2CC6AF"
+                            },
+                            {
+                                "class": "DepictionSeparatorView"
+                            },
+                            {
+                                "class": "DepictionSpacerView"
+                            }, {
+                                "class": "DepictionButtonView",
+                                "text": "Contact Support",
+                                "action": "depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.clutch2.json",
+                                "openExternal": "true",
+                                "tintColor": "#2CC6AF"
+                            },
+                            {
+                                "class": "DepictionSpacerView"
+                            }, {
+                                "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
+                                "useRawFormat": true,
+                                "class": "DepictionMarkdownView"
+                            }, {
+                                "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+                                "width": 89,
+                                "height": 27,
+                                "alignment": 1,
+                                "cornerRadius": 0,
+                                "class": "DepictionImageView"
+                            },
+                            {
+                                "class": "DepictionLabelView",
+                                "text": "Clutch 1.1~stable – Updated 2021-02",
+                                "textColor": "#999999",
+                                "fontSize": "10.0",
+                                "alignment": 1
+                            }
+                        ],
+                        "class": "DepictionStackView"
+                    },
+                    {
+                        "tabname": "Changelog",
+                        "views": [{
+                                "class": "DepictionHeaderView",
+                                "title": "Changelog"
+                            },
+                            {
+                                "class": "DepictionMarkdownView",
+                                "markdown": "1.1~stabel.! Full support for iOS 14.X"
+                            }, {
+                                "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
+                                "useRawFormat": true,
+                                "class": "DepictionMarkdownView"
+                            }, {
+                                "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+                                "width": 89,
+                                "height": 27,
+                                "alignment": 1,
+                                "cornerRadius": 0,
+                                "class": "DepictionImageView"
+                            },
+                            {
+                                "class": "DepictionLabelView",
+                                "text": "Clutch 1.1~stable – Updated 2021-02",
+                                "textColor": "#999999",
+                                "fontSize": "10.0",
+                                "alignment": 1
+                            }
+                        ],
+                        "class": "DepictionStackView"
+                    }
+                ],
+                "class": "DepictionTabView"
             }
-        {
-          "markdown": "Crack app to ipa on terminal .cmd1: Clutch2 ,cmd2:Clutch2 -i & cmd3: Clutch2 -d ",
-          "useSpacing": "true",
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "spacing": 12,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "spacing": 20,
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "Information"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Developer",
-          "text": "NeutronFile"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Version",
-          "text": "1.1~stable"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Compatibility",
-          "text": "iOS 7 to 13"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Section",
-          "text": "Development"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Maintainer",
-          "text": "NeutronFile"
-        },
-        {
-        "class":"DepictionTableTextView",
-         "text": "org.neutronfile.clutch2",
-          "title": "Identifier"
-        },
-        { 
-        "class":"DepictionTableTextView",
-         "text": "446.89 KB",
-          "title": "Size"
-        }, 
-        { 
-        "class":"DepictionTableTextView",
-         "text": "Free",
-          "title": "Price"
-        },
-         {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionTableButtonView",
-          "title": "read more",
-          "action": "https://apt.neutronfile.org/description.html?id=org.neutronfile.clutch2",
-          "openExternal": "true",
-          "tintColor": "#2CC6AF"
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionTableButtonView",
-          "title": "Donate",
-          "action": "https://paypal.me/Elhizazi1",
-          "openExternal": "true",
-          "tintColor": "#2CC6AF"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.clutch2.json","openExternal":"true","tintColor":"#2CC6AF"},
-        {"class":"DepictionSpacerView"},{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
-        },{
-          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-          "width": 89,
-          "height": 27,
-          "alignment": 1,
-          "cornerRadius": 0,
-          "class": "DepictionImageView"
-        },
-        {
-          "class": "DepictionLabelView",
-          "text": "Clutch 1.1~stable – Updated 2021-02",
-          "textColor": "#999999",
-          "fontSize": "10.0",
-          "alignment": 1
-        }
-      ],
-      "class": "DepictionStackView"
-    },
-    {
-      "tabname": "Changelog",
-      "views": [
-        {
-          "class": "DepictionHeaderView",
-          "title": "Changelog"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "1.1~stabel.! Full support for iOS 14.X"
-        },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
-        },{
-          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-          "width": 89,
-          "height": 27,
-          "alignment": 1,
-          "cornerRadius": 0,
-          "class": "DepictionImageView"
-        },
-        {
-          "class": "DepictionLabelView",
-          "text": "Clutch 1.1~stable – Updated 2021-02",
-          "textColor": "#999999",
-          "fontSize": "10.0",
-          "alignment": 1
-        }
-      ],
-      "class": "DepictionStackView"
-    }
-  ],
-  "class": "DepictionTabView"
-}

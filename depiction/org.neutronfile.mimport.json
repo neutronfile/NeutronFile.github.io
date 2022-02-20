@@ -1,159 +1,163 @@
 {
-  "minVersion": "0.1",
-  "headerImage": "https://i.imgur.com/qXc23qV.png",
-  "tintColor": "#2CC6AF",
-  "tabs": [
-    {
-      "tabname": "Details",
-      "views": [
-        {
-          "class": "DepictionTableButtonView",
-          "title": "Show video tutorials in Youtube",
-          "action": "https://www.youtube.com/embed/NEtXmK5jDMs",
-          "openExternal": "true",
-          "tintColor": "#2CC6AF"
-        },{
-          "class": "DepictionScreenshotsView",
-          "screenshots": [
-            {
-              "url": "https://i.imgur.com/uxYT4W0.png",
-              "accessibilityText": "Screenshot0"
-            }
+    "minVersion": "0.1",
+    "headerImage": "https://i.imgur.com/qXc23qV.png",
+    "tintColor": "#2CC6AF",
+    "tabs": [{
+            "tabname": "Details",
+            "views": [{
+                    "class": "DepictionTableButtonView",
+                    "title": "Show video tutorials in Youtube",
+                    "action": "https://www.youtube.com/embed/NEtXmK5jDMs",
+                    "openExternal": "true",
+                    "tintColor": "#2CC6AF"
+                }, {
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [{
+                        "url": "https://i.imgur.com/uxYT4W0.png",
+                        "accessibilityText": "Screenshot0"
+                    }],
+                    "itemCornerRadius": 8,
+                    "itemSize": "{160,275}"
+                },
+                {
+                    "markdown": "Media Importer Directly From Music App.",
+                    "useSpacing": "true",
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "Julioveren"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "0.0~beta40"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 8 to 14"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Section",
+                    "text": "Tweaks"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Maintainer",
+                    "text": "NeutronFile"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "org.neutronfile.mimport",
+                    "title": "Identifier"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.37 MB",
+                    "title": "Size"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Free",
+                    "title": "Price"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "read more",
+                    "action": "https://apt.neutronfile.org/description.html?id=org.neutronfile.mimport",
+                    "openExternal": "true",
+                    "tintColor": "#2CC6AF"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "class": "DepictionButtonView",
+                    "text": "Donate",
+                    "action": "https://paypal.me/Elhizazi1",
+                    "openExternal": "true",
+                    "tintColor": "#2CC6AF"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                }, {
+                    "class": "DepictionButtonView",
+                    "text": "Contact Support",
+                    "action": "depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.mimport.json",
+                    "openExternal": "true",
+                    "tintColor": "#2CC6AF"
+                },
+                {
+                    "class": "DepictionSpacerView"
+                }, {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }, {
+                    "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+                    "width": 89,
+                    "height": 27,
+                    "alignment": 1,
+                    "cornerRadius": 0,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "MImport 0.0~beta40 – Updated 2021-02",
+                    "textColor": "#999999",
+                    "fontSize": "10.0",
+                    "alignment": 1
+                }
             ],
-          "itemCornerRadius": 8,
-          "itemSize": "{160,275}"
+            "class": "DepictionStackView"
         },
         {
-          "markdown": "Media Importer Directly From Music App.",
-          "useSpacing": "true",
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "Information"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Developer",
-          "text": "Julioveren"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Version",
-          "text": "0.0~beta40"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Compatibility",
-          "text": "iOS 8 to 14"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Section",
-          "text": "Tweaks"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "title": "Maintainer",
-          "text": "NeutronFile"
-        },
-        {
-        "class":"DepictionTableTextView",
-         "text": "org.neutronfile.mimport",
-          "title": "Identifier"
-        },
-        { 
-        "class":"DepictionTableTextView",
-         "text": "1.37 MB",
-          "title": "Size"
-        }, 
-        { 
-        "class":"DepictionTableTextView",
-         "text": "Free",
-          "title": "Price"
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionTableButtonView",
-          "title": "read more",
-          "action": "https://apt.neutronfile.org/description.html?id=org.neutronfile.mimport",
-          "openExternal": "true",
-          "tintColor": "#2CC6AF"
-        },
-        {
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionTableButtonView",
-          "title": "Donate",
-          "action": "https://paypal.me/Elhizazi1",
-          "openExternal": "true",
-          "tintColor": "#2CC6AF"
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {"class":"DepictionSpacerView"},{"class":"DepictionTableButtonView","title":"Contact Support","action":"depiction-https://NeutronFile.github.io/depiction/help/org.neutronfile.mimport.json","openExternal":"true","tintColor":"#2CC6AF"},
-        {"class":"DepictionSpacerView"
-        },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
-        },{
-          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-          "width": 89,
-          "height": 27,
-          "alignment": 1,
-          "cornerRadius": 0,
-          "class": "DepictionImageView"
-        },
-        {
-          "class": "DepictionLabelView",
-          "text": "MImport 0.0~beta40 – Updated 2021-02",
-          "textColor": "#999999",
-          "fontSize": "10.0",
-          "alignment": 1
+            "tabname": "Changelog",
+            "views": [{
+                    "class": "DepictionHeaderView",
+                    "title": "Changelog"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "0.0~beta40 ~stabel.! Full support for iOS 14"
+                }, {
+                    "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                }, {
+                    "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+                    "width": 89,
+                    "height": 27,
+                    "alignment": 1,
+                    "cornerRadius": 0,
+                    "class": "DepictionImageView"
+                },
+                {
+                    "class": "DepictionLabelView",
+                    "text": "MImport 0.0~beta38 – Updated 2020-06",
+                    "textColor": "#999999",
+                    "fontSize": "10.0",
+                    "alignment": 1
+                }
+            ],
+            "class": "DepictionStackView"
         }
-      ],
-      "class": "DepictionStackView"
-    },
-    {
-      "tabname": "Changelog",
-      "views": [
-        {
-          "class": "DepictionHeaderView",
-          "title": "Changelog"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "0.0~beta40 ~stabel.! Full support for iOS 14"
-        },{
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2020.</small><style>body { text-align: center; }</style>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
-        },{
-          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-          "width": 89,
-          "height": 27,
-          "alignment": 1,
-          "cornerRadius": 0,
-          "class": "DepictionImageView"
-        },
-        {
-          "class": "DepictionLabelView",
-          "text": "MImport 0.0~beta38 – Updated 2020-06",
-          "textColor": "#999999",
-          "fontSize": "10.0",
-          "alignment": 1
-        }
-      ],
-      "class": "DepictionStackView"
-    }
-  ],
-  "class": "DepictionTabView"
+    ],
+    "class": "DepictionTabView"
 }

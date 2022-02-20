@@ -1,78 +1,131 @@
-{"class":"DepictionStackView","tintColor":"#2CC6AF","title":"Contact Support","views":[{"class":"DepictionMarkdownView","markdown":"If you need help with \"LocaliApStore\", you can contact PocketMine Team , the developer, via e-mail."},{"class":"DepictionTableButtonView","title":"Email Developer","action":"mailto:elhizazi1@gmail.com","openExternal":"true","tintColor":"#2CC6AF"},{"class":"DepictionMarkdownView","markdown":"NeutronFile is the maintainer of the package \"LocaliApStore\". Please contact them via email for any questions on this version of the package."},{"class":"DepictionTableButtonView","title":"Email Maintainer","action":"mailto:neutronfile19@gmail.com","openExternal":"true","tintColor":"#2CC6AF"},{"class":"DepictionMarkdownView","markdown":"If you found a mistake in the depiction or cannot download the package, you can reach out to the maintainer of the \"NeutronFile Tweaks n Things\" repo, NeutronFile."},{"class":"DepictionTableButtonView","title":"Email Repo Maintainer","action":"mailto:neutronfile19@gmail.com","openExternal":"true","tintColor":"#2CC6AF"},{"class":"DepictionMarkdownView","markdown":"You can also contact the repo owner via the following sites:"},{"class":"DepictionButtonView","text":"Whatsapp","action":"https://api.whatsapp.com/send?phone=212670377089","openExternal":"true","tintColor":"#32965D"},{"class":"DepictionButtonView","text":"Messenger","action":"https://m.me/elhizazi1","openExternal":"true","tintColor":"#7F2982"},{
-          "class": "DepictionButtonView",
-          "text": "support",
-          "action": "https://www.neutronfile.org/p/contact-us.html",
-          "openExternal": "true",
-          "tintColor": "#477D76"
-        },
-{"class":"DepictionButtonView","text":"Website","action":"https://neutronfile.org","openExternal":"true","tintColor":"#2CC6AF"},{
-          "class": "DepictionSpacerView"
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "Social"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "join their Twitter",
-          "action": "https://twitter.com/NeutronFile",
-          "openExternal": "true",
-          "tintColor": "#51BBFE"
-        },{
-          "class": "DepictionButtonView",
-          "text": "join their Facebook",
-          "action": "https://www.facebook.com/NeutronFile1/",
-          "openExternal": "true",
-          "tintColor": "#3767AB"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "Subscribe Youtube",
-          "action": "https://www.youtube.com/channel/UC17ltgR3qD4CfcDq7YycyCQ?view_as=subscriber",
-          "openExternal": "true",
-          "tintColor": "#D64933"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "join their Instagram",
-          "action": "https://www.instagram.com/neutronfile1/",
-          "openExternal": "true",
-          "tintColor": "#DE639A"
-        },
-        {
-          "class": "DepictionButtonView",
-          "text": "join their Github",
-          "action": "https://github.com/elhizazi",
-          "openExternal": "true",
-          "tintColor": "#252627"
-        },{
-          "class": "DepictionButtonView",
-          "text": "join their Discord",
-          "action": "https://discord.com/channels/669585645915734057/669585645915734063",
-          "openExternal": "true",
-          "tintColor": "#3772FF"
-        },
-        {"class":"DepictionSpacerView"
+{
+    "class": "DepictionStackView",
+    "tintColor": "#2CC6AF",
+    "title": "Contact Support",
+    "views": [{
+            "class": "DepictionMarkdownView",
+            "markdown": "If you need help with \"LocaliApStore\", you can contact PocketMine Team , the developer, via e-mail."
+        }, {
+            "class": "DepictionTableButtonView",
+            "title": "Email Developer",
+            "action": "mailto:elhizazi1@gmail.com",
+            "openExternal": "true",
+            "tintColor": "#2CC6AF"
+        }, {
+            "class": "DepictionMarkdownView",
+            "markdown": "NeutronFile is the maintainer of the package \"LocaliApStore\". Please contact them via email for any questions on this version of the package."
+        }, {
+            "class": "DepictionTableButtonView",
+            "title": "Email Maintainer",
+            "action": "mailto:neutronfile19@gmail.com",
+            "openExternal": "true",
+            "tintColor": "#2CC6AF"
+        }, {
+            "class": "DepictionMarkdownView",
+            "markdown": "If you found a mistake in the depiction or cannot download the package, you can reach out to the maintainer of the \"NeutronFile Tweaks n Things\" repo, NeutronFile."
+        }, {
+            "class": "DepictionTableButtonView",
+            "title": "Email Repo Maintainer",
+            "action": "mailto:neutronfile19@gmail.com",
+            "openExternal": "true",
+            "tintColor": "#2CC6AF"
+        }, {
+            "class": "DepictionMarkdownView",
+            "markdown": "You can also contact the repo owner via the following sites:"
+        }, {
+            "class": "DepictionButtonView",
+            "text": "Whatsapp",
+            "action": "https://api.whatsapp.com/send?phone=212670377089",
+            "openExternal": "true",
+            "tintColor": "#32965D"
+        }, {
+            "class": "DepictionButtonView",
+            "text": "Messenger",
+            "action": "https://m.me/elhizazi1",
+            "openExternal": "true",
+            "tintColor": "#7F2982"
+        }, {
+            "class": "DepictionButtonView",
+            "text": "support",
+            "action": "https://www.neutronfile.org/p/contact-us.html",
+            "openExternal": "true",
+            "tintColor": "#477D76"
         },
         {
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
-        },{
-          "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
-          "width": 89,
-          "height": 27,
-          "alignment": 1,
-          "cornerRadius": 0,
-          "class": "DepictionImageView"
+            "class": "DepictionButtonView",
+            "text": "Website",
+            "action": "https://neutronfile.org",
+            "openExternal": "true",
+            "tintColor": "#2CC6AF"
+        }, {
+            "class": "DepictionSpacerView"
         },
         {
-          "class": "DepictionLabelView",
-          "text": "Created By elhizazi1",
-          "textColor": "#999999",
-          "fontSize": "10.0",
-          "alignment": 1
+            "class": "DepictionHeaderView",
+            "title": "Social"
+        },
+        {
+            "class": "DepictionButtonView",
+            "text": "join their Twitter",
+            "action": "https://twitter.com/NeutronFile",
+            "openExternal": "true",
+            "tintColor": "#51BBFE"
+        }, {
+            "class": "DepictionButtonView",
+            "text": "join their Facebook",
+            "action": "https://www.facebook.com/NeutronFile1/",
+            "openExternal": "true",
+            "tintColor": "#3767AB"
+        },
+        {
+            "class": "DepictionButtonView",
+            "text": "Subscribe Youtube",
+            "action": "https://www.youtube.com/channel/UC17ltgR3qD4CfcDq7YycyCQ?view_as=subscriber",
+            "openExternal": "true",
+            "tintColor": "#D64933"
+        },
+        {
+            "class": "DepictionButtonView",
+            "text": "join their Instagram",
+            "action": "https://www.instagram.com/neutronfile1/",
+            "openExternal": "true",
+            "tintColor": "#DE639A"
+        },
+        {
+            "class": "DepictionButtonView",
+            "text": "join their Github",
+            "action": "https://github.com/elhizazi",
+            "openExternal": "true",
+            "tintColor": "#252627"
+        }, {
+            "class": "DepictionButtonView",
+            "text": "join their Discord",
+            "action": "https://discord.com/channels/669585645915734057/669585645915734063",
+            "openExternal": "true",
+            "tintColor": "#3772FF"
+        },
+        {
+            "class": "DepictionSpacerView"
+        },
+        {
+            "markdown": "<small style=\"color: #aaa; font-size: 8pt;\"> NeutronFile © 2022.</small><style>body { text-align: center; }</style>",
+            "useRawFormat": true,
+            "class": "DepictionMarkdownView"
+        }, {
+            "URL": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/images/logoneutron.png",
+            "width": 89,
+            "height": 27,
+            "alignment": 1,
+            "cornerRadius": 0,
+            "class": "DepictionImageView"
+        },
+        {
+            "class": "DepictionLabelView",
+            "text": "Created By elhizazi1",
+            "textColor": "#999999",
+            "fontSize": "10.0",
+            "alignment": 1
         }
-      ],
-      "class": "DepictionStackView"
-    }
+    ],
+    "class": "DepictionStackView"
+}
