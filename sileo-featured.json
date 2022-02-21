@@ -1,70 +1,78 @@
 {
-  "class": "FeaturedBannersView",
-  "itemSize": "{263, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-       "url":"https://i.imgur.com/mJfcOph.jpg",
-       "title":"VivaVideo VIP",   "package":"org.neutronfile.vivavideovip",
-       "hideShadow":false
-    },
-    {
-       "url":"https://i.imgur.com/pdmhP8H.jpg",
-       "title":"PicsArt Gold",       "package":"org.neutronfile.picsartgold",
-       "hideShadow":false
-    },
-    {
-       "url":"https://i.imgur.com/lBJh7tP.jpg",
-       "title":"Cydown",       "package":"org.neutronfile.cydown",
-       "hideShadow":false
-    },
-    {
-       "url":"https://i.imgur.com/qXc23qV.png",
-       "title":"Mimport",
-       "package":"org.neutronfile.mimport",
-       "hideShadow":false
-    },
-    {
-       "url":"https://i.imgur.com/sRYkCdG.png",
-       "title":"JBZcarrier",
-       "package":"org.neutronfile.jbzcarrier",
-       "hideShadow":false
-    },
-    {
-       "url":"https://i.imgur.com/pBG7ir3.jpg",
-       "title":"KineMaster",
-       "package":"org.neutronfile.kinemasterpro",
-       "hideShadow":false
-    },
-    {
-       "url":"https://i.imgur.com/4forDJS.jpg",
-       "title":"Newtermtm",
-       "package":"org.neutronfile.newtermtm",
-       "hideShadow":false
-    },
-    {
-       "url":"https://i.imgur.com/M2710Iq.png",
-       "title":"Lynx",
-       "package":"org.neutronfile.lynx",
-       "hideShadow":false
-    },
-    {
-       "url":"https://i.imgur.com/IfeACU1.png",
-       "title":"Begonecia-11",
-       "package":"org.neutronfile.begonecia-11",
-       "hideShadow":false
-    },
-    {
-       "url":"https://i.imgur.com/S5YwbdX.png",
-       "title":"checkra1n respring logo",
-       "package":"org.neutronfile.checkra1n-respring-logo",
-       "hideShadow":false
-    },
-    {
-       "url":"https://i.imgur.com/wiMfCOB.png",
-       "title":"Gravity",
-     "package":"org.neutronfile.gravity",
-       "hideShadow":false
-    },
-  ]
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius": 10,
+    "banners": [{
+            "url": "https://i.imgur.com/mJfcOph.jpg",
+            "title": "VivaVideo VIP",
+            "package": "org.neutronfile.vivavideovip",
+            "hideShadow": false
+        },
+        {
+            "url": "https://i.imgur.com/lBJh7tP.jpg",
+            "title": "Cydown",
+            "package": "org.neutronfile.cydown",
+            "hideShadow": false
+        },
+        {
+            "url": "https://i.imgur.com/qXc23qV.png",
+            "title": "Mimport",
+            "package": "org.neutronfile.mimport",
+            "hideShadow": false
+        },
+        {
+            "url": "https://i.imgur.com/sRYkCdG.png",
+            "title": "JBZcarrier",
+            "package": "org.neutronfile.jbzcarrier",
+            "hideShadow": false
+        },
+        {
+            "url": "https://i.imgur.com/4forDJS.jpg",
+            "title": "Newtermtm",
+            "package": "org.neutronfile.newtermtm",
+            "hideShadow": false
+        },
+        {
+            "url": "https://i.imgur.com/M2710Iq.png",
+            "title": "Lynx",
+            "package": "org.neutronfile.lynx",
+            "hideShadow": false
+        },
+        {
+            "url": "https://i.imgur.com/IfeACU1.png",
+            "title": "Begonecia-11",
+            "package": "org.neutronfile.begonecia-11",
+            "hideShadow": false
+        },
+        {
+            "url": "https://i.imgur.com/S5YwbdX.png",
+            "title": "checkra1n respring logo",
+            "package": "org.neutronfile.checkra1n-respring-logo",
+            "hideShadow": false
+        },
+        {
+            "url": "https://i.imgur.com/wiMfCOB.png",
+            "title": "Gravity",
+            "package": "org.neutronfile.gravity",
+            "hideShadow": false
+        },
+        {
+            "url": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/screenshot/viewsourcebanner.jpg",
+            "title": "View Source",
+            "package": "org.neutronfile.viewsource",
+            "hideShadow": false
+        },
+        {
+            "url": "https://i.imgur.com/pBG7ir3.jpg",
+            "title": "KineMaster",
+            "package": "org.neutronfile.kinemasterpro",
+            "hideShadow": false
+        },
+        {
+            "url": "https://i.imgur.com/pdmhP8H.jpg",
+            "title": "PicsArt Gold",
+            "package": "org.neutronfile.picsartgold",
+            "hideShadow": false
+        },
+    ]
 }

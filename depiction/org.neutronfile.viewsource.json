@@ -1,16 +1,16 @@
 {
     "minVersion": "0.1",
-    "headerImage": "###",
+    "headerImage": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/screenshot/viewsourcebanner.jpg",
     "tintColor": "#2CC6AF",
     "tabs": [{
             "tabname": "Details",
             "views": [{
                     "class": "DepictionScreenshotsView",
                     "screenshots": [{
-                        "url": "https://i.imgur.com/Qbz8Gq5.png",
+                        "url": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/screenshot/viewsource1.png",
                         "accessibilityText": "Screenshot0"
                     }, {
-                        "url": "https://i.imgur.com/SXDIh3d.png",
+                        "url": "https://raw.githubusercontent.com/neutronfile/NeutronFile/master/screenshot/viewsource2.png",
                         "accessibilityText": "Screenshot1"
                     }],
                     "itemCornerRadius": 8,
