@@ -855,6 +855,33 @@ Name: redeb
 Depiction: https://apt.neutronfile.org/description.html?id=org.neutronfile.redeb
 Author: NeutronFile <neutronfile19@gmail.com>
 
+Package: org.neutronfile.reprovision
+Architecture: iphoneos-arm
+Version: 0.6.0~release
+Priority: optional
+Section: System
+Maintainer: NeutronFile
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Filename: ./debfiles//org.neutronfile.reprovision_0.6.0~release_iphoneos-arm_NeutronFile.deb
+Size: 15950106
+MD5sum: 72953a0dbe008c0a1a34d489e6769d1a
+SHA1: abd0e5e835bb5921eba342ebf2873fd9a993c80c
+SHA256: 892b970c733f9c9f25dc923ce0c77ba89de585ee6612fc37fc967da821a9de03
+SHA512: f1adc8643033c1484fc21acbaea3732d1da1455261cefd7c866b7625f0338f0ede7e01c1b0857e347804d6775daa0a3fd255f44bf750687aeadffe5efd9e3597
+Homepage: https://neutronfile.org
+Description: Re-sign applications on your device
+Name: ReProvision Reborn
+Author: Soh Satoh, Matt Clarke
+dev: Matt Clarke
+Twitter: @NeutronFile <https://twitter.com/NeutronFile/>
+Donate: https://paypal.me/Elhizazi
+Sponsor: NeutronFile.org <http://neutronfile.org/>
+SileoDepiction: https://apt.neutronfile.org/depiction/org.neutronfile.reprovision.json
+Depiction: http://apt.neutronfile.org/description.html?id=org.neutronfile.reprovision
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+
 Package: org.neutronfile.starvpnunlock
 Architecture: iphoneos-arm
 Version: 0.0.2
